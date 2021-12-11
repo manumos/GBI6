@@ -1,11 +1,8 @@
 #!/bin/bash
 #Este script busca determinar el número de filas (polinizadores) y columnas (plantas) del los archivos .txt contenido sen el directorio CSB/unix/data/Saavedra2013.
 #1. Determinar el número de filas = POLINIZADORES
-wc -l $1 > POL.txt
-#imprimir el número de POLINIZADORES
-echo  "POLINIZADORES = " | cat POL.txt
+wc -l $1 > netsize.txt
+cat netsize.txt
 #2. Determinar el número de columnas = PLANTAS
-$1 | cut -d " " > PLA.txt
-#imprimir el numero de PLANTAS
-echo "PLANTAS = " |cat PLA.txt
+#$1 | cut -d " " > PLA.txt
 
