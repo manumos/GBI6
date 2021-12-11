@@ -1,6 +1,19 @@
 #!/bin/bash
+#imprimo el primer titulo y creo un archivo nuevo
 echo "POLINIZADORES" > netsize_all.txt
-for n*.txt in Saavedra2013; do cat |wc -l >> netsize_all.txt; done
+#abro el directorio de interes
+cd $1
+#de todos los archivos .txt cuento las lineas y las guardo en el anterior archivo creado
+*.txt |wc -l >> netsize_all.txt
+#imprimo el segundo titulo en el archivo creado
 echo "PLANTAS" >> netsize_all.txt
-for n*.txt in Saavedra2013;do head -n 1 $1 > $1.txt |cat $1.txt | tr -d " " |wc -m >> netsize_all.txt | rm $1.txt;done
+#selecciono la primera fila de los archivos .txt y la almaceno en un documento temporal
+head -n 1 *.txt > $1.txt
+#imprimo el documento temporal y  borro los espacios en blanco
+#luego cuento los caracteres y lo guardo en el archivo de resultado
+cat $1.txt | tr -d " " |wc -m >>netsize_all.txt
+#remuevo los archivos temporales
+rm $*.txt
+#imprimo los resultados
 cat netsize_all.txt
+
