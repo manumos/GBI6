@@ -5,7 +5,7 @@ wc -l $1 > POL.txt
 #imprimir el número de POLINIZADORES
 echo  "POLINIZADORES = " | cat POL.txt
 #2. Determinar el número de columnas = PLANTAS
-$2 | cut -d " " > PLA.txt
+$1 | cut -d " " > PLA.txt
 #imprimir el numero de PLANTAS
 echo "PLANTAS = " |cat PLA.txt
 
