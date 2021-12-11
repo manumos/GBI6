@@ -1,1 +1,6 @@
 POLINIZADORES
+ 4 netsize.txt
+ 2 netsize_all.txt
+ 6 total
+PLANTAS
+70

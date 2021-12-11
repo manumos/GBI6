@@ -2,9 +2,8 @@
 #imprimo el primer titulo y creo un archivo nuevo
 echo "POLINIZADORES" > netsize_all.txt
 #abro el directorio de interes
-cd $1
 #de todos los archivos .txt cuento las lineas y las guardo en el anterior archivo creado
-*.txt |wc -l >> netsize_all.txt
+cd $1 |wc -l *.txt >> netsize_all.txt
 #imprimo el segundo titulo en el archivo creado
 echo "PLANTAS" >> netsize_all.txt
 #selecciono la primera fila de los archivos .txt y la almaceno en un documento temporal
