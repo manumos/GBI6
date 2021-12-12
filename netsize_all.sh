@@ -3,16 +3,20 @@
 cd $1
 #POLINIZADORES
 #de todos loS archivos .txt cuenta las lineas y las guardo en archivos temporales
-wc -l *.txt > tempA*.txt
+echo "POLINIZADORES"
+wc -l *.txt > j.txt
 #imprimo todos los archivos temporales en un solo archivo final
-cat tempA*.txt
+cat j.txt
+rm j.txt
 
 #PLANTAS
-#selecciono la primera fila de los archivos .txt y la almaceno en un documento temporal
-head -n 1 *.txt > tempB*.txt
-cat tempB*.txt | tr -d " " |wc -m > tempB*.txt
-#remuevo los archivos temporales
-cat temp*.txt
+echo "PLANTAS"
+head -n 1 *.txt > *T.txt 
+cat *T.txt | tr -d " " |wc -m > k.txt
+cat k.txt
 #imprimo los resultados
-rm temp*.txt
+rm *T.txt
+rm k.txt
+
+
 
