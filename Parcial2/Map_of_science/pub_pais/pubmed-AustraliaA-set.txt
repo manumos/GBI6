@@ -1,0 +1,2599 @@
+PMID- 32824835
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210326
+LR  - 20210326
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 12
+IP  - 8
+DP  - 2020 Aug 18
+TI  - A Paradoxical Vasodilatory Nutraceutical Intervention for Prevention and Attenuation 
+      of Migraine-A Hypothetical Review.
+LID - 10.3390/nu12082487 [doi]
+LID - 2487
+AB  - Studies suggest that migraine pain has a vascular component. The prevailing dogma is 
+      that peripheral vasoconstriction activates baroreceptors in central, large arteries. 
+      Dilatation of central vessels stimulates nociceptors and induces cortical spreading 
+      depression. Studies investigating nitric oxide (NO) donors support the indicated 
+      hypothesis that pain is amplified when acutely administered. In this review, we 
+      provide an alternate hypothesis which, if substantiated, may provide therapeutic 
+      opportunities for attenuating migraine frequency and severity. We suggest that in 
+      migraines, heightened sympathetic tone results in progressive central microvascular 
+      constriction. Suboptimal parenchymal blood flow, we suggest, activates nociceptors 
+      and triggers headache pain onset. Administration of NO donors could paradoxically 
+      promote constriction of the microvasculature as a consequence of larger upstream 
+      central artery vasodilatation. Inhibitors of NO production are reported to alleviate 
+      migraine pain. We describe how constriction of larger upstream arteries, induced by 
+      NO synthesis inhibitors, may result in a compensatory dilatory response of the 
+      microvasculature. The restoration of central capillary blood flow may be the primary 
+      mechanism for pain relief. Attenuating the propensity for central capillary 
+      constriction and promoting a more dilatory phenotype may reduce frequency and 
+      severity of migraines. Here, we propose consideration of two dietary nutraceuticals 
+      for reducing migraine risk: L-arginine and aged garlic extracts.
+FAU - Chaliha, Devahuti Rai
+AU  - Chaliha DR
+AUID- ORCID: 0000-0002-7376-0209
+AD  - Curtin Health Innovation Research Institute, Curtin University, Kent St., Bentley 
+      6102, Australia.
+AD  - School of Public Health, Faculty of Health Sciences, Curtin University, Kent St., 
+      Bentley 6102, Australia.
+FAU - Vaccarezza, Mauro
+AU  - Vaccarezza M
+AUID- ORCID: 0000-0003-3060-318X
+AD  - Curtin Health Innovation Research Institute, Curtin University, Kent St., Bentley 
+      6102, Australia.
+AD  - School of Pharmacy and Biomedical Sciences, Faculty of Health Sciences, Curtin 
+      University, Kent St., Bentley 6102, Australia.
+FAU - Takechi, Ryu
+AU  - Takechi R
+AUID- ORCID: 0000-0001-6359-3382
+AD  - Curtin Health Innovation Research Institute, Curtin University, Kent St., Bentley 
+      6102, Australia.
+AD  - School of Public Health, Faculty of Health Sciences, Curtin University, Kent St., 
+      Bentley 6102, Australia.
+FAU - Lam, Virginie
+AU  - Lam V
+AD  - Curtin Health Innovation Research Institute, Curtin University, Kent St., Bentley 
+      6102, Australia.
+AD  - School of Public Health, Faculty of Health Sciences, Curtin University, Kent St., 
+      Bentley 6102, Australia.
+FAU - Visser, Eric
+AU  - Visser E
+AUID- ORCID: 0000-0002-5648-8311
+AD  - School of Medicine, University of Notre Dame, Fremantle 6160, Australia.
+FAU - Drummond, Peter
+AU  - Drummond P
+AD  - College of Science, Health, Engineering and Education (SHEE), Murdoch University, 
+      Murdoch 6150, Australia.
+FAU - Mamo, John Charles Louis
+AU  - Mamo JCL
+AD  - Curtin Health Innovation Research Institute, Curtin University, Kent St., Bentley 
+      6102, Australia.
+AD  - School of Public Health, Faculty of Health Sciences, Curtin University, Kent St., 
+      Bentley 6102, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200818
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Nitric Oxide Donors)
+RN  - 0 (Plant Extracts)
+RN  - 31C4KY9ESH (Nitric Oxide)
+RN  - 94ZLA3W45F (Arginine)
+SB  - IM
+MH  - Arginine/*administration & dosage/*pharmacology
+MH  - Cerebral Arteries/physiopathology
+MH  - *Dietary Supplements
+MH  - Garlic/*chemistry
+MH  - Humans
+MH  - Microvessels/physiopathology
+MH  - Migraine Disorders/*diet therapy/etiology/physiopathology/*prevention & control
+MH  - Nitric Oxide/metabolism
+MH  - Nitric Oxide Donors/adverse effects/antagonists & inhibitors
+MH  - Nociceptors/physiology
+MH  - Plant Extracts/*administration & dosage/*pharmacology
+MH  - Pressoreceptors/physiopathology
+MH  - Severity of Illness Index
+MH  - Vasoconstriction/*drug effects
+MH  - Vasodilation/*drug effects
+PMC - PMC7468811
+OTO - NOTNLM
+OT  - L-arginine
+OT  - aged garlic extract
+OT  - calcium
+OT  - migraine
+OT  - nitric oxide
+OT  - vasoconstriction
+OT  - vasodilation
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/08/23 06:00
+MHDA- 2021/03/27 06:00
+CRDT- 2020/08/23 06:00
+PHST- 2020/06/19 00:00 [received]
+PHST- 2020/08/14 00:00 [revised]
+PHST- 2020/08/15 00:00 [accepted]
+PHST- 2020/08/23 06:00 [entrez]
+PHST- 2020/08/23 06:00 [pubmed]
+PHST- 2021/03/27 06:00 [medline]
+AID - nu12082487 [pii]
+AID - nutrients-12-02487 [pii]
+AID - 10.3390/nu12082487 [doi]
+PST - epublish
+SO  - Nutrients. 2020 Aug 18;12(8):2487. doi: 10.3390/nu12082487.
+
+PMID- 32024189
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201116
+LR  - 20201116
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 25
+IP  - 3
+DP  - 2020 Feb 1
+TI  - Nanoliposomes and Tocosomes as Multifunctional Nanocarriers for the Encapsulation of 
+      Nutraceutical and Dietary Molecules.
+LID - 10.3390/molecules25030638 [doi]
+LID - 638
+AB  - Nanoscale lipid bilayers, or nanoliposomes, are generally spherical vesicles formed 
+      by the dispersion of phospholipid molecules in a water-based medium by energy input. 
+      The other nanoscale object discussed in this entry, i.e., tocosome, is a recently 
+      introduced bioactive carrier made mainly from tocopheryl phosphates. Due to their 
+      bi-compartmental structure, which consists of lipidic and aqueous compartments, 
+      these nanocarriers are capable of carrying hydrophilic and hydrophobic material 
+      separately or simultaneously. Nanoliposomes and tocosomes are able to provide 
+      protection and release of sensitive food-grade bioactive materials in a sustained 
+      manner. They are being utilized for the encapsulation of different types of 
+      bioactive materials (such as drugs, vaccines, antimicrobials, antioxidants, minerals 
+      and preservatives), for the enrichment and fortification of different food and 
+      nutraceutical formulations and manufacturing of functional products. However, a 
+      number of issues unique to the nutraceutical and food industry must first be 
+      resolved before these applications can completely become a reality. Considering the 
+      potentials and promises of these colloidal carrier systems, the present article 
+      reviews various aspects of nanoliposomes, in comparison with tocosomes, including 
+      the ingredients used in their manufacture, formation mechanisms and issues 
+      pertaining to their application in the formulation of health promoting dietary 
+      supplements and functional food products.
+FAU - Zarrabi, Ali
+AU  - Zarrabi A
+AUID- ORCID: 0000-0003-0391-1769
+AD  - Sabanci University Nanotechnology Research and Application Center (SUNUM), Tuzla 
+      34956, Istanbul, Turkey.
+FAU - Alipoor Amro Abadi, Mandana
+AU  - Alipoor Amro Abadi M
+AD  - Dept. of Food Hygiene, The Faculty of Veterinary Medicine, Shahrekord City Branch, 
+      IAU University, Shahrekord 8813733395, Iran.
+FAU - Khorasani, Sepideh
+AU  - Khorasani S
+AD  - Department Food Science and Industries, Faculty Agriculture, Shahid Bahonar 
+      University of Kerman, 22 Bahman Blvd., Kerman 7616914111, Iran.
+FAU - Mohammadabadi, M-Reza
+AU  - Mohammadabadi MR
+AUID- ORCID: 0000-0002-1268-3043
+AD  - Department of Animal Science, Faculty of Agriculture, Shahid Bahonar University of 
+      Kerman, 22 Bahman Blvd., Kerman 7616914111, Iran.
+FAU - Jamshidi, Aniseh
+AU  - Jamshidi A
+AD  - Australasian Nanoscience and Nanotechnology Initiative, 8054 Monash University LPO, 
+      Clayton, VIC 3168, Australia.
+FAU - Torkaman, Sarabanou
+AU  - Torkaman S
+AD  - Australasian Nanoscience and Nanotechnology Initiative, 8054 Monash University LPO, 
+      Clayton, VIC 3168, Australia.
+FAU - Taghavi, Elham
+AU  - Taghavi E
+AD  - Australasian Nanoscience and Nanotechnology Initiative, 8054 Monash University LPO, 
+      Clayton, VIC 3168, Australia.
+AD  - Faculty of Fisheries and Food Science, Universiti Malaysia Terengganu, 21030 Kuala 
+      Nerus, Terengganu 21030, Malaysia.
+FAU - Mozafari, M R
+AU  - Mozafari MR
+AUID- ORCID: 0000-0002-4118-1544
+AD  - Australasian Nanoscience and Nanotechnology Initiative, 8054 Monash University LPO, 
+      Clayton, VIC 3168, Australia.
+FAU - Rasti, Babak
+AU  - Rasti B
+AUID- ORCID: 0000-0002-1249-9764
+AD  - Australasian Nanoscience and Nanotechnology Initiative, 8054 Monash University LPO, 
+      Clayton, VIC 3168, Australia.
+AD  - Faculty of Food Science & Nutrition, Universiti Malaysia Sabah, Jalan UMS, 88400 
+      Kota Kinabalu, Sabah 88400, Malaysia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200201
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Drug Carriers)
+RN  - 0 (Liposomes)
+SB  - IM
+MH  - *Dietary Supplements
+MH  - Drug Carriers/*chemistry
+MH  - *Drug Compounding
+MH  - Food Industry
+MH  - *Liposomes/chemistry
+MH  - Molecular Structure
+MH  - Nanoparticles/*chemistry
+MH  - *Nanotechnology
+PMC - PMC7037994
+OTO - NOTNLM
+OT  - Mozafari method
+OT  - encapsulation
+OT  - food technology
+OT  - nanoliposome
+OT  - nutraceuticals
+OT  - supplements
+OT  - tocosome
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/02/07 06:00
+MHDA- 2020/11/18 06:00
+CRDT- 2020/02/07 06:00
+PHST- 2019/12/29 00:00 [received]
+PHST- 2020/01/29 00:00 [revised]
+PHST- 2020/01/30 00:00 [accepted]
+PHST- 2020/02/07 06:00 [entrez]
+PHST- 2020/02/07 06:00 [pubmed]
+PHST- 2020/11/18 06:00 [medline]
+AID - molecules25030638 [pii]
+AID - molecules-25-00638 [pii]
+AID - 10.3390/molecules25030638 [doi]
+PST - epublish
+SO  - Molecules. 2020 Feb 1;25(3):638. doi: 10.3390/molecules25030638.
+
+PMID- 31397223
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211117
+LR  - 20211117
+IS  - 1476-8305 (Electronic)
+IS  - 1028-415X (Linking)
+VI  - 24
+IP  - 4
+DP  - 2021 Apr
+TI  - Nutrient and genetic biomarkers of nutraceutical treatment response in mood and 
+      psychotic disorders: a systematic review.
+PG  - 279-295
+LID - 10.1080/1028415X.2019.1625222 [doi]
+AB  - Objective: Nutrient and genetic biomarkers in nutraceutical trials may allow for the 
+      personalisation of nutraceutical treatment and assist in predicting treatment 
+      response. We aimed to synthesise the findings of trials which have included these 
+      biomarkers to determine which may be most useful for predicting nutraceutical 
+      response in mood and psychotic disorders.Methods: A systematic review was conducted 
+      assessing available literature concerning nutraceutical clinical trials in mood and 
+      psychotic disorders (major depression, bipolar disorder, schizophrenia) with 
+      baseline and endpoint blood nutrient markers or genetic data available.Results: We 
+      identified 35 eligible studies (total n = 3836 participants) examining baseline and 
+      endpoint nutrient biomarkers and/or genetic polymorphisms. The key result, as 
+      reported in 10 out of 11 omega-3 studies, was a strong association between 
+      polyunsaturated fatty acid concentrations (mostly EPA and DHA) and psychiatric 
+      outcomes, although the exact nature of the association varied between studies and 
+      diagnoses. There was no consistent evidence for levels of other nutrients (including 
+      Vitamin D, SAM/SAH ratios, carnitine, folate and vitamin B12) relating to treatment 
+      response. The evidence for associations between one-carbon cycle genotypes (e.g. 
+      MTHFR C677 T, MTR and FOLH1) and treatment response was also 
+      inconsistent.Discussion: The available data tentatively supports omega-3 indices as 
+      biomarkers of response to omega-3 treatments in mood disorders. Further research 
+      with larger samples examining combinations of polymorphisms is required to determine 
+      if any genetic factors influence nutraceutical response in mood and psychotic 
+      disorders.
+FAU - van der Burg, Kiki P
+AU  - van der Burg KP
+AD  - MaSc Medicine at University Medical Center Utrecht (UMCU), Utrecht, the Netherlands.
+FAU - Cribb, Lachlan
+AU  - Cribb L
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Firth, Joseph
+AU  - Firth J
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+AD  - Division of Psychology and Mental Health, Faculty of Biology, Medicine and Health, 
+      University of Manchester, Manchester, UK.
+FAU - Karmacoska, Diana
+AU  - Karmacoska D
+AUID- ORCID: 0000-0002-8749-348X
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+FAU - Sarris, Jerome
+AU  - Sarris J
+AUID- ORCID: 0000-0001-9287-8854
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20190809
+PL  - England
+TA  - Nutr Neurosci
+JT  - Nutritional neuroscience
+JID - 100892202
+RN  - 0 (Biomarkers)
+RN  - 0 (Fatty Acids, Omega-3)
+RN  - 0 (Genetic Markers)
+SB  - IM
+MH  - Affect
+MH  - Biomarkers/blood
+MH  - *Bipolar Disorder/blood/drug therapy
+MH  - Depressive Disorder, Major/drug therapy
+MH  - *Dietary Supplements
+MH  - *Fatty Acids, Omega-3/therapeutic use
+MH  - Genetic Markers
+MH  - Humans
+MH  - *Psychotic Disorders/drug therapy
+MH  - *Schizophrenia/drug therapy
+OTO - NOTNLM
+OT  - Psychiatry
+OT  - biomarker
+OT  - depression
+OT  - diet
+OT  - folate
+OT  - omega 3
+OT  - schizophrenia
+EDAT- 2019/08/10 06:00
+MHDA- 2021/11/18 06:00
+CRDT- 2019/08/10 06:00
+PHST- 2019/08/10 06:00 [pubmed]
+PHST- 2021/11/18 06:00 [medline]
+PHST- 2019/08/10 06:00 [entrez]
+AID - 10.1080/1028415X.2019.1625222 [doi]
+PST - ppublish
+SO  - Nutr Neurosci. 2021 Apr;24(4):279-295. doi: 10.1080/1028415X.2019.1625222. Epub 2019 
+      Aug 9.
+
+PMID- 34925698
+OWN - NLM
+STAT- In-Process
+LR  - 20211221
+IS  - 1942-0994 (Electronic)
+IS  - 1942-0900 (Print)
+IS  - 1942-0994 (Linking)
+VI  - 2021
+DP  - 2021
+TI  - A Literature-Based Update on Benincasa hispida (Thunb.) Cogn.: Traditional Uses, 
+      Nutraceutical, and Phytopharmacological Profiles.
+PG  - 6349041
+LID - 10.1155/2021/6349041 [doi]
+LID - 6349041
+AB  - Benincasa hispida (Thunb.) Cogn. (Cucurbitaceae) is an annual climbing plant, native 
+      to Asia with multiple therapeutic uses in traditional medicine. This updated review 
+      is aimed at discussing the ethnopharmacological, phytochemical, pharmacological 
+      properties, and molecular mechanisms highlighted in preclinical experimental studies 
+      and toxicological safety to evaluate the therapeutic potential of this genus. The 
+      literature from PubMed, Google Scholar, Elsevier, Springer, Science Direct, and 
+      database was analyzed using the basic keyword "Benincasa hispida." Other searching 
+      strategies, including online resources, books, and journals, were used. The taxonomy 
+      of the plant has been made by consulting "The Plant List". The results showed that 
+      B. hispida has been used in traditional medicine to treat neurological diseases, 
+      kidney disease, fever, and cough accompanied by thick mucus and to fight intestinal 
+      worms. The main bioactive compounds contained in Benincasa hispida have cytotoxic, 
+      anti-inflammatory, and anticancer properties. Further safety and efficacy 
+      investigations are needed to confirm these beneficial therapeutic effects and also 
+      future human clinical studies.
+CI  - Copyright © 2021 Muhammad Torequl Islam et al.
+FAU - Islam, Muhammad Torequl
+AU  - Islam MT
+AD  - Department of Pharmacy, Life Science Faculty, Bangabandhu Sheikh Mujibur Rahman 
+      Science and Technology University, Gopalganj (Dhaka) 8100, Bangladesh.
+FAU - Quispe, Cristina
+AU  - Quispe C
+AD  - Facultad de Ciencias de la Salud, Universidad Arturo Prat, Avda. Arturo Prat 2120, 
+      Iquique 1110939, Chile.
+FAU - El-Kersh, Dina M
+AU  - El-Kersh DM
+AD  - Pharmacognosy Department, Faculty of Pharmacy, The British University in Egypt 
+      (BUE), El Sherouk, Cairo Governorate, Egypt.
+FAU - Shill, Manik Chandra
+AU  - Shill MC
+AD  - Department of Pharmaceutical Sciences, North South University, Bashundhara, Dhaka 
+      1229, Bangladesh.
+FAU - Bhardwaj, Kanchan
+AU  - Bhardwaj K
+AD  - Department of Botany, Shoolini University of Biotechnology and Management Sciences, 
+      Solan-173229, H. P., India.
+FAU - Bhardwaj, Prerna
+AU  - Bhardwaj P
+AD  - Department of Botany, Shoolini University of Biotechnology and Management Sciences, 
+      Solan-173229, H. P., India.
+FAU - Sharifi-Rad, Javad
+AU  - Sharifi-Rad J
+AUID- ORCID: 0000-0002-7301-8151
+AD  - Facultad de Medicina, Universidad del Azuay, Cuenca, Ecuador.
+FAU - Martorell, Miquel
+AU  - Martorell M
+AUID- ORCID: 0000-0003-3183-7623
+AD  - Department of Nutrition and Dietetics, Faculty of Pharmacy, and Centre for Healthy 
+      Living, University of Concepción, 4070386 Concepción, Chile.
+FAU - Hossain, Rajib
+AU  - Hossain R
+AD  - Department of Pharmacy, Life Science Faculty, Bangabandhu Sheikh Mujibur Rahman 
+      Science and Technology University, Gopalganj (Dhaka) 8100, Bangladesh.
+FAU - Al-Harrasi, Ahmed
+AU  - Al-Harrasi A
+AD  - Natural and Medical Sciences Research Centre, University of Nizwa, Birkat Almouz, 
+      616, Oman.
+FAU - Al-Rawahi, Ahmed
+AU  - Al-Rawahi A
+AD  - Natural and Medical Sciences Research Centre, University of Nizwa, Birkat Almouz, 
+      616, Oman.
+FAU - Butnariu, Monica
+AU  - Butnariu M
+AUID- ORCID: 0000-0002-2032-5000
+AD  - Banat's University of Agricultural Sciences and Veterinary Medicine "King Michael I 
+      of Romania" from Timisoara, 300645, Calea Aradului 119, Timis, Romania.
+FAU - Rotariu, Lia Sanda
+AU  - Rotariu LS
+AD  - Banat's University of Agricultural Sciences and Veterinary Medicine "King Michael I 
+      of Romania" from Timisoara, 300645, Calea Aradului 119, Timis, Romania.
+FAU - Suleria, Hafiz Ansar Rasul
+AU  - Suleria HAR
+AUID- ORCID: 0000-0002-2450-0830
+AD  - Department of Agriculture and Food Systems, The University of Melbourne, Australia.
+FAU - Taheri, Yasaman
+AU  - Taheri Y
+AUID- ORCID: 0000-0002-0836-236X
+AD  - Phytochemistry Research Center, Shahid Beheshti University of Medical Sciences, 
+      Tehran, Iran.
+FAU - Docea, Anca Oana
+AU  - Docea AO
+AD  - Department of Toxicology, University of Medicine and Pharmacy of Craiova, 200349 
+      Craiova, Romania.
+FAU - Calina, Daniela
+AU  - Calina D
+AUID- ORCID: 0000-0002-1523-9116
+AD  - Department of Clinical Pharmacy, University of Medicine and Pharmacy of Craiova, 
+      200349 42 Craiova, Romania.
+FAU - Cho, William C
+AU  - Cho WC
+AUID- ORCID: 0000-0003-4174-4586
+AD  - Department of Clinical Oncology, Queen Elizabeth Hospital, Kowloon, Hong Kong.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211210
+TA  - Oxid Med Cell Longev
+JT  - Oxidative medicine and cellular longevity
+JID - 101479826
+SB  - IM
+PMC - PMC8683187
+COIS- The authors declare that they have no conflicts of interest.
+EDAT- 2021/12/21 06:00
+MHDA- 2021/12/21 06:00
+CRDT- 2021/12/20 06:10
+PHST- 2021/05/05 00:00 [received]
+PHST- 2021/06/29 00:00 [revised]
+PHST- 2021/09/20 00:00 [accepted]
+PHST- 2021/12/20 06:10 [entrez]
+PHST- 2021/12/21 06:00 [pubmed]
+PHST- 2021/12/21 06:00 [medline]
+AID - 10.1155/2021/6349041 [doi]
+PST - epublish
+SO  - Oxid Med Cell Longev. 2021 Dec 10;2021:6349041. doi: 10.1155/2021/6349041. 
+      eCollection 2021.
+
+PMID- 32727001
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210518
+LR  - 20210518
+IS  - 1660-3397 (Electronic)
+IS  - 1660-3397 (Linking)
+VI  - 18
+IP  - 8
+DP  - 2020 Jul 27
+TI  - Protein Recovery from Underutilised Marine Bioresources for Product Development with 
+      Nutraceutical and Pharmaceutical Bioactivities.
+LID - 10.3390/md18080391 [doi]
+LID - 391
+AB  - The global demand for dietary proteins and protein-derived products are projected to 
+      dramatically increase which cannot be met using traditional protein sources. Seafood 
+      processing by-products (SPBs) and microalgae are promising resources that can fill 
+      the demand gap for proteins and protein derivatives. Globally, 32 million tonnes of 
+      SPBs are estimated to be produced annually which represents an inexpensive resource 
+      for protein recovery while technical advantages in microalgal biomass production 
+      would yield secure protein supplies with minimal competition for arable land and 
+      freshwater resources. Moreover, these biomaterials are a rich source of proteins 
+      with high nutritional quality while protein hydrolysates and biopeptides derived 
+      from these marine proteins possess several useful bioactivities for commercial 
+      applications in multiple industries. Efficient utilisation of these marine 
+      biomaterials for protein recovery would not only supplement global demand and save 
+      natural bioresources but would also successfully address the financial and 
+      environmental burdens of biowaste, paving the way for greener production and a 
+      circular economy. This comprehensive review analyses the potential of using SPBs and 
+      microalgae for protein recovery and production critically assessing the feasibility 
+      of current and emerging technologies used for the process development. Nutritional 
+      quality, functionalities, and bioactivities of the extracted proteins and derived 
+      products together with their potential applications for commercial product 
+      development are also systematically summarised and discussed.
+FAU - Nguyen, Trung T
+AU  - Nguyen TT
+AD  - Centre for Marine Bioproducts Development, College of Medicine and Public Health, 
+      Flinders University, Health Science Building, Sturt Road, Bedford Park, Adelaide, SA 
+      5042, Australia.
+FAU - Heimann, Kirsten
+AU  - Heimann K
+AD  - Centre for Marine Bioproducts Development, College of Medicine and Public Health, 
+      Flinders University, Health Science Building, Sturt Road, Bedford Park, Adelaide, SA 
+      5042, Australia.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - Centre for Marine Bioproducts Development, College of Medicine and Public Health, 
+      Flinders University, Health Science Building, Sturt Road, Bedford Park, Adelaide, SA 
+      5042, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200727
+TA  - Mar Drugs
+JT  - Marine drugs
+JID - 101213729
+RN  - 0 (Dietary Proteins)
+RN  - 0 (Industrial Waste)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Animals
+MH  - Dietary Proteins/chemistry/isolation & purification/*metabolism
+MH  - *Dietary Supplements
+MH  - Food Handling
+MH  - Humans
+MH  - *Industrial Waste
+MH  - Microalgae/*metabolism
+MH  - Nutritive Value
+MH  - Proteins/chemistry/isolation & purification/*therapeutic use
+MH  - *Seafood
+PMC - PMC7460389
+OTO - NOTNLM
+OT  - biopeptides
+OT  - enzymes
+OT  - marine microalgae
+OT  - marine proteins
+OT  - nutraceutical and bioactive proteins
+OT  - process and product development
+OT  - seafood processing by-products
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/07/31 06:00
+MHDA- 2021/05/19 06:00
+CRDT- 2020/07/31 06:00
+PHST- 2020/06/19 00:00 [received]
+PHST- 2020/07/24 00:00 [revised]
+PHST- 2020/07/24 00:00 [accepted]
+PHST- 2020/07/31 06:00 [entrez]
+PHST- 2020/07/31 06:00 [pubmed]
+PHST- 2021/05/19 06:00 [medline]
+AID - md18080391 [pii]
+AID - marinedrugs-18-00391 [pii]
+AID - 10.3390/md18080391 [doi]
+PST - epublish
+SO  - Mar Drugs. 2020 Jul 27;18(8):391. doi: 10.3390/md18080391.
+
+PMID- 33596913
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20210514
+IS  - 1479-5876 (Electronic)
+IS  - 1479-5876 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2021 Feb 17
+TI  - A systematic review of nutraceutical interventions for mitochondrial dysfunctions in 
+      myalgic encephalomyelitis/chronic fatigue syndrome.
+PG  - 81
+LID - 10.1186/s12967-021-02742-4 [doi]
+LID - 81
+AB  - BACKGROUND: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a 
+      debilitating illness, characterised by persistent fatigue that is unrelieved by 
+      rest, in combination with a range of other disabling symptoms. There is no 
+      diagnostic test nor targeted treatment available for this illness. The 
+      pathomechanism also remains unclear. Mitochondrial dysfunctions have been considered 
+      a possible underlying pathology based on reported differences including structural 
+      and functional changes in ME/CFS patients compared to healthy controls. Due to the 
+      potential role that mitochondria may play in ME/CFS, mitochondrial-targeting 
+      nutraceutical interventions have been used to potentially assist in improving 
+      patient outcomes such as fatigue. The aim of this systematic review is to appraise 
+      literature assessing these nutraceuticals as a possible intervention for treating 
+      ME/CFS. METHODS: A systematic search of Pubmed, Embase, Medline (EBSCO host) and Web 
+      of Science (via Clarivate Analytics) for journal articles published between January 
+      1995 and 10th November 2020 was conducted. Articles assessing nutraceutical 
+      interventions and ME/CFS patient outcomes were retrieved. Using specific inclusion 
+      and exclusion criteria, the list of articles was further refined. Quality was 
+      measured using the Rosendal scale. RESULTS: Nine intervention studies were included 
+      in this review. The studies investigated patient symptom severity changes such as 
+      altered fatigue levels in response to mitochondrial-targeting nutraceuticals. 
+      Improvements in fatigue levels were observed in six of the nine studies. Secondary 
+      outcomes assessed include biochemical, psychological, and quality of life 
+      parameters. CONCLUSION: There is insufficient evidence on the effectiveness of 
+      mitochondria- targeting nutraceuticals in ME/CFS patients. Future well-designed 
+      studies are required to elucidate both the involvement of mitochondria in the 
+      pathomechanism of ME/CFS and the effect of mitochondrial-modifying agents on illness 
+      severity.
+FAU - Maksoud, Rebekah
+AU  - Maksoud R
+AUID- ORCID: 0000-0002-8121-8161
+AD  - National Centre for Neuroimmunology and Emerging Diseases (NCNED), Menzies Health 
+      Institute Queensland, Griffith University, Gold Coast, Australia. 
+      ncned@griffith.edu.au.
+AD  - Consortium Health International for Myalgic Encephalomyelitis, Griffith University, 
+      Gold Coast, Australia. ncned@griffith.edu.au.
+FAU - Balinas, Cassandra
+AU  - Balinas C
+AD  - National Centre for Neuroimmunology and Emerging Diseases (NCNED), Menzies Health 
+      Institute Queensland, Griffith University, Gold Coast, Australia.
+AD  - Consortium Health International for Myalgic Encephalomyelitis, Griffith University, 
+      Gold Coast, Australia.
+FAU - Holden, Sean
+AU  - Holden S
+AD  - National Centre for Neuroimmunology and Emerging Diseases (NCNED), Menzies Health 
+      Institute Queensland, Griffith University, Gold Coast, Australia.
+AD  - Consortium Health International for Myalgic Encephalomyelitis, Griffith University, 
+      Gold Coast, Australia.
+AD  - School of Medicine, Griffith University, Gold Coast, Australia.
+FAU - Cabanas, Hélène
+AU  - Cabanas H
+AD  - National Centre for Neuroimmunology and Emerging Diseases (NCNED), Menzies Health 
+      Institute Queensland, Griffith University, Gold Coast, Australia.
+AD  - Consortium Health International for Myalgic Encephalomyelitis, Griffith University, 
+      Gold Coast, Australia.
+FAU - Staines, Donald
+AU  - Staines D
+AD  - National Centre for Neuroimmunology and Emerging Diseases (NCNED), Menzies Health 
+      Institute Queensland, Griffith University, Gold Coast, Australia.
+AD  - Consortium Health International for Myalgic Encephalomyelitis, Griffith University, 
+      Gold Coast, Australia.
+FAU - Marshall-Gradisnik, Sonya
+AU  - Marshall-Gradisnik S
+AD  - National Centre for Neuroimmunology and Emerging Diseases (NCNED), Menzies Health 
+      Institute Queensland, Griffith University, Gold Coast, Australia.
+AD  - Consortium Health International for Myalgic Encephalomyelitis, Griffith University, 
+      Gold Coast, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PT  - Systematic Review
+DEP - 20210217
+TA  - J Transl Med
+JT  - Journal of translational medicine
+JID - 101190741
+SB  - IM
+MH  - Dietary Supplements
+MH  - *Fatigue Syndrome, Chronic/therapy
+MH  - Humans
+MH  - Mitochondria
+MH  - Quality of Life
+MH  - Severity of Illness Index
+PMC - PMC7890871
+OTO - NOTNLM
+OT  - *Chronic fatigue syndrome
+OT  - *Intervention
+OT  - *Mitochondria
+OT  - *Myalgic encephalomyelitis
+OT  - *Nutraceuticals
+COIS- The authors declare no conflicts of interest. The lead author confirms that this 
+      manuscript is an accurate, honest and transparent account of the study undertaken 
+      and reported, with no aspects being omitted and any discrepancies explained.
+EDAT- 2021/02/19 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2021/02/18 05:45
+PHST- 2020/12/10 00:00 [received]
+PHST- 2021/02/05 00:00 [accepted]
+PHST- 2021/02/18 05:45 [entrez]
+PHST- 2021/02/19 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+AID - 10.1186/s12967-021-02742-4 [pii]
+AID - 2742 [pii]
+AID - 10.1186/s12967-021-02742-4 [doi]
+PST - epublish
+SO  - J Transl Med. 2021 Feb 17;19(1):81. doi: 10.1186/s12967-021-02742-4.
+
+PMID- 34311029
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220204
+LR  - 20220204
+IS  - 1872-9754 (Electronic)
+IS  - 0197-0186 (Linking)
+VI  - 149
+DP  - 2021 Oct
+TI  - Fatty acids and beyond: Age and Alzheimer's disease related changes in lipids reveal 
+      the neuro-nutraceutical potential of lipids in cognition.
+PG  - 105143
+LID - S0197-0186(21)00189-3 [pii]
+LID - 10.1016/j.neuint.2021.105143 [doi]
+AB  - Lipids are essential in maintaining brain function, and lipid profiles have been 
+      reported to be altered in aged and Alzheimer's disease (AD) brains as compared to 
+      healthy mature brains. Both age and AD share common metabolic hallmarks such as 
+      increased oxidative stress and perturbed metabolic function, and age remains the 
+      most strongly correlated risk factor for AD, a neurodegenerative disease. A major 
+      accompanying pathological symptom of these conditions is cognitive impairment, which 
+      is linked with changes in lipid metabolism. Thus, nutraceuticals that affect brain 
+      lipid metabolism or lipid levels as a whole have the potential to ameliorate 
+      cognitive decline. Lipid analyses and lipidomic studies reveal changes in specific 
+      lipid types with aging and AD, which can identify potential lipid-based 
+      nutraceuticals to restore the brain to a healthy lipid phenotype. The brain lipid 
+      profile can be influenced directly with dietary administration of lipids themselves, 
+      although because of synergistic effects of nutrients it may be more useful to 
+      consider a multi-component diet rather than single nutrient supplementation. Gut 
+      microbiota also serve as a source of beneficial lipids, and the value of treatments 
+      that manipulate the composition of gut microbiome should not be ignored. Lastly, 
+      instead of direct supplementation, compounds that affect pathways involved with 
+      lipid metabolism should also be considered as a way of manipulating lipid levels to 
+      improve cognition. In this review, we briefly discuss the role of lipids in the 
+      brain, the changing lipid profile in AD, current research on lipid-based 
+      nutraceuticals and their therapeutic potential to combat cognitive impairment.
+CI  - Copyright © 2021. Published by Elsevier Ltd.
+FAU - Ooi, Kei-Lin Murata
+AU  - Ooi KM
+AD  - The Florey Institute of Neuroscience and Mental Health, 30 Royal Parade, Parkville, 
+      Victoria, 3052, Australia.
+FAU - Vacy, Kristina
+AU  - Vacy K
+AD  - The Florey Institute of Neuroscience and Mental Health, 30 Royal Parade, Parkville, 
+      Victoria, 3052, Australia.
+FAU - Boon, Wah Chin
+AU  - Boon WC
+AD  - The Florey Institute of Neuroscience and Mental Health, 30 Royal Parade, Parkville, 
+      Victoria, 3052, Australia; School of Biosciences, University of Melbourne, 
+      Parkville, Victoria, 3010, Australia. Electronic address: 
+      wah.chin.boon@florey.edu.au.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210723
+PL  - England
+TA  - Neurochem Int
+JT  - Neurochemistry international
+JID - 8006959
+RN  - 0 (Fatty Acids)
+RN  - 0 (Lipids)
+SB  - IM
+MH  - Aged
+MH  - Aging/drug effects/*metabolism/pathology
+MH  - Alzheimer Disease/*metabolism/pathology/therapy
+MH  - Animals
+MH  - Brain/drug effects/metabolism
+MH  - Cognition/drug effects/*physiology
+MH  - Cognitive Dysfunction/metabolism/pathology/therapy
+MH  - *Dietary Supplements
+MH  - Fatty Acids/administration & dosage/*metabolism
+MH  - Gastrointestinal Microbiome/drug effects/physiology
+MH  - Humans
+MH  - Lipid Metabolism/drug effects/*physiology
+MH  - Lipids/administration & dosage
+MH  - Oxidative Stress/drug effects/physiology
+OTO - NOTNLM
+OT  - *Aging
+OT  - *Alzheimer's disease
+OT  - *Cognition
+OT  - *Dementia
+OT  - *Fatty acids
+OT  - *Lipids
+OT  - *Nutraceuticals
+EDAT- 2021/07/27 06:00
+MHDA- 2022/02/05 06:00
+CRDT- 2021/07/26 20:11
+PHST- 2020/10/14 00:00 [received]
+PHST- 2021/07/20 00:00 [revised]
+PHST- 2021/07/22 00:00 [accepted]
+PHST- 2021/07/27 06:00 [pubmed]
+PHST- 2022/02/05 06:00 [medline]
+PHST- 2021/07/26 20:11 [entrez]
+AID - S0197-0186(21)00189-3 [pii]
+AID - 10.1016/j.neuint.2021.105143 [doi]
+PST - ppublish
+SO  - Neurochem Int. 2021 Oct;149:105143. doi: 10.1016/j.neuint.2021.105143. Epub 2021 Jul 
+      23.
+
+PMID- 27375635
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160704
+LR  - 20200930
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 7
+DP  - 2016
+TI  - Exploiting Phenylpropanoid Derivatives to Enhance the Nutraceutical Values of 
+      Cereals and Legumes.
+PG  - 763
+LID - 10.3389/fpls.2016.00763 [doi]
+LID - 763
+AB  - Phenylpropanoids are a diverse chemical class with immense health benefits that are 
+      biosynthesized from the aromatic amino acid L-phenylalanine. This article reviews 
+      the progress for accessing variation in phenylpropanoids in germplasm collections, 
+      the genetic and molecular basis of phenylpropanoid biosynthesis, and the development 
+      of cultivars dense in seed-phenylpropanoids. Progress is also reviewed on 
+      high-throughput assays, factors that influence phenylpropanoids, the site of 
+      phenylpropanoids accumulation in seed, Genotype × Environment interactions, and on 
+      consumer attitudes for the acceptance of staple foods rich in phenylpropanoids. A 
+      paradigm shift was noted in barley, maize, rice, sorghum, soybean, and wheat, 
+      wherein cultivars rich in phenylpropanoids are grown in Europe and North and Central 
+      America. Studies have highlighted some biological constraints that need to be 
+      addressed for development of high-yielding cultivars that are rich in 
+      phenylpropanoids. Genomics-assisted breeding is expected to facilitate rapid 
+      introgression into improved genetic backgrounds by minimizing linkage drag. More 
+      research is needed to systematically characterize germplasm pools for assessing 
+      variation to support crop genetic enhancement, and assess consumer attitudes to 
+      foods rich in phenylpropanoids.
+FAU - Dwivedi, Sangam L
+AU  - Dwivedi SL
+AD  - International Crops Research Institute for the Semi-Arid Tropics Patancheru, India.
+FAU - Upadhyaya, Hari D
+AU  - Upadhyaya HD
+AD  - International Crops Research Institute for the Semi-Arid TropicsPatancheru, India; 
+      Department of Agronomy, Kansas State UniversityManhattan, KS, USA; UWA Institute of 
+      Agriculture, University of Western AustraliaCrawley, WA, Australia.
+FAU - Chung, Ill-Min
+AU  - Chung IM
+AD  - Department of Applied Life Science, College of Life and Environmental Science, 
+      Konkuk University Seoul, Korea.
+FAU - De Vita, Pasquale
+AU  - De Vita P
+AD  - Consiglio per la Ricerca in Agricoltura e l'Analisi dell'Economia Agraria, Centro di 
+      Ricerca per la Cerealicoltura Foggia, Italy.
+FAU - García-Lara, Silverio
+AU  - García-Lara S
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Guajardo-Flores, Daniel
+AU  - Guajardo-Flores D
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Gutiérrez-Uribe, Janet A
+AU  - Gutiérrez-Uribe JA
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Serna-Saldívar, Sergio O
+AU  - Serna-Saldívar SO
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Rajakumar, Govindasamy
+AU  - Rajakumar G
+AD  - Department of Applied Life Science, College of Life and Environmental Science, 
+      Konkuk University Seoul, Korea.
+FAU - Sahrawat, Kanwar L
+AU  - Sahrawat KL
+AD  - International Crops Research Institute for the Semi-Arid Tropics Patancheru, India.
+FAU - Kumar, Jagdish
+AU  - Kumar J
+AD  - Sevita International Inkerman, ON, Canada.
+FAU - Ortiz, Rodomiro
+AU  - Ortiz R
+AD  - Swedish University of Agricultural Sciences Alnarp, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20160603
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC4891577
+OTO - NOTNLM
+OT  - Genotype × Environment interaction
+OT  - anthocyanins
+OT  - cereals
+OT  - flavonoids
+OT  - genetics and biosynthesis
+OT  - germplasm
+OT  - legumes
+OT  - phenolics
+EDAT- 2016/07/05 06:00
+MHDA- 2016/07/05 06:01
+CRDT- 2016/07/05 06:00
+PHST- 2016/01/27 00:00 [received]
+PHST- 2016/05/17 00:00 [accepted]
+PHST- 2016/07/05 06:00 [entrez]
+PHST- 2016/07/05 06:00 [pubmed]
+PHST- 2016/07/05 06:01 [medline]
+AID - 10.3389/fpls.2016.00763 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2016 Jun 3;7:763. doi: 10.3389/fpls.2016.00763. eCollection 2016.
+
+PMID- 31555976
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210525
+LR  - 20210525
+IS  - 1436-6215 (Electronic)
+IS  - 1436-6207 (Linking)
+VI  - 59
+IP  - 6
+DP  - 2020 Sep
+TI  - EPA and DHA as markers of nutraceutical treatment response in major depressive 
+      disorder.
+PG  - 2439-2447
+LID - 10.1007/s00394-019-02090-6 [doi]
+AB  - PURPOSE: Depression clinical trials are increasingly studying biomarkers to predict 
+      and monitor response to treatment. Assessment of biomarkers may reveal subsets of 
+      patients who are responsive to nutraceutical treatment, which may facilitate a 
+      personalized approach to treating depression. METHODS: This is a post hoc analysis 
+      of an 8-week, double-blind, randomized, controlled trial (n = 158) investigating a 
+      combination nutraceutical comprising Omega-3 (EPA 1 g/DHA 656 mg), SAMe, zinc, 
+      5-HTP, folinic acid, and co-factors versus placebo for the treatment of Major 
+      Depressive Disorder. The study explored levels of polyunsaturated fatty acids, 
+      folate, vitamin B12, zinc, homocysteine, and BDNF as possible predictors and 
+      correlates of response to nutraceutical supplementation. RESULTS: Concentrations of 
+      EPA and DHA in red cell membranes increased in response to treatment and were 
+      significantly correlated with a decrease in depressive symptoms during active 
+      treatment (p = 0.003 and p = 0.029; respectively). Higher baseline levels of omega-6 
+      fatty acid also correlated with depression reduction in the active treatment group 
+      ( p = 0.011). No other biomarkers were associated with a lessening of depressive 
+      symptoms. CONCLUSION: Changes in fatty acid levels resulting from a nutraceutical 
+      combination containing EPA and DHA provide a response biomarker in treating 
+      depression.
+FAU - van der Burg, Kiki P
+AU  - van der Burg KP
+AD  - MaSc Medicine at University Medical Center Utrecht (UMCU), Utrecht, The Netherlands.
+FAU - Cribb, Lachlan
+AU  - Cribb L
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Firth, Joseph
+AU  - Firth J
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+AD  - Division of Psychology and Mental Health, Faculty of Biology, Medicine and Health, 
+      University of Manchester, Manchester, UK.
+FAU - Karmacoska, Diana
+AU  - Karmacoska D
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+FAU - Mischoulon, David
+AU  - Mischoulon D
+AD  - Depression Clinical and Research Program, Massachusetts General Hospital, Harvard 
+      Medical School, Boston, MA, USA.
+FAU - Byrne, Gerard J
+AU  - Byrne GJ
+AD  - Faculty of Medicine, Discipline of Psychiatry, Centre for Clinical Research, Royal 
+      Brisbane and Women's Hospital, The University of Queensland, Herston, Australia.
+FAU - Bousman, Chad
+AU  - Bousman C
+AD  - Departments of Medical Genetics, Psychiatry, and Physiology and Pharmacology, 
+      University of Calgary, Calgary, AB, Canada.
+AD  - Department of Psychiatry, The University of Melbourne, Melbourne, Australia.
+FAU - Stough, Con
+AU  - Stough C
+AD  - Centre for Human Psychopharmacology, Swinburne University of Technology, Hawthorn, 
+      Australia.
+FAU - Murphy, Jenifer
+AU  - Murphy J
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Oliver, Georgina
+AU  - Oliver G
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Berk, Michael
+AU  - Berk M
+AD  - Department of Psychiatry, The University of Melbourne, Melbourne, Australia.
+AD  - IMPACT SRC, Barwon Health, School of Medicine, Deakin University, Geelong, 
+      Australia.
+AD  - Florey Institute of Neuroscience and Mental Health, The University of Melbourne, 
+      Parkville, Australia.
+AD  - Orygen, The Centre of Excellence in Youth Mental Health, The University of 
+      Melbourne, Parkville, Australia.
+FAU - Ng, Chee H
+AU  - Ng CH
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Sarris, Jerome
+AU  - Sarris J
+AUID- ORCID: 0000-0001-9287-8854
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia. j.sarris@westernsydney.edu.au.
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia. 
+      j.sarris@westernsydney.edu.au.
+LA  - eng
+GR  - APP1048222/National Health and Medical Research Council/
+PT  - Clinical Trial, Phase II
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+DEP - 20190925
+PL  - Germany
+TA  - Eur J Nutr
+JT  - European journal of nutrition
+JID - 100888704
+RN  - 0 (Biomarkers)
+RN  - 25167-62-8 (Docosahexaenoic Acids)
+RN  - AAN7QOV9EA (Eicosapentaenoic Acid)
+SB  - IM
+MH  - Adult
+MH  - Biomarkers/analysis
+MH  - Depressive Disorder, Major/*diet therapy
+MH  - *Dietary Supplements
+MH  - Docosahexaenoic Acids/*analysis
+MH  - Double-Blind Method
+MH  - Eicosapentaenoic Acid/*analysis
+MH  - Erythrocyte Membrane/chemistry
+MH  - Female
+MH  - Humans
+MH  - Male
+OTO - NOTNLM
+OT  - Biomarker
+OT  - Depression
+OT  - Nutraceutical
+OT  - Omega-3
+OT  - Precision medicine
+EDAT- 2019/09/27 06:00
+MHDA- 2021/05/26 06:00
+CRDT- 2019/09/27 06:00
+PHST- 2019/03/27 00:00 [received]
+PHST- 2019/09/06 00:00 [accepted]
+PHST- 2019/09/27 06:00 [pubmed]
+PHST- 2021/05/26 06:00 [medline]
+PHST- 2019/09/27 06:00 [entrez]
+AID - 10.1007/s00394-019-02090-6 [pii]
+AID - 10.1007/s00394-019-02090-6 [doi]
+PST - ppublish
+SO  - Eur J Nutr. 2020 Sep;59(6):2439-2447. doi: 10.1007/s00394-019-02090-6. Epub 2019 Sep 
+      25.
+
+PMID- 31737167
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200508
+LR  - 20211204
+IS  - 1942-0994 (Electronic)
+IS  - 1942-0900 (Print)
+IS  - 1942-0994 (Linking)
+VI  - 2019
+DP  - 2019
+TI  - Sulforaphane: Its "Coming of Age" as a Clinically Relevant Nutraceutical in the 
+      Prevention and Treatment of Chronic Disease.
+PG  - 2716870
+LID - 10.1155/2019/2716870 [doi]
+LID - 2716870
+AB  - A growing awareness of the mechanisms by which phytochemicals can influence upstream 
+      endogenous cellular defence processes has led to intensified research into their 
+      potential relevance in the prevention and treatment of disease. Pharmaceutical 
+      medicine has historically looked to plants as sources of the starting materials for 
+      drug development; however, the focus of nutraceutical medicine is to retain the 
+      plant bioactive in as close to its native state as possible. As a consequence, the 
+      potency of a nutraceutical concentrate or an extract may be lower than required for 
+      significant gene expression. The molecular structure of bioactive phytochemicals to 
+      a large extent determines the molecule's bioavailability. Polyphenols are abundant 
+      in dietary phytochemicals, and extensive in vitro research has established many of 
+      the signalling mechanisms involved in favourably modulating human biochemical 
+      pathways. Such pathways are associated with core processes such as redox modulation 
+      and immune modulation for infection control and for downregulating the synthesis of 
+      inflammatory cytokines. Although the relationship between oxidative stress and 
+      chronic disease continues to be affirmed, direct-acting antioxidants such as 
+      vitamins A, C, and E, beta-carotene, and others have not yielded the expected 
+      preventive or therapeutic responses, even though several large meta-analyses have 
+      sought to evaluate the potential benefit of such supplements. Because polyphenols 
+      exhibit poor bioavailability, few of their impressive in vitro findings have been 
+      replicated in vivo. SFN, an aliphatic isothiocyanate, emerges as a phytochemical 
+      with comparatively high bioavailability. A number of clinical trials have 
+      demonstrated its ability to produce favourable outcomes in conditions for which 
+      there are few satisfactory pharmaceutical solutions, foreshadowing the potential for 
+      SFN as a clinically relevant nutraceutical. Although myrosinase-inert broccoli 
+      sprout extracts are widely available, there now exist myrosinase-active broccoli 
+      sprout supplements that yield sufficient SFN to match the doses used in clinical 
+      trials.
+CI  - Copyright © 2019 Christine A. Houghton.
+FAU - Houghton, Christine A
+AU  - Houghton CA
+AUID- ORCID: 0000-0002-9626-6609
+AD  - University of Queensland, St Lucia Queensland, Australia.
+AD  - Cell-Logic, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20191014
+TA  - Oxid Med Cell Longev
+JT  - Oxidative medicine and cellular longevity
+JID - 101479826
+RN  - 0 (Anticarcinogenic Agents)
+RN  - 0 (Isothiocyanates)
+RN  - 0 (Phytochemicals)
+RN  - 0 (Sulfoxides)
+RN  - GA49J4310U (sulforaphane)
+SB  - IM
+MH  - Animals
+MH  - Anticarcinogenic Agents/*therapeutic use
+MH  - Biological Availability
+MH  - Brassica
+MH  - Chronic Disease
+MH  - Clinical Trials as Topic
+MH  - *Dietary Supplements
+MH  - Humans
+MH  - Isothiocyanates/*therapeutic use
+MH  - Oxidative Stress/*drug effects
+MH  - Phytochemicals/*therapeutic use
+MH  - Primary Prevention
+MH  - Sulfoxides
+PMC - PMC6815645
+COIS- The author is the founder of a company, Cell-Logic Pty Ltd., which manufactures a 
+      sulforaphane-yielding raw material and supplement.
+EDAT- 2019/11/19 06:00
+MHDA- 2020/05/10 06:00
+CRDT- 2019/11/19 06:00
+PHST- 2019/03/01 00:00 [received]
+PHST- 2019/06/24 00:00 [revised]
+PHST- 2019/09/06 00:00 [accepted]
+PHST- 2019/11/19 06:00 [entrez]
+PHST- 2019/11/19 06:00 [pubmed]
+PHST- 2020/05/10 06:00 [medline]
+AID - 10.1155/2019/2716870 [doi]
+PST - epublish
+SO  - Oxid Med Cell Longev. 2019 Oct 14;2019:2716870. doi: 10.1155/2019/2716870. 
+      eCollection 2019.
+
+PMID- 27157250
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171221
+LR  - 20181202
+IS  - 1096-1186 (Electronic)
+IS  - 1043-6618 (Linking)
+VI  - 110
+DP  - 2016 Aug
+TI  - The effects of a nutraceutical combination on plasma lipids and glucose: A 
+      systematic review and meta-analysis of randomized controlled trials.
+PG  - 76-88
+LID - S1043-6618(16)30199-2 [pii]
+LID - 10.1016/j.phrs.2016.04.021 [doi]
+AB  - Dyslipidemia and hyperglycemia are associated with an increased risk of ischemic 
+      cardiovascular disease. Positive effects of a nutraceutical combination comprising 
+      red yeast rice, berberine, policosanol, astaxanthin, coenzyme Q10 and folic acid 
+      (NComb) on plasma lipid and glucose levels have been reported in some but not all 
+      clinical trials. To address this inconsistency, we tried to estimate the size of 
+      lipid- and glucose-lowering effects of NComb through a systematic review and 
+      meta-analysis of randomized controlled trials. A systematic literature search in 
+      PubMed-Medline, SCOPUS and Google Scholar databases was conducted to identify 
+      randomized controlled trials investigating the effects of NComb on plasma lipids and 
+      glucose levels. Inverse variance-weighted mean differences (WMDs) and 95% confidence 
+      intervals (CIs) were calculated for net changes in lipid and glucose levels using a 
+      random-effects model. Random-effects meta-regression was performed to assess the 
+      effect of putative confounders on plasma lipid and glucose levels. Fourteen trials 
+      (1670 subjects in the NComb arm and 1489 subjects in the control arm) met the 
+      eligibility criteria for lipid analysis and 10 trials (1014 subjects in the NComb 
+      arm and 962 subjects in the control arm) for glucose analysis. Overall, WMDs were 
+      significant for the impact of NComb supplementation on plasma levels of total 
+      cholesterol (-26.15mg/dL, p<0.001), LDL-cholesterol (-23.85mg/dL, p<0.001), 
+      HDL-cholesterol (2.53mg/dL, p<0.001), triglycerides (-13.83mg/dL, p<0.001) and 
+      glucose (-2.59mg/dL, p=0.010). NComb-induced amelioration of lipid profile was not 
+      affected by duration of supplementation nor by baseline lipid levels; conversely, a 
+      greater glucose-lowering effect of NComb was found with higher baseline glucose 
+      levels and longer durations of supplementation. In conclusion, the present results 
+      suggest that NComb supplementation is associated with improvement of lipid and 
+      glucose profile. Short-term beneficial effects of NComb supplementation appear to be 
+      maintained in the long term.
+CI  - Copyright © 2016 Elsevier Ltd. All rights reserved.
+FAU - Pirro, Matteo
+AU  - Pirro M
+AD  - Unit of Internal Medicine, Angiology and Arteriosclerosis Diseases, Department of 
+      Medicine, University of Perugia, Perugia, Italy. Electronic address: 
+      matteo.pirro@unipg.it.
+FAU - Mannarino, Massimo Raffaele
+AU  - Mannarino MR
+AD  - Unit of Internal Medicine, Angiology and Arteriosclerosis Diseases, Department of 
+      Medicine, University of Perugia, Perugia, Italy.
+FAU - Bianconi, Vanessa
+AU  - Bianconi V
+AD  - Unit of Internal Medicine, Angiology and Arteriosclerosis Diseases, Department of 
+      Medicine, University of Perugia, Perugia, Italy.
+FAU - Simental-Mendía, Luis E
+AU  - Simental-Mendía LE
+AD  - Biomedical Research Unit, Mexican Social Security Institute, Durango, Mexico.
+FAU - Bagaglia, Francesco
+AU  - Bagaglia F
+AD  - Unit of Internal Medicine, Angiology and Arteriosclerosis Diseases, Department of 
+      Medicine, University of Perugia, Perugia, Italy.
+FAU - Mannarino, Elmo
+AU  - Mannarino E
+AD  - Unit of Internal Medicine, Angiology and Arteriosclerosis Diseases, Department of 
+      Medicine, University of Perugia, Perugia, Italy.
+FAU - Sahebkar, Amirhossein
+AU  - Sahebkar A
+AD  - Biotechnology Research Center, Mashhad University of Medical Sciences, Mashhad 
+      9177948564, Iran; Metabolic Research Centre, Royal Perth Hospital, School of 
+      Medicine and Pharmacology, University of Western Australia, Perth, Australia. 
+      Electronic address: SahebkarA@mums.ac.ir.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+PT  - Systematic Review
+DEP - 20160506
+PL  - Netherlands
+TA  - Pharmacol Res
+JT  - Pharmacological research
+JID - 8907422
+RN  - 0 (Biomarkers)
+RN  - 0 (Blood Glucose)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Hypolipidemic Agents)
+RN  - 0 (Lipids)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Biomarkers/blood
+MH  - Blood Glucose/*drug effects/metabolism
+MH  - *Dietary Supplements/adverse effects
+MH  - Drug Combinations
+MH  - Dyslipidemias/blood/diagnosis/*drug therapy
+MH  - Female
+MH  - Humans
+MH  - Hyperglycemia/blood/diagnosis/*drug therapy
+MH  - Hypoglycemic Agents/*administration & dosage/adverse effects
+MH  - Hypolipidemic Agents/*administration & dosage/adverse effects
+MH  - Lipids/*blood
+MH  - Male
+MH  - Middle Aged
+MH  - Randomized Controlled Trials as Topic
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - *Astaxanthin (PubChem CID: 5281224)
+OT  - *Berberine
+OT  - *Berberine (PubChem CID: 2353)
+OT  - *Cholesterol
+OT  - *Coenzyme Q(10) (PubChem CID: 5281915)
+OT  - *Folic acid (PubChem CID: 6037)
+OT  - *Glucose
+OT  - *Lipid
+OT  - *Monacolin K (PubChem CID: 53232)
+OT  - *Nutraceutical
+OT  - *Red yeast rice
+EDAT- 2016/05/10 06:00
+MHDA- 2017/12/22 06:00
+CRDT- 2016/05/10 06:00
+PHST- 2016/03/15 00:00 [received]
+PHST- 2016/04/20 00:00 [revised]
+PHST- 2016/04/20 00:00 [accepted]
+PHST- 2016/05/10 06:00 [entrez]
+PHST- 2016/05/10 06:00 [pubmed]
+PHST- 2017/12/22 06:00 [medline]
+AID - S1043-6618(16)30199-2 [pii]
+AID - 10.1016/j.phrs.2016.04.021 [doi]
+PST - ppublish
+SO  - Pharmacol Res. 2016 Aug;110:76-88. doi: 10.1016/j.phrs.2016.04.021. Epub 2016 May 6.
+
+PMID- 31707234
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201118
+LR  - 20201118
+IS  - 2211-0356 (Electronic)
+IS  - 2211-0348 (Linking)
+VI  - 37
+DP  - 2020 Jan
+TI  - The effect of emerging nutraceutical interventions for clinical and biological 
+      outcomes in multiple sclerosis: A systematic review.
+PG  - 101486
+LID - S2211-0348(19)30475-4 [pii]
+LID - 10.1016/j.msard.2019.101486 [doi]
+AB  - BACKGROUND: Due to the considerable burden of multiple sclerosis (MS)-related 
+      symptoms and the need to identify effective interventions to prevent disease 
+      progression, various nutraceutical interventions have been trialed as adjunctive 
+      treatments. The aim of this review was to investigate the efficacy and safety of 
+      nutraceutical interventions for clinical and biological outcomes in people with MS. 
+      METHODS: In accordance with PRISMA reporting guidelines, a systematic literature 
+      search was conducted using three electronic literature databases. Risk of bias was 
+      assessed using the Jadad scale. RESULTS: Thirty-seven randomized controlled trials, 
+      investigating fourteen nutraceuticals, were included in the review. Trials that 
+      investigated alpha lipoic acid (n = 4/6), ginkgo biloba (n = 3/5), vitamin A 
+      (n = 2/2), biotin (n = 1/2), carnitine (n = 1/2), green tea (n = 1/2), coenzyme Q10 
+      (n = 1/1), probiotics (n = 1/1), curcumin (n = 1/1), Andrographis paniculata 
+      (n = 1/1), ginseng (n = 1/1), and lemon verbena (n = 1/1) were reported to improve 
+      biological (e.g. MRI brain volume change, antioxidant capacity) and/or clinical 
+      (e.g. fatigue, depression, Expanded Disability Status Scale) outcomes in multiple 
+      sclerosis compared to control. However, most trials were relatively small (average 
+      study sample size across included studies, n = 55) and there were few replicate 
+      studies per nutraceutical to validate the reported results. Furthermore, some 
+      nutraceuticals (e.g. green tea and inosine) should be used with caution due to 
+      reported adverse events. Risk of bias across most studies was low, with 31 studies 
+      receiving a score between 4 and 5 (out of 5) on the Jadad Scale. CONCLUSION: The 
+      existing literature provides preliminary support for the use of a number of 
+      nutraceutical interventions in MS. However, sufficiently powered long-term trials 
+      are required to expand the currently limited literature and to investigate 
+      unexplored nutraceuticals that may target relevant pathways involved in MS such as 
+      the gut microbiome and mitochondrial dysfunction. Prospero ID: CRD42018111736.
+CI  - Copyright © 2019 Elsevier B.V. All rights reserved.
+FAU - Marx, Wolfgang
+AU  - Marx W
+AD  - Deakin University, IMPACT Strategic Research Centre, School of Medicine, Barwon 
+      Health, Geelong, Australia; Murdoch Children's Research Institute, Royal Children's 
+      Hospital, Australia. Electronic address: wolf.marx@deakin.edu.au.
+FAU - Hockey, Meghan
+AU  - Hockey M
+AD  - Deakin University, IMPACT Strategic Research Centre, School of Medicine, Barwon 
+      Health, Geelong, Australia.
+FAU - McGuinness, Amelia J
+AU  - McGuinness AJ
+AD  - Deakin University, IMPACT Strategic Research Centre, School of Medicine, Barwon 
+      Health, Geelong, Australia.
+FAU - Lane, Melissa
+AU  - Lane M
+AD  - Deakin University, IMPACT Strategic Research Centre, School of Medicine, Barwon 
+      Health, Geelong, Australia.
+FAU - Christodoulou, John
+AU  - Christodoulou J
+AD  - Murdoch Children's Research Institute, Royal Children's Hospital, Australia; 
+      Department of Paediatrics, University of Melbourne, Parkville, Melbourne, Australia.
+FAU - van der Mei, Ingrid
+AU  - van der Mei I
+AD  - Menzies Institute for Medical Research, University of Tasmania, Hobart, Australia.
+FAU - Berk, Michael
+AU  - Berk M
+AD  - Deakin University, IMPACT Strategic Research Centre, School of Medicine, Barwon 
+      Health, Geelong, Australia.
+FAU - Dean, Olivia M
+AU  - Dean OM
+AD  - Deakin University, IMPACT Strategic Research Centre, School of Medicine, Barwon 
+      Health, Geelong, Australia; Florey Institute for Neuroscience and Mental Health, 
+      University of Melbourne, Kenneth Myer Building, Australia; University of Melbourne, 
+      Department of Psychiatry, Level 1 North, Main Block, Royal Melbourne Hospital, 
+      Parkville, Australia.
+FAU - Taylor, Bruce
+AU  - Taylor B
+AD  - Menzies Institute for Medical Research, University of Tasmania, Hobart, Australia.
+FAU - Broadley, Simon
+AU  - Broadley S
+AD  - School of Medicine, Griffith University, Gold Coast, Queensland Australia.
+FAU - Lechner-Scott, Jeannette
+AU  - Lechner-Scott J
+AD  - School of Medicine and Public Health, University Newcastle, Australia; Department of 
+      Neurology, John Hunter Hospital, Hunter New England Health, Newcastle, Australia.
+FAU - Jacka, Felice N
+AU  - Jacka FN
+AD  - Deakin University, IMPACT Strategic Research Centre, School of Medicine, Barwon 
+      Health, Geelong, Australia.
+FAU - Lucas, Robyn M
+AU  - Lucas RM
+AD  - National Centre for Epidemiology and Population Health, Research School of 
+      Population Health, The Australian National University, Canberra, Australia; Centre 
+      for Ophthalmology and Visual Sciences, University of Western Australia, Perth, 
+      Australia.
+FAU - Ponsonby, Anne-Louise
+AU  - Ponsonby AL
+AD  - Murdoch Children's Research Institute, Royal Children's Hospital, Australia; 
+      National Centre for Epidemiology and Population Health, Research School of 
+      Population Health, The Australian National University, Canberra, Australia.
+CN  - RELIEF Trial team
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20191102
+PL  - Netherlands
+TA  - Mult Scler Relat Disord
+JT  - Multiple sclerosis and related disorders
+JID - 101580247
+SB  - IM
+MH  - *Dietary Supplements
+MH  - Humans
+MH  - Multiple Sclerosis/*diet therapy
+MH  - *Outcome Assessment, Health Care
+OTO - NOTNLM
+OT  - Dietary supplement
+OT  - Multiple sclerosis
+OT  - Nutraceutical
+OT  - Vitamin
+EDAT- 2019/11/11 06:00
+MHDA- 2020/11/20 06:00
+CRDT- 2019/11/11 06:00
+PHST- 2019/05/24 00:00 [received]
+PHST- 2019/09/11 00:00 [revised]
+PHST- 2019/10/28 00:00 [accepted]
+PHST- 2019/11/11 06:00 [pubmed]
+PHST- 2020/11/20 06:00 [medline]
+PHST- 2019/11/11 06:00 [entrez]
+AID - S2211-0348(19)30475-4 [pii]
+AID - 10.1016/j.msard.2019.101486 [doi]
+PST - ppublish
+SO  - Mult Scler Relat Disord. 2020 Jan;37:101486. doi: 10.1016/j.msard.2019.101486. Epub 
+      2019 Nov 2.
+
+PMID- 28960779
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180326
+LR  - 20180326
+IS  - 1096-9888 (Electronic)
+IS  - 1076-5174 (Linking)
+VI  - 53
+IP  - 1
+DP  - 2018 Jan
+TI  - Quantitation of anthocyanins in elderberry fruit extracts and nutraceutical 
+      formulations with paper spray ionization mass spectrometry.
+PG  - 58-64
+LID - 10.1002/jms.4033 [doi]
+AB  - The ability to rapidly identify and quantitate, over a wide range of concentrations, 
+      anthocyanins in food and therapeutic products is important to ensuring their 
+      presence at medicinally significant levels. Sensitive, yet mild, analysis conditions 
+      are required given their susceptibility to degradation and transformation. Paper 
+      spray ionization has been used to detect and quantify the levels of anthocyanin 
+      levels in extracts of fresh and dried elderberries, and elderberry stems, as well as 
+      3 commercially available nutraceutical formulations. The component cyanidin 
+      glucosides, including cyanidin-3-sambubioside, cyanidin-3-glucoside, 
+      cyanidin-3,5-diglucoside, cyanidin-3-sambubioside-5-glucoside, and the aglycone 
+      cyanidin, were readily detected in a range of sources. Quantitation was achieved by 
+      establishing a calibration plot from dilutions of a stock solution of 
+      cyanidin-3,5-diglucoside containing malvidin-3,5-diglucoside as an internal standard 
+      at a fixed concentration. The same standard was used to quantify the anthocyanin 
+      content in the fruit and nutraceutical formulations. Wide 5-fold variations in 
+      anthocyanin concentration were detected in the nutraceutical formulations from 
+      different suppliers ranging from 1050 to 5430 mg/100 g. These concentrations 
+      compared with 500 to 2370 mg/100 g measured in the dried stems and fruit, 
+      respectively.
+CI  - Copyright © 2017 John Wiley & Sons, Ltd.
+FAU - Cody, Robert B
+AU  - Cody RB
+AD  - JEOL USA Inc., Peabody, MA, USA.
+FAU - Tamura, Jun
+AU  - Tamura J
+AD  - JEOL Ltd., Akishima, Tokyo, Japan.
+FAU - Downard, Kevin M
+AU  - Downard KM
+AUID- ORCID: 0000-0003-0904-4141
+AD  - University of New South Wales, Sydney, Australia.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Mass Spectrom
+JT  - Journal of mass spectrometry : JMS
+JID - 9504818
+RN  - 0 (Anthocyanins)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Anthocyanins/*analysis/chemistry
+MH  - Chromatography, Paper
+MH  - Dietary Supplements/*analysis
+MH  - Fruit/chemistry
+MH  - Humans
+MH  - Mass Spectrometry
+MH  - Plant Extracts/analysis/chemistry
+MH  - Sambucus/*chemistry
+OTO - NOTNLM
+OT  - anthocyanins
+OT  - elderberry
+OT  - paper spray mass spectrometry
+OT  - quantitation
+EDAT- 2017/09/30 06:00
+MHDA- 2018/03/27 06:00
+CRDT- 2017/09/30 06:00
+PHST- 2017/07/11 00:00 [received]
+PHST- 2017/09/17 00:00 [revised]
+PHST- 2017/09/19 00:00 [accepted]
+PHST- 2017/09/30 06:00 [pubmed]
+PHST- 2018/03/27 06:00 [medline]
+PHST- 2017/09/30 06:00 [entrez]
+AID - 10.1002/jms.4033 [doi]
+PST - ppublish
+SO  - J Mass Spectrom. 2018 Jan;53(1):58-64. doi: 10.1002/jms.4033.
+
+PMID- 32154151
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2231-4040 (Print)
+IS  - 0976-2094 (Electronic)
+IS  - 0976-2094 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2020 Jan-Mar
+TI  - Physicochemical properties of Arenga pinnata Merr. endosperm and its antidiabetic 
+      activity for nutraceutical application.
+PG  - 1-5
+LID - 10.4103/japtr.JAPTR_91_19 [doi]
+AB  - This study aims to provide information on physicochemical properties of Arenga 
+      pinnata endosperm (APE) and its antidiabetic activity for utilization in the food 
+      and pharmaceutical industries. The antidiabetic effect of APE was studied through an 
+      observational experiment on the blood glucose level of rats. The physicochemical 
+      properties of APE were determined using a texturometer, X-ray powder diffraction, 
+      Brookfield viscometer, scanning electron microscopy, Fourier-transform infrared 
+      spectroscopy, and light microscope. The APE was categorized based on its texture 
+      into three groups. The crystal structure of APE is microspore and amorf while the 
+      hydrogel has a non-Newtonian property and is stable at 50°C. The viscosity index was 
+      increased in the increasing temperature with the order of high viscosity of APE 
+      being 1, 2, and 3. The hydrogel shape of APE 1 and 3 was lameral in the 
+      concentration of 1.25%. For antidiabetic study, the findings demonstrated that the 
+      APE could reduce the blood glucose level. The APE powders 1 and 2 with the 
+      respective weight of 50 and 200 mg have significant effects on reducing rat blood 
+      glucose level compared to the diabetic rats. Based on these properties, APE could 
+      potentially be used as a natural antidiabetic food without having any side effect 
+      and in the pharmaceutical industry for some purposes.
+CI  - Copyright: © 2020 Journal of Advanced Pharmaceutical Technology & Research.
+FAU - Tarigan, Juliati Br
+AU  - Tarigan JB
+AD  - Department of Chemistry, Universitas Sumatera Utara, Medan, Indonesia.
+FAU - Barus, Diana A
+AU  - Barus DA
+AD  - Department of Physics, Universitas Sumatera Utara, Medan, Indonesia.
+FAU - Dalimunthe, Aminah
+AU  - Dalimunthe A
+AD  - Department of Pharmacology, Universitas Sumatera Utara, Medan, Indonesia.
+FAU - Perangin-Angin, Sabarmin
+AU  - Perangin-Angin S
+AD  - Department of Chemistry, Universitas Sumatera Utara, Medan, Indonesia.
+FAU - Nguyen, Trung T
+AU  - Nguyen TT
+AD  - Department of Food Technology, An Giang University, Long Xuyen City, Australia.
+AD  - Department of Medical Biotechnology, Flinders University, Adelaide, Australia.
+LA  - eng
+PT  - Journal Article
+TA  - J Adv Pharm Technol Res
+JT  - Journal of advanced pharmaceutical technology & research
+JID - 101537797
+PMC - PMC7034176
+OTO - NOTNLM
+OT  - Antidiabetic
+OT  - Arenga pinnata endosperm
+OT  - physicochemical properties
+COIS- There are no conflicts of interest.
+EDAT- 2020/03/11 06:00
+MHDA- 2020/03/11 06:01
+CRDT- 2020/03/11 06:00
+PHST- 2020/03/11 06:00 [entrez]
+PHST- 2020/03/11 06:00 [pubmed]
+PHST- 2020/03/11 06:01 [medline]
+AID - JAPTR-11-1 [pii]
+AID - 10.4103/japtr.JAPTR_91_19 [doi]
+PST - ppublish
+SO  - J Adv Pharm Technol Res. 2020 Jan-Mar;11(1):1-5. doi: 10.4103/japtr.JAPTR_91_19.
+
+PMID- 32600481
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210727
+LR  - 20210727
+IS  - 1601-5215 (Electronic)
+IS  - 0924-2708 (Linking)
+VI  - 32
+IP  - 6
+DP  - 2020 Dec
+TI  - Interleukin-6 and total antioxidant capacity levels following N-acetylcysteine and a 
+      combination nutraceutical intervention in a randomised controlled trial for bipolar 
+      disorder.
+PG  - 313-320
+LID - 10.1017/neu.2020.25 [doi]
+AB  - OBJECTIVE: The aims of this study were to evaluate changes in inflammatory and 
+      oxidative stress levels following treatment with N-acetylcysteine (NAC) or 
+      mitochondrial-enhancing agents (CT), and to assess the how these changes may predict 
+      and/or moderate clinical outcomes primarily the Montgomery-Åsberg Depression Rating 
+      Scale (MADRS). METHODS: This study involved secondary analysis of a 
+      placebo-controlled randomised trial (n = 163). Serum samples were collected at 
+      baseline and week 16 of the clinical trial to determine changes in Interleukin-6 
+      (IL-6) and total antioxidant capacity (TAC) following adjunctive CT and/or NAC 
+      treatment, and to explore the predictability of the outcome or moderator effects of 
+      these markers. RESULTS: In the NAC-treated group, no difference was observed in 
+      serum IL-6 and TAC levels after 16 weeks of treatment with NAC or CT. However, 
+      results from a moderator analysis showed that in the CT group, lower IL-6 levels at 
+      baseline was a significant moderator of MADRS χ2 (df) = 4.90, p = 0.027) and 
+      Clinical Global Impression-Improvement (CGI-I, χ2 (df) = 6.28 p = 0.012). In 
+      addition, IL-6 was a non-specific but significant predictor of functioning (based on 
+      the Social and Occupational Functioning Assessment Scale (SOFAS)), indicating that 
+      individuals with higher IL-6 levels at baseline had a greater improvement on SOFAS 
+      regardless of their treatment (p = 0.023). CONCLUSION: Participants with lower IL-6 
+      levels at baseline had a better response to the adjunctive treatment with the 
+      mitochondrial-enhancing agents in terms of improvements in MADRS and CGI-I outcomes.
+FAU - Bortolasci, C C
+AU  - Bortolasci CC
+AUID- ORCID: 0000-0002-0794-6363
+AD  - The Institute for Mental and Physical Health and Clinical Translation, Deakin 
+      University, Barwon Health, Geelong, Australia.
+FAU - Voigt, C
+AU  - Voigt C
+AD  - University of Bremen, Bremen, Germany.
+FAU - Turner, A
+AU  - Turner A
+AD  - The Institute for Mental and Physical Health and Clinical Translation, Deakin 
+      University, Barwon Health, Geelong, Australia.
+FAU - Mohebbi, M
+AU  - Mohebbi M
+AD  - Biostatistics Unit, Faculty of Health, Deakin University, Geelong, Australia.
+FAU - Gray, L
+AU  - Gray L
+AD  - The Institute for Mental and Physical Health and Clinical Translation, Deakin 
+      University, Barwon Health, Geelong, Australia.
+FAU - Dodd, S
+AU  - Dodd S
+AD  - The Institute for Mental and Physical Health and Clinical Translation, Deakin 
+      University, Barwon Health, Geelong, Australia.
+AD  - Department of Psychiatry, The University of Melbourne, Parkville, Australia.
+AD  - Orygen, Parkville, Australia.
+FAU - Walder, K
+AU  - Walder K
+AD  - The Institute for Mental and Physical Health and Clinical Translation, Deakin 
+      University, Barwon Health, Geelong, Australia.
+FAU - Berk, M
+AU  - Berk M
+AD  - The Institute for Mental and Physical Health and Clinical Translation, Deakin 
+      University, Barwon Health, Geelong, Australia.
+AD  - Department of Psychiatry, The University of Melbourne, Parkville, Australia.
+AD  - Orygen, Parkville, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Australia.
+AD  - Centre for Youth Mental Health, The University of Melbourne, Parkville, Australia.
+FAU - Cotton, S M
+AU  - Cotton SM
+AD  - Orygen, Parkville, Australia.
+AD  - Centre for Youth Mental Health, The University of Melbourne, Parkville, Australia.
+FAU - Malhi, G S
+AU  - Malhi GS
+AUID- ORCID: 0000-0002-4524-9091
+AD  - Northern Clinical School, Department of Psychiatry, Faculty of Medicine and Health, 
+      The University of Sydney, Sydney, Australia.
+AD  - Academic Department of Psychiatry, Royal North Shore Hospital, Northern Sydney Local 
+      Health District, St Leonards, Australia.
+AD  - CADE Clinic, Royal North Shore Hospital, Northern Sydney Local Health District, St 
+      Leonards, Australia.
+FAU - Ng, C H
+AU  - Ng CH
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Dowling, N
+AU  - Dowling N
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Sarris, J
+AU  - Sarris J
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+FAU - Dean, O M
+AU  - Dean OM
+AD  - The Institute for Mental and Physical Health and Clinical Translation, Deakin 
+      University, Barwon Health, Geelong, Australia.
+AD  - Department of Psychiatry, The University of Melbourne, Parkville, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20200630
+PL  - England
+TA  - Acta Neuropsychiatr
+JT  - Acta neuropsychiatrica
+JID - 9612501
+RN  - 0 (Antioxidants)
+RN  - 0 (Free Radical Scavengers)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Placebos)
+RN  - WYQ7N0BPYC (Acetylcysteine)
+SB  - IM
+MH  - Acetylcysteine/*pharmacology/therapeutic use
+MH  - Antioxidants/analysis
+MH  - Bipolar Disorder/*drug therapy/metabolism/physiopathology
+MH  - Case-Control Studies
+MH  - Depressive Disorder/drug therapy/metabolism
+MH  - Dietary Supplements/*adverse effects
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Energy Metabolism/drug effects
+MH  - Female
+MH  - Free Radical Scavengers/pharmacology/therapeutic use
+MH  - Humans
+MH  - Inflammation/metabolism
+MH  - Interleukin-6/*blood
+MH  - Male
+MH  - Mitochondria/drug effects
+MH  - Oxidative Stress/*drug effects
+MH  - Placebos/administration & dosage
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - N-acetylcysteine
+OT  - antioxidant
+OT  - bipolar disorder
+OT  - clinical trial
+OT  - inflammation
+EDAT- 2020/07/01 06:00
+MHDA- 2021/07/28 06:00
+CRDT- 2020/07/01 06:00
+PHST- 2020/07/01 06:00 [pubmed]
+PHST- 2021/07/28 06:00 [medline]
+PHST- 2020/07/01 06:00 [entrez]
+AID - S0924270820000253 [pii]
+AID - 10.1017/neu.2020.25 [doi]
+PST - ppublish
+SO  - Acta Neuropsychiatr. 2020 Dec;32(6):313-320. doi: 10.1017/neu.2020.25. Epub 2020 Jun 
+      30.
+
+PMID- 29310724
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190207
+LR  - 20190215
+IS  - 1475-2662 (Electronic)
+IS  - 0007-1145 (Linking)
+VI  - 119
+IP  - 3
+DP  - 2018 Feb
+TI  - Effect of long-term nutraceutical and dietary supplement use on cognition in the 
+      elderly: a 10-year systematic review of randomised controlled trials.
+PG  - 280-298
+LID - 10.1017/S0007114517003452 [doi]
+AB  - Nutraceuticals have generated interest as a way to mitigate the cognitive decline in 
+      older adults. The aim of this systematic review was to determine the evidence for 
+      these claims from the scientific literature in randomised, double-blinded, 
+      controlled trials (duration: ≥1 year; participants: n≥100; age(mean): ≥65 years). 
+      Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 
+      (PRISMA) guidelines, we searched four electronic databases (PubMed, Scopus, CINAHL 
+      and Web of Science) and identified twenty-five studies published between the 
+      15·June·2006 and 14·June·2016. Interventions included B-vitamins, n-3 fatty acids, 
+      antioxidant vitamins and herbs. Of the B-vitamin studies, four found benefits to 
+      cognition with supplementation. The first of these B-vitamin studies, in individuals 
+      with mild cognitive impairment (n 266; duration=2 years), included benefit to 
+      executive function (P=0·015) and improvements in the Mini-Mental State Examination 
+      (MMSE) among participants with baseline homocysteine above 11·3 µmol/l (P<0·001). In 
+      the same sample, the second study found cognitive benefits of B-vitamins dependent 
+      on the higher baseline plasma n-3 fatty acid status. The third B-vitamin study (n 
+      900; duration=2 years) reported improved performance in immediate (P=0·046) and 
+      delayed recall (P=0·013), whereas the fourth study (n 856; duration=2 years) 
+      reported slower rate of cognitive decline in the MMSE (P=0·05). One study 
+      investigating DHA treatment (n 402; duration=1·5 years) revealed the slower rate of 
+      cognitive change in apoE e4 non-carriers (P=0·03). As only five included studies 
+      revealed notable benefits, presently based on the specific compounds explored here, 
+      there is not compelling evidence to support the use nutraceuticals to improve 
+      cognition in the elderly. Future long-term trials of nutraceuticals should 
+      investigate interactions with lifestyle, blood biomarkers and genetic risk factors.
+FAU - D'Cunha, Nathan M
+AU  - D'Cunha NM
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+FAU - Georgousopoulou, Ekavi N
+AU  - Georgousopoulou EN
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+FAU - Dadigamuwage, Lakshika
+AU  - Dadigamuwage L
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+FAU - Kellett, Jane
+AU  - Kellett J
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+FAU - Panagiotakos, Demosthenes B
+AU  - Panagiotakos DB
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+FAU - Thomas, Jackson
+AU  - Thomas J
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+FAU - McKune, Andrew J
+AU  - McKune AJ
+AD  - 2Collaborative Research in Bioactives and Biomarkers (CRIBB) Group,Kirinari 
+      Street,Bruce,Canberra,ACT 2617,Australia.
+FAU - Mellor, Duane D
+AU  - Mellor DD
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+FAU - Naumovski, Nenad
+AU  - Naumovski N
+AD  - 1Faculty Health,University of Canberra,Kirinari Street,Bruce,Canberra,ACT 
+      2617,Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20180109
+PL  - England
+TA  - Br J Nutr
+JT  - The British journal of nutrition
+JID - 0372547
+RN  - 0 (Antioxidants)
+RN  - 0 (Fatty Acids, Omega-3)
+RN  - 0 (Plant Preparations)
+RN  - 0 (Vitamins)
+RN  - 12001-76-2 (Vitamin B Complex)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antioxidants/administration & dosage
+MH  - Cognition/drug effects/*physiology
+MH  - *Dietary Supplements
+MH  - Double-Blind Method
+MH  - Fatty Acids, Omega-3/administration & dosage
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Plant Preparations/administration & dosage
+MH  - *Randomized Controlled Trials as Topic
+MH  - Vitamin B Complex/administration & dosage
+MH  - Vitamins/administration & dosage
+OTO - NOTNLM
+OT  - * AD Alzheimer’s disease
+OT  - * ADAS-cog cognitive subscale of Alzheimer’s Disease Assessment Scale
+OT  - * APOE4 apoE e4
+OT  - * CDR Clinical Dementia Rating Scale
+OT  - * CSF cerebrospinal fluid
+OT  - * FADS fatty acid desaturase
+OT  - * Hcy homocysteine
+OT  - * MCI mild cognitive impairment
+OT  - * MMSE Mini-Mental State Examination
+OT  - * QoL quality of life
+OT  - * RCT randomised controlled trial
+OT  - * TICS Telephone Interview of Cognitive Status
+OT  - *Cognition
+OT  - *Dementia
+OT  - *Dietary supplements
+OT  - *Elderly
+OT  - *Mild cognitive impairment
+OT  - *Nutraceuticals
+OT  - *Vitamins
+EDAT- 2018/01/10 06:00
+MHDA- 2019/02/08 06:00
+CRDT- 2018/01/10 06:00
+PHST- 2018/01/10 06:00 [pubmed]
+PHST- 2019/02/08 06:00 [medline]
+PHST- 2018/01/10 06:00 [entrez]
+AID - S0007114517003452 [pii]
+AID - 10.1017/S0007114517003452 [doi]
+PST - ppublish
+SO  - Br J Nutr. 2018 Feb;119(3):280-298. doi: 10.1017/S0007114517003452. Epub 2018 Jan 9.
+
+PMID- 23782872
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131105
+LR  - 20211021
+IS  - 1742-2094 (Electronic)
+IS  - 1742-2094 (Linking)
+VI  - 10
+DP  - 2013 Jun 19
+TI  - Nutraceutical agents with anti-inflammatory properties prevent dietary saturated-fat 
+      induced disturbances in blood-brain barrier function in wild-type mice.
+PG  - 73
+LID - 10.1186/1742-2094-10-73 [doi]
+AB  - BACKGROUND: Emerging evidence suggests that disturbances in the blood-brain barrier 
+      (BBB) may be pivotal to the pathogenesis and pathology of vascular-based 
+      neurodegenerative disorders. Studies suggest that heightened systemic and central 
+      inflammations are associated with BBB dysfunction. This study investigated the 
+      effect of the anti-inflammatory nutraceuticals garlic extract-aged (GEA), alpha 
+      lipoic acid (ALA), niacin, and nicotinamide (NA) in a murine dietary-induced model 
+      of BBB dysfunction. METHODS: C57BL/6 mice were fed a diet enriched in saturated 
+      fatty acids (SFA, 40% fat of total energy) for nine months to induce systemic 
+      inflammation and BBB disturbances. Nutraceutical treatment groups included the 
+      provision of either GEA, ALA, niacin or NA in the positive control SFA-group and in 
+      low-fat fed controls. Brain parenchymal extravasation of plasma derived 
+      immunoglobulin G (IgG) and large macromolecules (apolipoprotein (apo) B 
+      lipoproteins) measured by quantitative immunofluorescent microscopy, were used as 
+      markers of disturbed BBB integrity. Parenchymal glial fibrillar acidic protein 
+      (GFAP) and cyclooxygenase-2 (COX-2) were considered in the context of surrogate 
+      markers of neurovascular inflammation and oxidative stress. Total anti-oxidant 
+      status and glutathione reductase activity were determined in plasma. RESULTS: Brain 
+      parenchymal abundance of IgG and apoB lipoproteins was markedly exaggerated in mice 
+      maintained on the SFA diet concomitant with significantly increased GFAP and COX-2, 
+      and reduced systemic anti-oxidative status. The nutraceutical GEA, ALA, niacin, and 
+      NA completely prevented the SFA-induced disturbances of BBB and normalized the 
+      measures of neurovascular inflammation and oxidative stress. CONCLUSIONS: The 
+      anti-inflammatory nutraceutical agents GEA, ALA, niacin, or NA are potent inhibitors 
+      of dietary fat-induced disturbances of BBB induced by systemic inflammations.
+FAU - Takechi, Ryusuke
+AU  - Takechi R
+AD  - School of Public Health, Curtin Health Innovation Research Institute, Biosciences 
+      Research Precinct, Faculty of Health Sciences, Curtin University, Kent st, Bentley, 
+      WA, 6102, Australia.
+FAU - Pallebage-Gamarallage, Menuka M
+AU  - Pallebage-Gamarallage MM
+FAU - Lam, Virginie
+AU  - Lam V
+FAU - Giles, Corey
+AU  - Giles C
+FAU - Mamo, John C
+AU  - Mamo JC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130619
+TA  - J Neuroinflammation
+JT  - Journal of neuroinflammation
+JID - 101222974
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Apolipoproteins A)
+RN  - 0 (Dietary Fats)
+RN  - 0 (Fatty Acids)
+RN  - 0 (Glial Fibrillary Acidic Protein)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Lipids)
+RN  - 2679MF687A (Niacin)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+SB  - IM
+MH  - Animals
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*pharmacology
+MH  - Apolipoproteins A/metabolism
+MH  - Blood-Brain Barrier/*drug effects/physiology
+MH  - Cyclooxygenase 2/metabolism
+MH  - *Diet
+MH  - Dietary Fats/*pharmacology
+MH  - *Dietary Supplements
+MH  - Fatty Acids/*pharmacology
+MH  - Female
+MH  - Glial Fibrillary Acidic Protein/metabolism
+MH  - Immunoglobulin G/metabolism
+MH  - Inflammation/pathology
+MH  - Lipids/blood
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Microscopy, Fluorescence
+MH  - Niacin/pharmacology
+MH  - Oxidative Stress/physiology
+MH  - Weight Gain/physiology
+PMC - PMC3693897
+EDAT- 2013/06/21 06:00
+MHDA- 2013/11/06 06:00
+CRDT- 2013/06/21 06:00
+PHST- 2012/12/21 00:00 [received]
+PHST- 2013/06/08 00:00 [accepted]
+PHST- 2013/06/21 06:00 [entrez]
+PHST- 2013/06/21 06:00 [pubmed]
+PHST- 2013/11/06 06:00 [medline]
+AID - 1742-2094-10-73 [pii]
+AID - 10.1186/1742-2094-10-73 [doi]
+PST - epublish
+SO  - J Neuroinflammation. 2013 Jun 19;10:73. doi: 10.1186/1742-2094-10-73.
+
+PMID- 30466632
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190124
+LR  - 20190124
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 51
+DP  - 2018 Dec 1
+TI  - Mechanistic insights to the cardioprotective effect of blueberry nutraceutical 
+      extract in isoprenaline-induced cardiac hypertrophy.
+PG  - 84-93
+LID - S0944-7113(18)30529-4 [pii]
+LID - 10.1016/j.phymed.2018.10.009 [doi]
+AB  - BACKGROUND: Lowbush blueberry extract (Vaccinium angustifolium) is abundant with 
+      polyphenols (such as chlorogenic acid) with high antioxidant profile. It has 
+      received great interest due to its protective role in many disorders such as heart 
+      diseases and neurological disorders. HYPOTHESIS: We hypothesized that blueberry leaf 
+      extract might have a protective effect against cardiac hypertrophy via suppressing 
+      oxidative stress, inflammation and fibrosis. METHOD: Blueberry leaf nutraceutical 
+      extract was administered orally to male albino rats at three different doses (25, 50 
+      and 100 mg/kg/day of the extract, equivalent to 3.4, 6.8 and 13.6 mg of chlorogenic 
+      acid, respectively) once daily for 28 consecutive days against a dose of 
+      isoprenaline (ISO) (5 mg/kg) for 14 days. RESULTS: The results indicated that 
+      isoprenaline induced significant myocardial damage, characterized by conduction 
+      abnormalities, increased heart-to-body weight ratio, increased serum CKMB, AST, 
+      c-TnI and LDH. Pretreatment with blueberry extract at a dose of 50 mg/kg/day 
+      (equivalent to 6.8 mg chlorogenic acid) protected against ISO-induced ECG changes, 
+      leakage of cardiac enzymes and histopathological changes. Also, ISO caused 
+      significant glutathione depletion, lipid peroxidation and reduction in activities of 
+      antioxidant catalase enzyme. These effects were prevented by pretreatment with 
+      blueberry extract. Additionally, ISO elicited inflammatory effects by increasing the 
+      expression of NF-κB, COX-2, TNF-α and IL-6 while pretreatment with blueberry extract 
+      significantly inhibited these inflammatory responses. Furthermore, ISO induced 
+      fibrosis by increasing the level of TGF-β while pretreatment with blueberry extract 
+      significantly reduced it. CONCLUSION: These findings indicate that blueberry leaf 
+      extract possessed a potent protective effect against ISO-induced cardiac hypertrophy 
+      via suppressing oxidative stress, inflammation and fibrosis.
+CI  - Copyright © 2018 Elsevier GmbH. All rights reserved.
+FAU - Eladwy, Radwa A
+AU  - Eladwy RA
+AD  - Department of Pharmacology and Toxicology, Faculty of Pharmacy, Egyptian Russian 
+      University, Badr City, Cairo 11829, Egypt.
+FAU - Mantawy, Eman M
+AU  - Mantawy EM
+AD  - Department of Pharmacology and Toxicology, Faculty of Pharmacy, Ain Shams 
+      University, Cairo 11566, Egypt.
+FAU - El-Bakly, Wesam M
+AU  - El-Bakly WM
+AD  - Department of Pharmacology and Therapeutics, Faculty of Medicine, Ain Shams 
+      University, Cairo 11566, Egypt.
+FAU - Fares, Mohamed
+AU  - Fares M
+AD  - School of Chemistry, University of Wollongong, Wollongong 2522, New South Wales, 
+      Australia.
+FAU - Ramadan, Laila A
+AU  - Ramadan LA
+AD  - Department of Pharmacology and Toxicology, Faculty of Pharmacy, Egyptian Russian 
+      University, Badr City, Cairo 11829, Egypt.
+FAU - Azab, Samar S
+AU  - Azab SS
+AD  - Department of Pharmacology and Toxicology, Faculty of Pharmacy, Ain Shams 
+      University, Cairo 11566, Egypt. Electronic address: 
+      samar_saad_azab@pharma.asu.edu.eg.
+LA  - eng
+PT  - Journal Article
+DEP - 20181010
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+RN  - 0 (Cardiotonic Agents)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Polyphenols)
+RN  - EC 1.11.1.6 (Catalase)
+RN  - GAN16C9B8O (Glutathione)
+RN  - L628TT009W (Isoproterenol)
+SB  - IM
+MH  - Animals
+MH  - Blueberry Plants/*chemistry
+MH  - Cardiomegaly/chemically induced/*drug therapy
+MH  - Cardiotonic Agents/*pharmacology
+MH  - Catalase/metabolism
+MH  - *Dietary Supplements
+MH  - Fibrosis
+MH  - Glutathione/metabolism
+MH  - Heart/drug effects
+MH  - Inflammation/drug therapy
+MH  - Isoproterenol
+MH  - Lipid Peroxidation/drug effects
+MH  - Male
+MH  - Myocardium/pathology
+MH  - Oxidative Stress/drug effects
+MH  - Plant Extracts/*pharmacology
+MH  - Plant Leaves/chemistry
+MH  - Polyphenols/pharmacology
+MH  - Rats
+OTO - NOTNLM
+OT  - Blueberry
+OT  - Cardiac hypertrophy
+OT  - Inflammation
+OT  - Isoprenaline
+OT  - Nutraceuticals
+EDAT- 2018/11/24 06:00
+MHDA- 2019/01/25 06:00
+CRDT- 2018/11/24 06:00
+PHST- 2018/06/16 00:00 [received]
+PHST- 2018/09/30 00:00 [revised]
+PHST- 2018/10/09 00:00 [accepted]
+PHST- 2018/11/24 06:00 [entrez]
+PHST- 2018/11/24 06:00 [pubmed]
+PHST- 2019/01/25 06:00 [medline]
+AID - S0944-7113(18)30529-4 [pii]
+AID - 10.1016/j.phymed.2018.10.009 [doi]
+PST - ppublish
+SO  - Phytomedicine. 2018 Dec 1;51:84-93. doi: 10.1016/j.phymed.2018.10.009. Epub 2018 Oct 
+      10.
+
+PMID- 32769234
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211028
+LR  - 20211028
+IS  - 1745-7262 (Electronic)
+IS  - 1008-682X (Print)
+IS  - 1008-682X (Linking)
+VI  - 23
+IP  - 1
+DP  - 2021 Jan-Feb
+TI  - Use of a male antioxidant nutraceutical is associated with superior live birth rates 
+      during IVF treatment.
+PG  - 16-23
+LID - 10.4103/aja.aja_41_20 [doi]
+AB  - Oxidative stress is prevalent among infertile men and is a significant cause of 
+      sperm DNA damage. Since sperm DNA damage may reduce embryo quality and increase 
+      miscarriage rates, it is possible that untreated sperm oxidative stress may impair 
+      in vitro fertilization (IVF) live birth rates. Given that the antioxidant Menevit is 
+      reported to reduce sperm DNA damage, it was hypothesized that men's consumption of 
+      this supplement may alter IVF outcomes. Therefore, a retrospective cohort study was 
+      conducted analyzing outcomes for couples undergoing their first fresh embryo 
+      transfer. Men were classified as controls if they were taking no supplements, health 
+      conscious controls if taking "general health" supplements, or Menevit users. Men 
+      with karyotype abnormalities, or cycles using donated, frozen and surgically 
+      extracted sperm were excluded. Among the final study cohort of 657 men, live birth 
+      rates were significantly higher in Menevit users than controls (multivariate 
+      adjusted odds ratio [OR]: 1.57, 95% confidence interval [CI]: 1.01-2.45, P= 0.046), 
+      but not between controls taking no supplements and those using general health 
+      supplements, thereby suggesting that potential health conscious behavior in 
+      supplement users is unlikely responsible for the superior outcomes in Menevit users. 
+      Interestingly, in a post hoc sensitivity analysis, live birth rates among Menevit 
+      users were statistically superior to controls for lean men (OR: 2.73, 95% CI: 
+      1.18-6.28; P= 0.019), not their overweight/obese counterparts (OR: 1.29, 95% CI: 
+      0.75-2.22, P = 0.37). The results of this large cohort study therefore support a 
+      positive association between men's use of the Menevit antioxidant during IVF 
+      treatment and live birth rates, especially in lean individuals.
+FAU - Tremellen, Kelton
+AU  - Tremellen K
+AD  - Repromed, 180 Fullarton Road Dulwich, South Australia 5065, Australia.
+AD  - Department of Obstetrics Gynaecology and Reproductive Medicine, Flinders University, 
+      Bedford Park, South Australia 5042, Australia.
+FAU - Woodman, Richard
+AU  - Woodman R
+AD  - Flinders Centre for Epidemiology and Biostatistics, College of Medicine and Public 
+      Health, Flinders University, Bedford Park, South Australia 5042, Australia.
+FAU - Hill, Amy
+AU  - Hill A
+AD  - Repromed, 180 Fullarton Road Dulwich, South Australia 5065, Australia.
+FAU - Shehadeh, Helana
+AU  - Shehadeh H
+AD  - Repromed, 180 Fullarton Road Dulwich, South Australia 5065, Australia.
+AD  - Robinson Research Institute, University of Adelaide, Adelaide, South Australia 5000, 
+      Australia.
+FAU - Lane, Michelle
+AU  - Lane M
+AD  - Repromed, 180 Fullarton Road Dulwich, South Australia 5065, Australia.
+AD  - Robinson Research Institute, University of Adelaide, Adelaide, South Australia 5000, 
+      Australia.
+FAU - Zander-Fox, Deirdre
+AU  - Zander-Fox D
+AD  - Repromed, 180 Fullarton Road Dulwich, South Australia 5065, Australia.
+AD  - Future Industries Institute, University of South Australia, Adelaide, South 
+      Australia 5000, Australia.
+LA  - eng
+PT  - Journal Article
+TA  - Asian J Androl
+JT  - Asian journal of andrology
+JID - 100942132
+RN  - 0 (Antioxidants)
+SB  - IM
+MH  - Adult
+MH  - Antioxidants/*therapeutic use
+MH  - Body Mass Index
+MH  - *Dietary Supplements
+MH  - Embryo Transfer
+MH  - Female
+MH  - Fertilization in Vitro/*drug effects/methods
+MH  - Humans
+MH  - Live Birth
+MH  - Male
+MH  - Maternal Age
+MH  - Retrospective Studies
+PMC - PMC7831842
+OTO - NOTNLM
+OT  - *antioxidant
+OT  - *body mass index
+OT  - *fertilization
+OT  - *in vitro
+OT  - *live birth
+OT  - *oxidative stress
+OT  - *sperm
+COIS- None
+EDAT- 2020/08/10 06:00
+MHDA- 2021/10/29 06:00
+CRDT- 2020/08/10 06:00
+PHST- 2020/08/10 06:00 [pubmed]
+PHST- 2021/10/29 06:00 [medline]
+PHST- 2020/08/10 06:00 [entrez]
+AID - 291624 [pii]
+AID - AJA-23-16 [pii]
+AID - 10.4103/aja.aja_41_20 [doi]
+PST - ppublish
+SO  - Asian J Androl. 2021 Jan-Feb;23(1):16-23. doi: 10.4103/aja.aja_41_20.
+
+PMID- 31775518
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210818
+LR  - 20210818
+IS  - 1497-0015 (Electronic)
+IS  - 0706-7437 (Print)
+IS  - 0706-7437 (Linking)
+VI  - 65
+IP  - 5
+DP  - 2020 May
+TI  - Physical Activity as a Predictor of Clinical Trial Outcomes in Bipolar Depression: A 
+      Subanalysis of a Mitochondrial-Enhancing Nutraceutical Randomized Controlled Trial.
+PG  - 306-318
+LID - 10.1177/0706743719889547 [doi]
+AB  - OBJECTIVES: Individuals with bipolar disorder (BD) generally engage in low levels of 
+      physical activity (PA), and yet few studies have investigated the relationship 
+      between PA and change in BD symptom severity. The aim of this subanalysis of an 
+      adjunctive nutraceutical randomized controlled trial for the treatment of bipolar 
+      depression was to explore the relationship between PA, the active adjunctive 
+      treatments (a nutraceutical "mitochondrial cocktail"), and clinical outcomes. 
+      METHODS: Participants with bipolar depression were randomized to receive 
+      N-acetylcysteine alone, N-acetylcysteine with a combination of nutraceuticals 
+      (chosen for the potential to increase mitochondrial activity), or placebo for 16 
+      weeks. Participants (n = 145) who completed the International Physical Activity 
+      Questionnaire-Short Form (IPAQ-SF; measured at Week 4) were included in this 
+      exploratory subanalysis. Assessments of BD symptoms, functioning, and quality of 
+      life were completed at monthly visits up until Week 20. Generalised Estimating 
+      Equations were used to explore whether IPAQ-SF scores were a moderator of treatment 
+      received on outcomes of the study. RESULTS: Week-4 PA was not related to changes in 
+      Montgomery Åsberg Depression Rating Scale scores across the study until Week 20. 
+      However, participants who engaged in more PA and who received the combination 
+      treatment were more likely to have a reduction in scores on the Bipolar Depression 
+      Rating Scale (P = 0.03). However, this was not consistent in all domains explored 
+      using the IPAQ-SF. Participants who engaged in higher levels of PA also experienced 
+      greater improvement in social and occupational functioning and less impairment in 
+      functioning due to their psychopathology and improvement in quality of life at Week 
+      20, irrespective of treatment. CONCLUSIONS: This study provides novel evidence of 
+      the association between PA and reduction in BD symptoms in a nutraceutical clinical 
+      trial. However, further research assessing the potential synergistic effects of PA 
+      in BD is required.
+FAU - Ashton, Melanie M
+AU  - Ashton MM
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, University of 
+      Melbourne, Richmond, Victoria, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+FAU - Mohebbi, Mohammadreza
+AU  - Mohebbi M
+AD  - Biostatistics Unit, Faculty of Health, Deakin University, Geelong, Victoria, 
+      Australia.
+FAU - Turner, Alyna
+AU  - Turner A
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - School of Medicine and Public Health, Faculty of Health and Medicine, University of 
+      Newcastle, Callaghan, NSW 2308, Australia.
+FAU - Marx, Wolfgang
+AU  - Marx W
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - Department of Rehabilitation, Nutrition and Sport, School of Allied Health, College 
+      of Science, Health and Engineering, La Trobe University, Bundoora, Victoria, 
+      Australia.
+FAU - Berk, Michael
+AU  - Berk M
+AUID- ORCID: 0000-0002-5554-6946
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+AD  - School of Medicine and Public Health, Faculty of Health and Medicine, University of 
+      Newcastle, Callaghan, NSW 2308, Australia.
+AD  - Centre of Youth Mental Health, University of Melbourne, Parkville, Victoria, 
+      Australia.
+AD  - Orygen, Parkville, Victoria, Australia.
+FAU - Malhi, Gin S
+AU  - Malhi GS
+AD  - Academic Department of Psychiatry, Northern Sydney Local Health District, St 
+      Leonards, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, Department of Psychiatry, Northern Clinical School, 
+      University of Sydney, New South Wales, Australia.
+AD  - CADE Clinic, Royal North Shore Hospital, Northern Sydney Local Health District, St 
+      Leonards, New South Wales, Australia.
+FAU - Ng, Chee H
+AU  - Ng CH
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, University of 
+      Melbourne, Richmond, Victoria, Australia.
+FAU - Cotton, Sue M
+AU  - Cotton SM
+AD  - Centre of Youth Mental Health, University of Melbourne, Parkville, Victoria, 
+      Australia.
+AD  - Orygen, Parkville, Victoria, Australia.
+FAU - Dodd, Seetal
+AU  - Dodd S
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - School of Medicine and Public Health, Faculty of Health and Medicine, University of 
+      Newcastle, Callaghan, NSW 2308, Australia.
+AD  - Centre of Youth Mental Health, University of Melbourne, Parkville, Victoria, 
+      Australia.
+FAU - Sarris, Jerome
+AU  - Sarris J
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, University of 
+      Melbourne, Richmond, Victoria, Australia.
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, New South 
+      Wales, Australia.
+FAU - Hopwood, Malcolm
+AU  - Hopwood M
+AD  - Professorial Psychiatry Unit, Albert Road Clinic, Department of Psychiatry, 
+      University of Melbourne, Melbourne, Victoria, Australia.
+FAU - Stubbs, Brendon
+AU  - Stubbs B
+AD  - Physiotherapy Department, South London and Maudsley NHS Foundation Trust, London, 
+      United Kingdom.
+AD  - Department of Psychological Medicine, Institute of Psychiatry, Psychology and 
+      Neuroscience, King's College London, United Kingdom.
+FAU - Dean, Olivia M
+AU  - Dean OM
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+LA  - eng
+GR  - ICA-CL-2017-03-001/DH_/Department of Health/United Kingdom
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191128
+TA  - Can J Psychiatry
+JT  - Canadian journal of psychiatry. Revue canadienne de psychiatrie
+JID - 7904187
+SB  - IM
+MH  - *Bipolar Disorder/drug therapy
+MH  - Dietary Supplements
+MH  - Double-Blind Method
+MH  - Exercise
+MH  - Humans
+MH  - Quality of Life
+MH  - Treatment Outcome
+PMC - PMC7265618
+OAB - Publisher: Abstract available from the publisher.
+OABL- fre
+OTO - NOTNLM
+OT  - *N-acetylcysteine
+OT  - *bipolar depression
+OT  - *bipolar disorder
+OT  - *exercise
+OT  - *mitochondrial agents
+OT  - *nutraceuticals
+OT  - *physical activity
+COIS- Declaration of Conflicting Interests: M.M.A. has received grant/research support 
+      from Deakin University, Australasian Society for Bipolar Depressive Disorders, 
+      Lundbeck, Australian Rotary Health, Ian Parker Bipolar Research Fund, and 
+      Cooperative Research Centre for Mental Health. A.T. has received travel or grant 
+      support from the NHMRC, Deakin University, AMP Foundation, National Stroke 
+      Foundation, Hunter Medical Research Institute, Helen Macpherson Smith Trust, 
+      Schizophrenia Fellowship NSW, SMHR, ISAD, and the University of Newcastle. M.B. has 
+      received grant support from NIH, Simons Autism Foundation, Cancer Council of 
+      Victoria, CRC for Mental Health, Stanley Medical Research Foundation, MBF, NHMRC, 
+      Beyond Blue, Geelong Medical Research Foundation, Bristol Myers Squibb, Eli Lilly, 
+      GlaxoSmithKline, Organon, Novartis, Mayne Pharma, and Servier. M.B. has been a 
+      speaker for Astra Zeneca, Bristol Myers Squibb, Eli Lilly, GlaxoSmithKline, Janssen 
+      Cilag, Lundbeck, Merck, Pfizer, Sanofi Synthelabo, Servier, Solvay and Wyeth, and 
+      served as a consultant to Astra Zeneca, Bristol Myers Squibb, Eli Lilly, 
+      GlaxoSmithKline, Janssen Cilag, Lundbeck, and Servier. C.H.N. had served as a 
+      consultant for Lundbeck, Grunbiotics, Servier, Janssen-Cilag, Wyeth and Eli Lilly, 
+      received research grant support from Wyeth and Lundbeck, and speaker honoraria from 
+      Servier, Lundbeck, Bristol-Myers Squibb, Organon, Eli Lilly, GlaxoSmithKline, 
+      Janssen-Cilag, Astra-Zenaca, Wyeth, and Pfizer. M.H. has received grant support from 
+      ISSCR, Servier, US DOD, and Bionomics, has been a speaker for Janssen-Cilag, 
+      Lundbeck, and Servier, and has been a consultant for AstraZeneca, Eli Lilly, 
+      Janssen-Cilag, Lundbeck, and Servier. J.S. has received either presentation 
+      honoraria, travel support, clinical trial grants, book royalties or independent 
+      consultancy payments from Integria Healthcare & MediHerb, Pfizer, Scius Health, Key 
+      Pharmaceuticals, Taki Mai, Bioceuticals & Blackmores, Soho-Flordis, Healthworld, 
+      HealthEd, HealthMasters, Elsevier, Chaminade University, International Society for 
+      Affective Disorders, Complementary Medicines Australia, Terry White Chemists, ANS, 
+      Society for Medicinal Plant and Natural Product Research, UBiome, Omega-3 Centre, 
+      the National Health and Medical Research Council, CR Roper Fellowship. S.D. has 
+      received grant support from Stanley Medical Research Institute, NHMRC, Beyond Blue, 
+      ARHRF, Simons Foundation, Geelong Medical Research Foundation, Fondation 
+      FondaMental, Eli Lilly, Glaxo SmithKline, Organon, Mayne Pharma, and Servier. He has 
+      received speaker’s fees from Eli Lilly, advisory board fees from Eli Lilly and 
+      Novartis, and conference travel support from Servier. J.S. has received either 
+      presentation honoraria, travel support, clinical trial grants, book royalties or 
+      independent consultancy payments from Integria Healthcare & MediHerb, Pfizer, Scius 
+      Health, Key Pharmaceuticals, Taki Mai, Bioceuticals & Blackmores, Soho-Flordis, 
+      Healthworld, HealthEd, HealthMasters, Elsevier, Chaminade University, International 
+      Society for Affective Disorders, Complementary Medicines Australia, Terry White 
+      Chemists, ANS, Society for Medicinal Plant and Natural Product Research, UBiome, 
+      Omega-3 Centre, the National Health and Medical Research Council, CR Roper 
+      Fellowship. G.S.M. has received grant or research support from National Health and 
+      Medical Research Council, Australian Rotary Health, NSW Health, Ramsay Health, 
+      American Foundation for Suicide Prevention, Ramsay Research and Teaching Fund, 
+      Elsevier, AstraZeneca, and Servier; has been a speaker for AstraZeneca, 
+      Janssen-Cilag, Lundbeck, and Servier; and has been a consultant for AstraZeneca, 
+      Janssen Cilag, Lundbeck, and Servier. S.M.C. has received grant support from the 
+      NHMRC, the Stanley Medical Research Institute, BeyondBlue, Movember, The University 
+      of Melbourne, Australian Catholic University, ARHRF, and Mental Illness Research 
+      Fund (Victoria Department of Human Services). O.M.D. is a R.D. Wright Biomedical 
+      Research Fellow and has received grant support from the Brain and Behavior 
+      Foundation, Simons Autism Foundation, Stanley Medical Research Institute, Deakin 
+      University, Lilly, NHMRC and Australasian Society for Bipolar and Depressive 
+      Disorders (ASBDD)/Servier.
+EDAT- 2019/11/30 06:00
+MHDA- 2021/08/19 06:00
+CRDT- 2019/11/29 06:00
+PHST- 2019/11/30 06:00 [pubmed]
+PHST- 2021/08/19 06:00 [medline]
+PHST- 2019/11/29 06:00 [entrez]
+AID - 10.1177_0706743719889547 [pii]
+AID - 10.1177/0706743719889547 [doi]
+PST - ppublish
+SO  - Can J Psychiatry. 2020 May;65(5):306-318. doi: 10.1177/0706743719889547. Epub 2019 
+      Nov 28.
+
+PMID- 21968052
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120521
+LR  - 20131121
+IS  - 1873-1244 (Electronic)
+IS  - 0899-9007 (Linking)
+VI  - 28
+IP  - 3
+DP  - 2012 Mar
+TI  - Cysteine: the Fun-Ke nutraceutical.
+PG  - 336-7
+LID - 10.1016/j.nut.2011.07.024 [doi]
+FAU - McPherson, Robert A
+AU  - McPherson RA
+AD  - Flexiscience, 23 Hopetoun Street, Culcairn, NSW, 2660, Australia.
+FAU - Hardy, Gil
+AU  - Hardy G
+LA  - eng
+PT  - Journal Article
+DEP - 20111002
+PL  - United States
+TA  - Nutrition
+JT  - Nutrition (Burbank, Los Angeles County, Calif.)
+JID - 8802712
+RN  - 0 (Antioxidants)
+RN  - K848JZ4886 (Cysteine)
+SB  - IM
+MH  - Antioxidants/administration & dosage
+MH  - Burns/therapy
+MH  - Chronic Disease
+MH  - Cysteine/*administration & dosage
+MH  - *Dietary Supplements
+MH  - Humans
+MH  - Inflammation/therapy
+MH  - Inflammatory Bowel Diseases/therapy
+MH  - Sepsis/therapy
+EDAT- 2011/10/05 06:00
+MHDA- 2012/05/23 06:00
+CRDT- 2011/10/05 06:00
+PHST- 2011/06/20 00:00 [received]
+PHST- 2011/07/31 00:00 [revised]
+PHST- 2011/07/31 00:00 [accepted]
+PHST- 2011/10/05 06:00 [entrez]
+PHST- 2011/10/05 06:00 [pubmed]
+PHST- 2012/05/23 06:00 [medline]
+AID - S0899-9007(11)00257-7 [pii]
+AID - 10.1016/j.nut.2011.07.024 [doi]
+PST - ppublish
+SO  - Nutrition. 2012 Mar;28(3):336-7. doi: 10.1016/j.nut.2011.07.024. Epub 2011 Oct 2.
+
+PMID- 21329390
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110609
+LR  - 20110314
+IS  - 1520-6882 (Electronic)
+IS  - 0003-2700 (Linking)
+VI  - 83
+IP  - 6
+DP  - 2011 Mar 15
+TI  - Evaluation of androgenic activity of nutraceutical-derived steroids using mammalian 
+      and yeast in vitro androgen bioassays.
+PG  - 2065-74
+LID - 10.1021/ac102845y [doi]
+AB  - Androgenic steroids marketed online as nutraceuticals are a growing concern in sport 
+      doping. The inability of conventional mass spectrometry (MS)-based techniques to 
+      detect structurally novel androgens has led to the development of in vitro androgen 
+      bioassays to identify such designer androgens by their bioactivity. The objective of 
+      this study was to determine the androgenic bioactivity of novel steroidal compounds 
+      isolated from nutraceuticals using both yeast and mammalian cell-based androgen 
+      bioassays. We developed two new in vitro androgen bioassays by stably transfecting 
+      HEK293 and HuH7 cells with the human androgen receptor (hAR) expression plasmid 
+      together with a novel reporter gene vector (enhancer/ARE/SEAP). The yeast 
+      β-galactosidase androgen bioassay was used for comparison. Our new bioassay 
+      featuring the enhancer/ARE/SEAP construct (-S) displayed simpler assay format and 
+      higher specificity with lower sensitivity compared with the commonly used mouse 
+      mammary tumour virus (MMTV)-luciferase. The relative potencies (RP), defined as 
+      [EC(50)] of testosterone/[EC(50)] of steroid, of nutraceutical extracts in the 
+      yeast, HEK293-S, and HuH7-S, were 34, 333, and 80,000 for Hemapolin; 208, 250, and 
+      80 for Furazadrol; 0.38, 10, and 106 for Oxyguno; 2.7, 0.28, and 15 for Trena; and 
+      4.5, 0.1, and 0.4 for Formadrol, respectively. The wide discrepancies in rank RP of 
+      these compounds was reconciled into a consistent potency ranking when the cells were 
+      treated with meclofenamic acid, a nonselective inhibitor of steroid metabolizing 
+      enzymes. These findings indicate that steroids extracted from nutraceuticals can be 
+      converted in vitro into more or less potent androgens in mammalian but not in yeast 
+      cells. We conclude that the putative androgenic bioactivity of a new compound may 
+      depend on the bioassay cellular format and that mammalian cell bioassays may have an 
+      added benefit in screening for proandrogens but sacrifice specificity for 
+      sensitivity in quantitation.
+FAU - Akram, Omar N
+AU  - Akram ON
+AD  - Lipid Research Group, The Heart Research Institute, Sydney, Australia.
+FAU - Bursill, Christina
+AU  - Bursill C
+FAU - Desai, Reena
+AU  - Desai R
+FAU - Heather, Alison K
+AU  - Heather AK
+FAU - Kazlauskas, Rymantas
+AU  - Kazlauskas R
+FAU - Handelsman, David J
+AU  - Handelsman DJ
+FAU - Lambert, Gilles
+AU  - Lambert G
+LA  - eng
+PT  - Journal Article
+DEP - 20110218
+PL  - United States
+TA  - Anal Chem
+JT  - Analytical chemistry
+JID - 0370536
+RN  - 0 (Androgens)
+RN  - 0 (Receptors, Androgen)
+RN  - 0 (Steroids)
+SB  - IM
+MH  - Androgens/*chemistry/*pharmacology
+MH  - Biological Assay/*methods
+MH  - *Dietary Supplements
+MH  - HEK293 Cells
+MH  - Humans
+MH  - Receptors, Androgen/metabolism
+MH  - Saccharomyces cerevisiae/*cytology/drug effects/metabolism
+MH  - Steroids/*chemistry/*pharmacology
+EDAT- 2011/02/19 06:00
+MHDA- 2011/06/10 06:00
+CRDT- 2011/02/19 06:00
+PHST- 2011/02/19 06:00 [entrez]
+PHST- 2011/02/19 06:00 [pubmed]
+PHST- 2011/06/10 06:00 [medline]
+AID - 10.1021/ac102845y [doi]
+PST - ppublish
+SO  - Anal Chem. 2011 Mar 15;83(6):2065-74. doi: 10.1021/ac102845y. Epub 2011 Feb 18.
+
+PMID- 32978786
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201204
+LR  - 20210601
+IS  - 1751-0813 (Electronic)
+IS  - 0005-0423 (Linking)
+VI  - 98
+IP  - 12
+DP  - 2020 Dec
+TI  - A pilot study of 4CYTE™ Epiitalis® Forte, a novel nutraceutical, in the management 
+      of naturally occurring osteoarthritis in dogs.
+PG  - 591-595
+LID - 10.1111/avj.13024 [doi]
+AB  - The primary goal of this pilot study was to assess, the efficacy of a new 
+      nutraceutical, 4CYTE™ Epiitalis® Forte, containing, as a standalone, a proprietary 
+      plant oil extract, Epiitalis, in dogs presenting with signs of osteoarthritis (OA). 
+      Fifty dogs aged 9.2 (±3.2) years with signs of naturally occurring OA were included 
+      in this report. They were free of other comorbidities and were not on any 
+      medications except for those utilised for managing their OA. In these dogs, the 
+      current treatments were continued to avoid any sudden changes in their disease 
+      management. The effects of the 4CYTE Epiitalis Forte were assessed both at the 
+      beginning and at the end of a 1 month-long treatment period. The evaluation 
+      consisted of an objective lameness assessment (TPI%[total pressure index]) using a 
+      gait analysis (GAITRite® Portable Walkway System) and a subjective quality-of-life 
+      questionnaire, the Helsinki Chronic Pain Index (HCPI). Additional exploratory 
+      objective measurements included the Symmetry Index (SI) and the fore/hind limb ratio 
+      (T/P TPI%). Of dogs, 74% (34/46) registered a numerical improvement in TPI% in their 
+      worse limb. In addition, of the 93.5% of the dogs that demonstrated improvement in 
+      their HCPI scores by at least 5% on the quality-of-life questionnaire, 79% 
+      demonstrated improvements in gait based on TPI%. Finally, there were improvements 
+      measured in both exploratory objective endpoints SI and T/P TPI%. These encouraging 
+      results will be used to develop a protocol for a follow-up placebo-controlled 
+      randomised study to confirm the efficacy of this new nutraceutical for dogs 
+      suffering from OA.
+CI  - © 2020 Australian Veterinary Association.
+FAU - Beths, T
+AU  - Beths T
+AD  - Melbourne Veterinary School, Faculty of Veterinary and Agricultural Sciences, 
+      University of Melbourne, Werribee, Victoria, 3030, Australia.
+FAU - Munn, R
+AU  - Munn R
+AUID- ORCID: 0000-0002-4647-5904
+AD  - Melbourne Veterinary School, Faculty of Veterinary and Agricultural Sciences, 
+      University of Melbourne, Werribee, Victoria, 3030, Australia.
+FAU - Bauquier, S H
+AU  - Bauquier SH
+AD  - Melbourne Veterinary School, Faculty of Veterinary and Agricultural Sciences, 
+      University of Melbourne, Werribee, Victoria, 3030, Australia.
+FAU - Mitchell, P
+AU  - Mitchell P
+AD  - Melbourne Veterinary School, Faculty of Veterinary and Agricultural Sciences, 
+      University of Melbourne, Werribee, Victoria, 3030, Australia.
+FAU - Whittem, T
+AU  - Whittem T
+AD  - Melbourne Veterinary School, Faculty of Veterinary and Agricultural Sciences, 
+      University of Melbourne, Werribee, Victoria, 3030, Australia.
+LA  - eng
+GR  - NA/Interpath Pty Ltd/
+PT  - Case Reports
+DEP - 20200926
+PL  - England
+TA  - Aust Vet J
+JT  - Australian veterinary journal
+JID - 0370616
+SB  - IM
+EIN - Aust Vet J. 2021 Jan;99(1-2):59. PMID: 33527390
+EIN - Aust Vet J. 2021 Jun;99(6):265. PMID: 34062615
+MH  - Animals
+MH  - Dietary Supplements
+MH  - *Dog Diseases
+MH  - Dogs
+MH  - Gait
+MH  - *Osteoarthritis/veterinary
+MH  - Pilot Projects
+OTO - NOTNLM
+OT  - dogs
+OT  - gait analysis
+OT  - nutraceutical
+OT  - osteoarthritis
+OT  - quality of life
+EDAT- 2020/09/27 06:00
+MHDA- 2020/12/15 06:00
+CRDT- 2020/09/26 05:31
+PHST- 2020/04/12 00:00 [received]
+PHST- 2020/09/06 00:00 [revised]
+PHST- 2020/09/11 00:00 [accepted]
+PHST- 2020/09/27 06:00 [pubmed]
+PHST- 2020/12/15 06:00 [medline]
+PHST- 2020/09/26 05:31 [entrez]
+AID - 10.1111/avj.13024 [doi]
+PST - ppublish
+SO  - Aust Vet J. 2020 Dec;98(12):591-595. doi: 10.1111/avj.13024. Epub 2020 Sep 26.

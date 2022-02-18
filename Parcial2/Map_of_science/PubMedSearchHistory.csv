@@ -1,0 +1,8 @@
+﻿Search number,Query,Sort By,Filters,Search Details,Results,Time
+15,(United Kingdom[Affiliation]) AND (nutraceutical[Title]),,,"""united kingdom""[Affiliation] AND ""nutraceutical""[Title]",11,21:50:19
+14,(Norway[Affiliation]) AND (nutraceutical[Title]),,,"""Norway""[Affiliation] AND ""nutraceutical""[Title]",5,21:48:24
+13,(Brazil[Affiliation]) AND (nutraceutical[Title]),,,"""Brazil""[Affiliation] AND ""nutraceutical""[Title]",26,21:47:40
+12,((China[Affiliation])) AND (nutraceutical[Title]),,,"""China""[Affiliation] AND ""nutraceutical""[Title]",78,21:46:43
+11,(Australia[Affiliation]) AND (nutraceutical[Title]),,,"""Australia""[Affiliation] AND ""nutraceutical""[Title]",23,21:43:41
+9,(Canada[Affiliation]) AND (nutraceutical[Title]),,,"""Canada""[Affiliation] AND ""nutraceutical""[Title]",40,21:42:27
+8,(United States[Affiliation]) AND (nutraceutical[Title]),,,"""united states""[Affiliation] AND ""nutraceutical""[Title]",31,21:36:04

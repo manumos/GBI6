@@ -1,0 +1,2710 @@
+PMID- 31315213
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200109
+LR  - 20200225
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 11
+IP  - 7
+DP  - 2019 Jul 16
+TI  - Nutraceutical Potential of Carica papaya in Metabolic Syndrome.
+LID - 10.3390/nu11071608 [doi]
+LID - 1608
+AB  - Carica papaya L. is a well-known fruit worldwide, and its highest production occurs 
+      in tropical and subtropical regions. The pulp contains vitamins A, C, and E, B 
+      complex vitamins, such as pantothenic acid and folate, and minerals, such as 
+      magnesium and potassium, as well as food fibers. Phenolic compounds, such as benzyl 
+      isothiocyanate, glucosinolates, tocopherols (α and δ), β-cryptoxanthin, β-carotene 
+      and carotenoids, are found in the seeds. The oil extracted from the seed principally 
+      presents oleic fatty acid followed by palmitic, linoleic and stearic acids, whereas 
+      the leaves have high contents of food fibers and polyphenolic compounds, flavonoids, 
+      saponins, pro-anthocyanins, tocopherol, and benzyl isothiocyanate. Studies 
+      demonstrated that the nutrients present in its composition have beneficial effects 
+      on the cardiovascular system, protecting it against cardiovascular illnesses and 
+      preventing harm caused by free radicals. It has also been reported that it aids in 
+      the treatment of diabetes mellitus and in the reduction of cholesterol levels. Thus, 
+      both the pulp and the other parts of the plant (leaves and seeds) present 
+      antioxidant, anti-hypertensive, hypoglycemic, and hypolipidemic actions, which, in 
+      turn, can contribute to the prevention and treatment of obesity and associated 
+      metabolic disorders.
+FAU - Santana, Lidiani F
+AU  - Santana LF
+AD  - Graduate Program in Health and Development in the Central-West Region of Brazil, 
+      Federal University of Mato Grosso do Sul-UFMS, MS 79079-900 Campo Grande, Brazil.
+FAU - Inada, Aline C
+AU  - Inada AC
+AUID- ORCID: 0000-0001-6788-9172
+AD  - Graduate Program in Health and Development in the Central-West Region of Brazil, 
+      Federal University of Mato Grosso do Sul-UFMS, MS 79079-900 Campo Grande, Brazil.
+FAU - Espirito Santo, Bruna Larissa Spontoni do
+AU  - Espirito Santo BLSD
+AD  - Graduate Program in Health and Development in the Central-West Region of Brazil, 
+      Federal University of Mato Grosso do Sul-UFMS, MS 79079-900 Campo Grande, Brazil.
+FAU - Filiú, Wander F O
+AU  - Filiú WFO
+AD  - Faculdade de Ciências Farmacêuticas, Alimentos e Nutrição, Federal University of 
+      Mato Grosso do Sul-UFMS, MS 79079-900 Campo Grande, Brazil.
+FAU - Pott, Arnildo
+AU  - Pott A
+AD  - Institute of Biosciences, Federal University of Mato Grosso do Sul-UFMS, MS 
+      79079-900 Campo Grande, Brazil.
+FAU - Alves, Flávio M
+AU  - Alves FM
+AUID- ORCID: 0000-0001-5634-8266
+AD  - Institute of Biosciences, Federal University of Mato Grosso do Sul-UFMS, MS 
+      79079-900 Campo Grande, Brazil.
+FAU - Guimarães, Rita de Cássia A
+AU  - Guimarães RCA
+AD  - Graduate Program in Health and Development in the Central-West Region of Brazil, 
+      Federal University of Mato Grosso do Sul-UFMS, MS 79079-900 Campo Grande, Brazil.
+FAU - Freitas, Karine de Cássia
+AU  - Freitas KC
+AD  - Graduate Program in Health and Development in the Central-West Region of Brazil, 
+      Federal University of Mato Grosso do Sul-UFMS, MS 79079-900 Campo Grande, Brazil. 
+      kcfreitas@gmail.com.
+FAU - Hiane, Priscila A
+AU  - Hiane PA
+AUID- ORCID: 0000-0003-1115-4083
+AD  - Graduate Program in Health and Development in the Central-West Region of Brazil, 
+      Federal University of Mato Grosso do Sul-UFMS, MS 79079-900 Campo Grande, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190716
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Phytochemicals)
+SB  - IM
+MH  - *Carica
+MH  - *Dietary Supplements
+MH  - Fruit
+MH  - Humans
+MH  - Metabolic Syndrome/*diet therapy
+MH  - Nutritive Value
+MH  - Phytochemicals
+PMC - PMC6682863
+OTO - NOTNLM
+OT  - Carica papaya
+OT  - blood glucose
+OT  - food composition
+OT  - metabolic syndrome
+OT  - natural products
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/07/19 06:00
+MHDA- 2020/01/10 06:00
+CRDT- 2019/07/19 06:00
+PHST- 2019/06/21 00:00 [received]
+PHST- 2019/07/08 00:00 [revised]
+PHST- 2019/07/10 00:00 [accepted]
+PHST- 2019/07/19 06:00 [entrez]
+PHST- 2019/07/19 06:00 [pubmed]
+PHST- 2020/01/10 06:00 [medline]
+AID - nu11071608 [pii]
+AID - nutrients-11-01608 [pii]
+AID - 10.3390/nu11071608 [doi]
+PST - epublish
+SO  - Nutrients. 2019 Jul 16;11(7):1608. doi: 10.3390/nu11071608.
+
+PMID- 32370025
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210205
+LR  - 20210205
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 25
+IP  - 9
+DP  - 2020 May 1
+TI  - The Nutraceutical Value of Carnitine and Its Use in Dietary Supplements.
+LID - 10.3390/molecules25092127 [doi]
+LID - 2127
+AB  - Carnitine can be considered a conditionally essential nutrient for its importance in 
+      human physiology. This paper provides an updated picture of the main features of 
+      carnitine outlining its interest and possible use. Particular attention has been 
+      addressed to its beneficial properties, exploiting carnitine's properties and 
+      possible use by considering the main in vitro, in animal, and human studies. 
+      Moreover, the main aspects of carnitine-based dietary supplements have been 
+      indicated and defined with reference to their possible beneficial health properties.
+FAU - Durazzo, Alessandra
+AU  - Durazzo A
+AUID- ORCID: 0000-0002-7747-9107
+AD  - CREA-Research Centre for Food and Nutrition, Via Ardeatina 546, 00178 Rome, Italy.
+FAU - Lucarini, Massimo
+AU  - Lucarini M
+AD  - CREA-Research Centre for Food and Nutrition, Via Ardeatina 546, 00178 Rome, Italy.
+FAU - Nazhand, Amirhossein
+AU  - Nazhand A
+AD  - Department of Biotechnology, Sari Agriculture Science and Natural Resource 
+      University, 9th km of Farah Abad Road, Sari 48181 68984, Mazandaran, Iran.
+FAU - Souto, Selma B
+AU  - Souto SB
+AD  - Department of Endocrinology of Hospital São João, Alameda Prof. Hernâni Monteiro, 
+      4200-319 Porto, Portugal.
+FAU - Silva, Amélia M
+AU  - Silva AM
+AUID- ORCID: 0000-0002-7524-9914
+AD  - Department of Biology and Environment, University of Trás-os-Montes e Alto Douro 
+      (UTAD), Quinta de Prados, P-5001-801 Vila Real, Portugal.
+AD  - Centre for Research and Technology of Agro-Environmental and Biological Sciences 
+      (CITAB), University of Trás-os-Montes e Alto Douro (UTAD), P-5001-801 Vila Real, 
+      Portugal.
+FAU - Severino, Patrícia
+AU  - Severino P
+AUID- ORCID: 0000-0001-6527-6612
+AD  - Industrial Biotechnology Program, University of Tiradentes (UNIT), Av. Murilo Dantas 
+      300, Aracaju 49032-490, Brazil.
+AD  - Tiradentes Institute, 150 Mt Vernon St, Dorchester, MA 02125, USA.
+AD  - Laboratory of Nanotechnology and Nanomedicine (LNMED), Institute of Technology and 
+      Research (ITP), Av. Murilo Dantas, 300, Aracaju 49010-390, Brazil.
+FAU - Souto, Eliana B
+AU  - Souto EB
+AUID- ORCID: 0000-0002-9737-6017
+AD  - Department of Pharmaceutical Technology, Faculty of Pharmacy, University of Coimbra, 
+      Pólo das Ciências da Saúde, Azinhaga de Santa Comba, 3000-548 Coimbra, Portugal.
+AD  - CEB-Centre of Biological Engineering, University of Minho, Campus de Gualtar, 
+      4710-057 Braga, Portugal.
+FAU - Santini, Antonello
+AU  - Santini A
+AUID- ORCID: 0000-0001-5505-3327
+AD  - Department of Pharmacy, University of Napoli Federico II, Via. D. Montesano 49, 
+      80131 Napoli, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200501
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Animals
+MH  - Carnitine/*analysis/pharmacology
+MH  - Databases, Factual
+MH  - Dietary Supplements/*analysis
+MH  - Humans
+MH  - Molecular Structure
+MH  - Structure-Activity Relationship
+PMC - PMC7249051
+OTO - NOTNLM
+OT  - carnitine
+OT  - food supplements
+OT  - in animal studies
+OT  - in humans studies
+OT  - in vitro studies
+OT  - nutraceuticals
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/05/07 06:00
+MHDA- 2021/02/07 06:00
+CRDT- 2020/05/07 06:00
+PHST- 2020/04/07 00:00 [received]
+PHST- 2020/04/26 00:00 [revised]
+PHST- 2020/04/28 00:00 [accepted]
+PHST- 2020/05/07 06:00 [entrez]
+PHST- 2020/05/07 06:00 [pubmed]
+PHST- 2021/02/07 06:00 [medline]
+AID - molecules25092127 [pii]
+AID - molecules-25-02127 [pii]
+AID - 10.3390/molecules25092127 [doi]
+PST - epublish
+SO  - Molecules. 2020 May 1;25(9):2127. doi: 10.3390/molecules25092127.
+
+PMID- 30646503
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190424
+LR  - 20200225
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 20
+IP  - 2
+DP  - 2019 Jan 14
+TI  - Nutraceutical and Medicinal Potential of the Morus Species in Metabolic 
+      Dysfunctions.
+LID - 10.3390/ijms20020301 [doi]
+LID - 301
+AB  - Many populations use medicinal plants as a therapeutic treatment, due to their lower 
+      cost and greater access. Among the plant species used for medicinal purposes are 
+      those of the genus Morus. The most known species are Morus alba, rubra, and nigra. 
+      This review aims to collect data from the literature, predominantly from cell and 
+      animal studies, which presents a possible nutraceutical and medicinal potential of 
+      the species Morus for use in metabolic dysfunctions. The fruits and leaves of 
+      mulberry are used for therapeutic purposes. For scientific confirmation of these 
+      effects, they were studied for laxative properties, antibacterial activity, 
+      anti-atherogenic activity, and hepatoprotective function. Furthermore, the genus 
+      Morus is recognized for the treatment and prevention of diabetes mellitus, through 
+      its hypoglycemic action. It may also provide health benefits through 
+      immunomodulatory, anti-inflammatory, and anti-nociceptive effects. It has been found 
+      that the Morus species have phenolic compounds, flavonoids, and anthocyanins that 
+      act as important antioxidants and promote beneficial effects on human health. These 
+      phytochemical compounds differ among species. Blackberry (Morus nigra) are rich in 
+      flavonoids, while the white mulberry (Morus alba) has low concentrations of 
+      flavonoids and anthocyanins. In addition, another important factor is to ensure a 
+      complete exemption of toxic risks in the use of medicinal plants for the treatment 
+      of diseases. Studies have shown no toxic effects by the administration of extracts 
+      of Morus species. Thus, the mulberry tree presents nutraceutical potential. It is 
+      therefore a promising alternative for medicinal products based on medicinal plants.
+FAU - Rodrigues, Elisana Lima
+AU  - Rodrigues EL
+AD  - Post Graduate Program in Health and Development in the Central-West Region of 
+      Brazil, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 79079-900, 
+      Brazil. elisana.lima10@gmail.com.
+FAU - Marcelino, Gabriela
+AU  - Marcelino G
+AD  - Post Graduate Program in Health and Development in the Central-West Region of 
+      Brazil, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 79079-900, 
+      Brazil. gabi19ac@gmail.com.
+FAU - Silva, Gabriela Torres
+AU  - Silva GT
+AD  - Post Graduate Program in Health and Development in the Central-West Region of 
+      Brazil, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 79079-900, 
+      Brazil. gabitorres483@gmail.com.
+FAU - Figueiredo, Priscila Silva
+AU  - Figueiredo PS
+AD  - Post Graduate Program in Health and Development in the Central-West Region of 
+      Brazil, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 79079-900, 
+      Brazil. pri.figueiredo92@gmail.com.
+FAU - Garcez, Walmir Silva
+AU  - Garcez WS
+AD  - Chemistry Institute, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 
+      79079-900, Brazil. walmir.garcez@ufms.br.
+FAU - Corsino, Joaquim
+AU  - Corsino J
+AD  - Chemistry Institute, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 
+      79079-900, Brazil. corsinojoaquim@gmail.com.
+FAU - Guimarães, Rita de Cássia Avellaneda
+AU  - Guimarães RCA
+AD  - Post Graduate Program in Health and Development in the Central-West Region of 
+      Brazil, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 79079-900, 
+      Brazil. ritaaguimaraes@gmail.com.
+FAU - Freitas, Karine de Cássia
+AU  - Freitas KC
+AD  - Post Graduate Program in Health and Development in the Central-West Region of 
+      Brazil, Federal University of Mato Grosso do Sul-UFMS, Campo Grande, MS 79079-900, 
+      Brazil. kcfreitas@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190114
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Phenols)
+RN  - 0 (Phytochemicals)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Dietary Supplements
+MH  - Fruit/chemistry
+MH  - Humans
+MH  - Metabolic Diseases/*drug therapy/epidemiology
+MH  - Morus/*chemistry
+MH  - Phenols/chemistry/therapeutic use
+MH  - Phytochemicals/chemistry/therapeutic use
+MH  - Plant Extracts/chemistry/*therapeutic use
+MH  - Plant Leaves/chemistry
+MH  - Plants, Medicinal/*chemistry
+PMC - PMC6358891
+OTO - NOTNLM
+OT  - Moraceae
+OT  - antioxidants
+OT  - diabetes mellitus
+OT  - flavonoids
+OT  - medicinal plants
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/01/17 06:00
+MHDA- 2019/04/25 06:00
+CRDT- 2019/01/17 06:00
+PHST- 2018/11/30 00:00 [received]
+PHST- 2019/01/08 00:00 [revised]
+PHST- 2019/01/10 00:00 [accepted]
+PHST- 2019/01/17 06:00 [entrez]
+PHST- 2019/01/17 06:00 [pubmed]
+PHST- 2019/04/25 06:00 [medline]
+AID - ijms20020301 [pii]
+AID - ijms-20-00301 [pii]
+AID - 10.3390/ijms20020301 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2019 Jan 14;20(2):301. doi: 10.3390/ijms20020301.
+
+PMID- 31307832
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200611
+LR  - 20200611
+IS  - 1879-114X (Electronic)
+IS  - 0149-2918 (Linking)
+VI  - 41
+IP  - 9
+DP  - 2019 Sep
+TI  - Lipoprotein(a): Current Evidence for a Physiologic Role and the Effects of 
+      Nutraceutical Strategies.
+PG  - 1780-1797
+LID - S0149-2918(19)30298-X [pii]
+LID - 10.1016/j.clinthera.2019.06.002 [doi]
+AB  - PURPOSE: Cardiovascular (CV) diseases account for most worldwide mortality, and a 
+      higher level of lipoprotein (Lp)-(a) is recognized as a prevalent contributing risk 
+      factor. However, there is no consensus regarding nutritional strategies for lowering 
+      Lp(a) concentration. Thus, the purposes of this literature review were to: (1) 
+      critically examine data concerning the effects of dietetic interventions and 
+      nutraceutical agents on Lp(a) level; and (2) review the feasibility and utility of 
+      their clinical use. METHODS: A literature search was conducted for studies published 
+      between August 2018 and March 2019. The search was performed using the Cochrane, 
+      Medline, and Web of Science databases. In order to expand the research, there were 
+      no delimitations on the type or year of the studies. A total of 1932 articles were 
+      identified using this search procedure. After duplicates were eliminated, 740 
+      abstracts of articles written in English were screened to identify those of highest 
+      relevance. In the final tally, a total of 152 full-text articles were included in 
+      this review. FINDINGS: Several foods and decreases in saturated fat and ethanol 
+      intake, especially red wine intake, may lower Lp(a) concentration, but limits are 
+      necessary. Coffee and tea intake may decrease Lp(a) level; further investigation is 
+      crucial before they can be considered potent Lp(a)-lowering agents. Among 
+      supplementation strategies, only l-carnitine and coenzyme Q10 are promising clinical 
+      candidates to lower Lp(a) level. Since both l-carnitine and coenzyme Q10 
+      supplementation are commonly used for CV support, they deserve further exploration 
+      regarding clinical applicability. In contrast, despite potential CV benefits, 
+      current research fails to justify use of higher intakes of vitamin C, soy 
+      isoflavones, garlic, and ω-3 for decreasing Lp(a) concentration. IMPLICATIONS: 
+      Definitive long-term clinical trials are needed to confirm the effects of dietetic 
+      interventions and nutraceutical agents on Lp(a) concentration when anticipating 
+      improved CV outcomes.
+CI  - Copyright © 2019. Published by Elsevier Inc.
+FAU - Santos, Heitor O
+AU  - Santos HO
+AD  - School of Medicine, Federal University of Uberlandia, Uberlandia, MG, Brazil. 
+      Electronic address: heitoroliveirasantos@gmail.com.
+FAU - Kones, Richard
+AU  - Kones R
+AD  - Cardiometabolic Research Institute, Houston, TX, USA.
+FAU - Rumana, Umme
+AU  - Rumana U
+AD  - New York Institute of Technology, Old Westbury, NY, USA.
+FAU - Earnest, Conrad P
+AU  - Earnest CP
+AD  - Exercise and Sport Nutrition Laboratory, Texas A&M University, College Station, TX, 
+      USA.
+FAU - Izidoro, Luiz F M
+AU  - Izidoro LFM
+AD  - School of Medicine, Federal University of Uberlandia, Uberlandia, MG, Brazil.
+FAU - Macedo, Rodrigo C O
+AU  - Macedo RCO
+AD  - University of Santa Cruz do Sul, Santa Cruz do Sul, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190713
+PL  - United States
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (Lipoprotein(a))
+SB  - IM
+MH  - Animals
+MH  - Cardiovascular Diseases/diet therapy/metabolism
+MH  - *Dietary Supplements
+MH  - Humans
+MH  - Lipoprotein(a)/chemistry/*metabolism
+OTO - NOTNLM
+OT  - *atherosclerosis
+OT  - *cardiovascular disease
+OT  - *lipid profile
+OT  - *lipoprotein
+OT  - *lipoprotein(a)
+EDAT- 2019/07/17 06:00
+MHDA- 2020/06/12 06:00
+CRDT- 2019/07/17 06:00
+PHST- 2018/11/21 00:00 [received]
+PHST- 2019/04/01 00:00 [revised]
+PHST- 2019/06/02 00:00 [accepted]
+PHST- 2019/07/17 06:00 [pubmed]
+PHST- 2020/06/12 06:00 [medline]
+PHST- 2019/07/17 06:00 [entrez]
+AID - S0149-2918(19)30298-X [pii]
+AID - 10.1016/j.clinthera.2019.06.002 [doi]
+PST - ppublish
+SO  - Clin Ther. 2019 Sep;41(9):1780-1797. doi: 10.1016/j.clinthera.2019.06.002. Epub 2019 
+      Jul 13.
+
+PMID- 30599970
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200106
+LR  - 20200106
+IS  - 1873-7145 (Electronic)
+IS  - 0963-9969 (Linking)
+VI  - 115
+DP  - 2019 Jan
+TI  - Nutraceutical compounds: Echinoids, flavonoids, xanthones and caffeine identified 
+      and quantitated in the leaves of Coffea arabica trees from three regions of Brazil.
+PG  - 493-503
+LID - S0963-9969(18)30791-9 [pii]
+LID - 10.1016/j.foodres.2018.10.006 [doi]
+AB  - There are relatively few studies concerning the use of coffee leaves for medicinal 
+      purposes and the composition of secondary plant substances. Therefore, we identified 
+      and quantitated polyphenolic compounds along with caffeine present in methanol 
+      extracts of Coffea arabica leaves from three different regions of Brazil (Ceará, 
+      Minas Gerais and São Paulo) by HPLC-ESI-MS. In addition, correlations between 
+      polyphenolic content of the coffee leaves and antioxidant assays DPPH, FRAP and ORAC 
+      were evaluated. Fifteen compounds belonging to three classes of polyphenols 
+      (xanthones, chlorogenic acids and flavonoids) along with the alkaloid caffeine were 
+      detected. The mean concentration of total polyphenolic compounds in the leaves of C. 
+      arabica, harvested from three different regions of Brazil was quite variable. The 
+      highest values were detected in the coffee leaves harvested in Minas Gerais (n = 4) 
+      at 40.80(13.00) g/kg (SD), followed by coffee leaves harvested in São Paulo (n = 20) 
+      at 24.79(20.19) g/kg, and the lowest in coffee leaves harvested in Ceará (n = 11) in 
+      the Northeast of Brazil at 10.30(5.61) g/kg. The three classes of polyphenols, all 
+      showed excellent correlations in the antioxidant assays. Coffee leaf tea, appears to 
+      be an excellent functional beverage, with its high content of polyphenolic 
+      compounds, which may render positive biologic effects, when inbibed as part of the 
+      normal human diet.
+CI  - Copyright © 2018. Published by Elsevier Ltd.
+FAU - de Almeida, Ricardo Farias
+AU  - de Almeida RF
+AD  - Division of Preventive Oncology, National Center for Tumor Diseases, Im Neuenheimer 
+      Feld 460, Heidelberg, Germany; German Cancer Research Center (DKFZ), Im Neuenheimer 
+      Feld 581, Heidelberg, Germany.
+FAU - Trevisan, Maria Teresa Salles
+AU  - Trevisan MTS
+AD  - Departamento de Química Orgânica e Inorgânica, Universidade Federal do Ceará, CP 
+      12200, 60451-970, Fortaleza, Ceará, Brazil. Electronic address: trevisan@ufc.br.
+FAU - Thomaziello, Roberto Antonio
+AU  - Thomaziello RA
+AD  - Instituto Agronômico de Campinas-IAC, Centro de Café "Alcides Carvalho", CP 28, 
+      13001970 - Campinas, São Paulo, Brazil. Electronic address: rthom@iac.sp.gov.br.
+FAU - Breuer, Andrea
+AU  - Breuer A
+AD  - Division of Preventive Oncology, National Center for Tumor Diseases, Im Neuenheimer 
+      Feld 460, Heidelberg, Germany. Electronic address: andrea.breuer@nct-heidelberg.de.
+FAU - Klika, Karel D
+AU  - Klika KD
+AD  - Molecular Structure Analysis, German Cancer Research Center (DKFZ), Im Neuenheimer 
+      Feld 280, 69120 Heidelberg, Germany. Electronic address: k.klika@dkfz-heidelberg.de.
+FAU - Ulrich, Cornelia M
+AU  - Ulrich CM
+AD  - Division of Preventive Oncology, National Center for Tumor Diseases, Im Neuenheimer 
+      Feld 460, Heidelberg, Germany. Electronic address: neli@hci.utah.edu.
+FAU - Owen, Robert W
+AU  - Owen RW
+AD  - Division of Preventive Oncology, National Center for Tumor Diseases, Im Neuenheimer 
+      Feld 460, Heidelberg, Germany. Electronic address: r.owen@dkfz-heidelberg.de.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181007
+PL  - Canada
+TA  - Food Res Int
+JT  - Food research international (Ottawa, Ont.)
+JID - 9210143
+RN  - 0 (Antioxidants)
+RN  - 0 (Coffee)
+RN  - 0 (Flavonoids)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Polyphenols)
+RN  - 0 (Xanthones)
+RN  - 1M84LD0UMD (mangiferin)
+RN  - 318ADP12RI (Chlorogenic Acid)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+CIN - Food Res Int. 2019 Aug;122:690-691. PMID: 31229129
+MH  - Antioxidants/analysis
+MH  - Brazil
+MH  - Caffeine/*analysis
+MH  - Chlorogenic Acid/analysis
+MH  - Chromatography, High Pressure Liquid
+MH  - Coffea/*chemistry
+MH  - Coffee/chemistry
+MH  - *Dietary Supplements
+MH  - Flavonoids/*analysis
+MH  - Plant Extracts/analysis
+MH  - Plant Leaves/*chemistry
+MH  - Polyphenols/analysis
+MH  - Xanthones/*analysis
+OTO - NOTNLM
+OT  - *3,5-dicaffeoylquinic acid (PubChem CID: 6474310)
+OT  - *4,5-dicaffeoylquinic acid (PubChem CID: 5281780)
+OT  - *Caffeine
+OT  - *Chlorogenic acids
+OT  - *Flavonoids
+OT  - *Mangiferin (PubChem CID: 5281647)
+OT  - *Mangiferins
+OT  - *Polyphenolic compounds
+OT  - *chlorogenic acid (PubChem CID: 1794427)
+OT  - *cryptochlorogenic acid (PubChem CID: 9798666)
+OT  - *isomangiferin (PubChem CID: 5318597)
+OT  - *kaempferol-3-O-rhamnoglucoside (PubChem CID: 44258840)
+OT  - *quercetin-3-O-diglucoside (PubChem CID: 5282166)
+OT  - *quercetin-3-O-glucoside (PubChem CID: 5280804)
+OT  - *rutin (PubChem CID: 5280805)
+EDAT- 2019/01/03 06:00
+MHDA- 2020/01/07 06:00
+CRDT- 2019/01/03 06:00
+PHST- 2018/04/05 00:00 [received]
+PHST- 2018/09/12 00:00 [revised]
+PHST- 2018/10/01 00:00 [accepted]
+PHST- 2019/01/03 06:00 [entrez]
+PHST- 2019/01/03 06:00 [pubmed]
+PHST- 2020/01/07 06:00 [medline]
+AID - S0963-9969(18)30791-9 [pii]
+AID - 10.1016/j.foodres.2018.10.006 [doi]
+PST - ppublish
+SO  - Food Res Int. 2019 Jan;115:493-503. doi: 10.1016/j.foodres.2018.10.006. Epub 2018 
+      Oct 7.
+
+PMID- 33041168
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210211
+LR  - 20210211
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 342
+DP  - 2021 Apr 16
+TI  - Development and in vitro evaluation of novel nutraceutical formulations composed of 
+      Limosilactobacillus fermentum, quercetin and/or resveratrol.
+PG  - 128264
+LID - S0308-8146(20)32126-9 [pii]
+LID - 10.1016/j.foodchem.2020.128264 [doi]
+AB  - This study developed and carried out an in vitro evaluation of nutraceutical 
+      formulations composed of potentially probiotic Limosilactobacillus fermentum (L. 
+      fermentum 139, L. fermentum 263 or L. fermentum 296), quercetin and/or resveratrol. 
+      L. fermentum strains had counts of >9 log CFU/g and contents of QUE and RES of 
+      >200 µg/mg in formulations after freeze-drying. Formulations with QUE and RES 
+      protected L. fermentum during exposure to in vitro acidic stomach conditions. L. 
+      fermentum strains had counts of >6 log CFU/g on day 60 and/or 90 of refrigeration 
+      storage. Contents of QUE (>29%) and RES (>50%) in formulations were potentially 
+      bioaccessible. Higher counts of L. fermentum and higher contents of QUE and RES were 
+      found in formulations stored under refrigerated rather than under room temperature. 
+      All nutraceutical formulations had antioxidant properties. Combinations of probiotic 
+      L. fermentum and QUE and/or RES should be an innovative strategy to develop 
+      added-value nutraceutical formulations.
+CI  - Copyright © 2020 Elsevier Ltd. All rights reserved.
+FAU - Sampaio, Karoliny Brito
+AU  - Sampaio KB
+AD  - Department of Nutrition, Health Sciences Center, Federal University of Paraíba, João 
+      Pessoa, Paraíba, Brazil.
+FAU - do Nascimento, Yuri Mangueira
+AU  - do Nascimento YM
+AD  - Institute for Research in Drugs and Medicines, Federal University of Paraíba, João 
+      Pessoa, Paraíba, Brazil.
+FAU - Tavares, Josean Fechine
+AU  - Tavares JF
+AD  - Institute for Research in Drugs and Medicines, Federal University of Paraíba, João 
+      Pessoa, Paraíba, Brazil.
+FAU - Cavalcanti, Mônica Tejo
+AU  - Cavalcanti MT
+AD  - Center for Agro-Food Science and Technology, Federal University of Campina Grande, 
+      Pombal, Paraíba, Brazil.
+FAU - de Brito Alves, José Luiz
+AU  - de Brito Alves JL
+AD  - Department of Nutrition, Health Sciences Center, Federal University of Paraíba, João 
+      Pessoa, Paraíba, Brazil.
+FAU - Garcia, Estefânia Fernandes
+AU  - Garcia EF
+AD  - Department of Gastronomy, Center of Technology and Regional Development, Federal 
+      University of Paraíba, João Pessoa, Paraíba, Brazil.
+FAU - de Souza, Evandro Leite
+AU  - de Souza EL
+AD  - Department of Nutrition, Health Sciences Center, Federal University of Paraíba, João 
+      Pessoa, Paraíba, Brazil. Electronic address: evandroleitesouza@ccs.ufpb.br.
+LA  - eng
+PT  - Journal Article
+DEP - 20201002
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 9IKM0I5T1E (Quercetin)
+RN  - Q369O8926L (Resveratrol)
+SB  - IM
+MH  - Dietary Supplements/*analysis/*microbiology
+MH  - Drug Compounding
+MH  - Freeze Drying
+MH  - *Lactobacillus fermentum
+MH  - Probiotics/chemistry
+MH  - Quercetin/*chemistry
+MH  - Resveratrol/*chemistry
+OTO - NOTNLM
+OT  - Functionality
+OT  - Limosilactobacillus
+OT  - Nutraceutical
+OT  - Polyphenols
+OT  - Stability
+EDAT- 2020/10/13 06:00
+MHDA- 2021/02/12 06:00
+CRDT- 2020/10/12 05:24
+PHST- 2020/02/15 00:00 [received]
+PHST- 2020/09/14 00:00 [revised]
+PHST- 2020/09/27 00:00 [accepted]
+PHST- 2020/10/13 06:00 [pubmed]
+PHST- 2021/02/12 06:00 [medline]
+PHST- 2020/10/12 05:24 [entrez]
+AID - S0308-8146(20)32126-9 [pii]
+AID - 10.1016/j.foodchem.2020.128264 [doi]
+PST - ppublish
+SO  - Food Chem. 2021 Apr 16;342:128264. doi: 10.1016/j.foodchem.2020.128264. Epub 2020 
+      Oct 2.
+
+PMID- 31466786
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200127
+LR  - 20200127
+IS  - 0306-4565 (Print)
+IS  - 0306-4565 (Linking)
+VI  - 84
+DP  - 2019 Aug
+TI  - Nutraceutical effect of vitamins and minerals on performance and immune and 
+      antioxidant systems in dairy calves during the nutritional transition period in 
+      summer.
+PG  - 451-459
+LID - S0306-4565(19)30209-8 [pii]
+LID - 10.1016/j.jtherbio.2019.07.034 [doi]
+AB  - We aimed to determine whether the use of injectable vitamins and minerals improves 
+      growth performance and immune and antioxidant responses in dairy calves during pre- 
+      and post-weaning period in summer. Twenty dairy calves (45 days of age) were 
+      randomized to two groups (10 each): control group (CON) and treated group [TREAT; 
+      injection providing 0.20, 0.80, 0.20, 0.10, 35 and 1 mg/kg of copper, zinc, 
+      manganese selenium, and vitamins A and E, during two periods (15 days pre- and 15 
+      days post-weaning)]. The animals were weighed and blood samples were collected on 
+      days 1, 15, 30 and 45 of the study. Levels of serum copper, selenium, zinc, and 
+      manganese were measured on day 1; and the results showed that calves were not 
+      deficient in these minerals. The TREAT group had greater BW gain during the final 
+      third of the experiment. There was an increase in total leukocyte numbers as a 
+      result of elevation in neutrophil counts (day 45) and monocytes (days 30 and 45) in 
+      the TREAT group. This group also had lower reactive oxygen species (ROS) content 
+      (days 15, 30 and 45) and lipid peroxidation (LPO; days 15 and 45). Furthermore, the 
+      TREAT group had greater antioxidant capacity against peroxyl radicals (ACAP; days 15 
+      and 30), activities of the enzymes glutathione peroxidase (GPx; days 15, 30 and 45) 
+      and superoxide dismutase (SOD; day 15), concentrations of total serum proteins (day 
+      30), serum globulin (days 15 and 30), ceruloplasmin (day 15), tumor necrosis 
+      factor-alpha (TNF-α), interleukin-1, (IL-1; days 30 and 45) and interferon gamma 
+      (IFNγ; day 45), compared to CON group. High respiratory rates during hot times of 
+      the day in all study calves was suggestive of heat stress. Taken together, the data 
+      suggest that mineral and vitamins injections increased the growth performance and 
+      boosted the antioxidant and immunological systems of dairy calves during the diet 
+      transition period in summer.
+CI  - Copyright © 2019 Elsevier Ltd. All rights reserved.
+FAU - Bordignon, Rael
+AU  - Bordignon R
+AD  - Graduate Program of Animal Science, Universidade do Estado de Santa Catarina, 
+      Chapecó, Brazil.
+FAU - Volpato, Andreia
+AU  - Volpato A
+AD  - Graduate Program of Animal Science, Universidade do Estado de Santa Catarina, 
+      Chapecó, Brazil.
+FAU - Glombowsky, Patrícia
+AU  - Glombowsky P
+AD  - Graduate Program of Animal Science, Universidade do Estado de Santa Catarina, 
+      Chapecó, Brazil.
+FAU - Souza, Carine F
+AU  - Souza CF
+AD  - Graduate Program of Toxiciological Biochemistry, Universidade Federal de Santa 
+      Maria, Santa Maria, Brazil.
+FAU - Baldissera, Matheus D
+AU  - Baldissera MD
+AD  - Graduate Program of Pharmacology, Universidade Federal de Santa Maria, Santa Maria, 
+      Brazil.
+FAU - Secco, Rodrigo
+AU  - Secco R
+AD  - Veterinary Medicine, Instituto Federal Catarinense, Concordia, Brazil.
+FAU - Pereira, Wanderson A B
+AU  - Pereira WAB
+AD  - Veterinary Medicine, Instituto Federal Catarinense, Concordia, Brazil.
+FAU - Leal, Marta L R
+AU  - Leal MLR
+AD  - Department of Large Animals, Universidade Federal de Santa Maria, Santa Maria, 
+      Brazil.
+FAU - Vedovatto, Marcelo
+AU  - Vedovatto M
+AD  - Range Cattle Research and Education Center, University of Florida, Ona, FL, USA.
+FAU - Da Silva, Aleksandro S
+AU  - Da Silva AS
+AD  - Graduate Program of Animal Science, Universidade do Estado de Santa Catarina, 
+      Chapecó, Brazil; Graduate Program of Toxiciological Biochemistry, Universidade 
+      Federal de Santa Maria, Santa Maria, Brazil. Electronic address: 
+      aleksandro.silva@udesc.br.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial, Veterinary
+DEP - 20190729
+PL  - England
+TA  - J Therm Biol
+JT  - Journal of thermal biology
+JID - 7600115
+RN  - 0 (Cytokines)
+RN  - 0 (Metals)
+RN  - 0 (Reactive Oxygen Species)
+RN  - 0 (Vitamins)
+RN  - 11103-57-4 (Vitamin A)
+RN  - 1406-18-4 (Vitamin E)
+RN  - EC 1.11.1.9 (Glutathione Peroxidase)
+RN  - EC 1.15.1.1 (Superoxide Dismutase)
+RN  - H6241UJ22B (Selenium)
+SB  - IM
+MH  - Animals
+MH  - *Cattle/blood/growth & development/immunology/metabolism
+MH  - Cytokines/blood
+MH  - Diet/veterinary
+MH  - *Dietary Supplements
+MH  - Female
+MH  - Glutathione Peroxidase/blood
+MH  - Heat-Shock Response/physiology
+MH  - Metals/blood/*pharmacology
+MH  - Reactive Oxygen Species/blood
+MH  - Respiratory Rate
+MH  - Seasons
+MH  - Selenium/blood/*pharmacology
+MH  - Superoxide Dismutase/blood
+MH  - Vitamin A/*pharmacology
+MH  - Vitamin E/*pharmacology
+MH  - Vitamins/*pharmacology
+OTO - NOTNLM
+OT  - Antioxidant system
+OT  - Calves
+OT  - Immunity
+OT  - Metaphylactic effect
+OT  - Oxidative stress
+OT  - Performance
+OT  - Thermal stress
+EDAT- 2019/08/31 06:00
+MHDA- 2020/01/28 06:00
+CRDT- 2019/08/31 06:00
+PHST- 2019/04/15 00:00 [received]
+PHST- 2019/07/27 00:00 [revised]
+PHST- 2019/07/27 00:00 [accepted]
+PHST- 2019/08/31 06:00 [entrez]
+PHST- 2019/08/31 06:00 [pubmed]
+PHST- 2020/01/28 06:00 [medline]
+AID - S0306-4565(19)30209-8 [pii]
+AID - 10.1016/j.jtherbio.2019.07.034 [doi]
+PST - ppublish
+SO  - J Therm Biol. 2019 Aug;84:451-459. doi: 10.1016/j.jtherbio.2019.07.034. Epub 2019 
+      Jul 29.
+
+PMID- 34997583
+OWN - NLM
+STAT- Publisher
+LR  - 20220124
+IS  - 1097-0010 (Electronic)
+IS  - 0022-5142 (Linking)
+DP  - 2022 Jan 8
+TI  - Partial and total defoliation during the filling period affected grain industrial 
+      and nutraceutical quality in soybean.
+LID - 10.1002/jsfa.11760 [doi]
+AB  - BACKGROUND: Little is known about soybean grain chemical composition response to 
+      defoliation. The objectives of our study were: (i) to quantify the impact of 
+      different levels and timing of defoliation during the filling period on soybean 
+      grain yield and grain chemical content and composition, including protein, oil, 
+      fatty acids, and isoflavones; and (ii) to establish associations between them and 
+      the level and timing of defoliation. RESULTS: Yield and grain chemical components 
+      were reduced by defoliation treatments, these effects being more pronounced as 
+      defoliation increased. Mild defoliation (33%) caused small or non-significant 
+      changes in yield, its components, protein, oil, and isoflavone contents and 
+      concentrations. However, it affected oil composition, increasing the degree of 
+      unsaturation, which became more accentuated as defoliation increased. Moderate 
+      defoliation (66%) produced similar relative reductions in protein and oil contents, 
+      with small effects in isoflavone content, resulting in a generally greater 
+      isoflavone concentration in defatted flour and a greater isoflavone/protein ratio in 
+      grain. Total defoliation (100%) produced greater relative reductions in oil and 
+      isoflavone contents than in protein content. These resulted in higher protein/oil 
+      ratio and protein concentration and lower isoflavone/protein ratio and isoflavone 
+      concentration. Analyzed variables were associated with cumulative solar radiation 
+      during grain filling; indeed, this parameter successfully captured the effects of 
+      defoliation intensity and timing. CONCLUSION: By exploring different levels and 
+      timings of defoliation during the filling period, our study provides novel and 
+      important information regarding the impact of light interception decreases on grain 
+      chemical components, with special emphasis on nutraceuticals. © 2022 Society of 
+      Chemical Industry.
+CI  - © 2022 Society of Chemical Industry.
+FAU - Carrera, Constanza S
+AU  - Carrera CS
+AUID- ORCID: 0000-0002-8959-9069
+AD  - Instituto de Fisiología y Recursos Genéticos Vegetales (IFRGV), Centro de 
+      Investigaciones Agropecuarias (CIAP), Instituto Nacional de Tecnología Agropecuaria 
+      (INTA), Córdoba, Argentina.
+AD  - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Buenos Aires, 
+      Argentina.
+FAU - Rosas, María B
+AU  - Rosas MB
+AD  - INTA Estación Experimental Manfredi. Manfredi, Córdoba, Argentina.
+FAU - Gontijo Mandarino, José M
+AU  - Gontijo Mandarino JM
+AD  - Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) Soja, Londrina, Brazil.
+FAU - Leite, Rodrigo Santos
+AU  - Leite RS
+AD  - Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) Soja, Londrina, Brazil.
+FAU - Raspa, Francisco
+AU  - Raspa F
+AD  - INTA Estación Experimental Manfredi. Manfredi, Córdoba, Argentina.
+FAU - Fava, Fernando
+AU  - Fava F
+AD  - INTA Estación Experimental Manfredi. Manfredi, Córdoba, Argentina.
+FAU - Dardanelli, Julio
+AU  - Dardanelli J
+AD  - INTA Estación Experimental Manfredi. Manfredi, Córdoba, Argentina.
+FAU - Andrade, Fernando
+AU  - Andrade F
+AD  - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Buenos Aires, 
+      Argentina.
+AD  - Ecofisiología de Cultivos, Facultad de Ciencias Agrarias UNMP, INTA Estación 
+      Experimental Balcarce, Buenos Aires, Argentina.
+LA  - eng
+GR  - PICT Joven 2016-0519/Agencia Nacional de Promoción Científica y Tecnológica/
+GR  - Consejo Nacional de Investigaciones Científicas y Técnicas/
+GR  - Empresa Brasileira de Pesquisa Agropecuária/
+GR  - Instituto Nacional de Tecnología Agropecuaria/
+PT  - Journal Article
+DEP - 20220108
+PL  - England
+TA  - J Sci Food Agric
+JT  - Journal of the science of food and agriculture
+JID - 0376334
+SB  - IM
+OTO - NOTNLM
+OT  - Glycine max L.
+OT  - grain chemical quality
+OT  - grain filling
+OT  - relationship grain quality-intercepted radiation
+OT  - source reductions
+EDAT- 2022/01/09 06:00
+MHDA- 2022/01/09 06:00
+CRDT- 2022/01/08 06:15
+PHST- 2021/12/29 00:00 [revised]
+PHST- 2021/07/19 00:00 [received]
+PHST- 2022/01/08 00:00 [accepted]
+PHST- 2022/01/09 06:00 [pubmed]
+PHST- 2022/01/09 06:00 [medline]
+PHST- 2022/01/08 06:15 [entrez]
+AID - 10.1002/jsfa.11760 [doi]
+PST - aheadofprint
+SO  - J Sci Food Agric. 2022 Jan 8. doi: 10.1002/jsfa.11760.
+
+PMID- 24294942
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140916
+LR  - 20191112
+IS  - 1876-1429 (Electronic)
+IS  - 1876-1429 (Linking)
+VI  - 5
+IP  - 3
+DP  - 2013 Dec
+TI  - Polyphenols: a nutraceutical approach against diseases.
+PG  - 214-9
+AB  - Polyphenols are abundant in red grapes and in their derived products, amongst other 
+      natural food sources. These compounds are associated with the prevention of diseases 
+      caused by oxidative stress. The present review discusses the action of grape 
+      polyphenols against diseases and the new polyphenol-rich products developed to be 
+      used as nutraceuticals. Grape polyphenols demonstrated effects such as maintenance 
+      of endothelial function, increase in antioxidant capacity and protection against LDL 
+      oxidation. Recent patents regarding polyphenols show a tendency to use a 
+      right-on-target approach and the new patented products are aiming at preventing and 
+      treating specific diseases.
+FAU - Gollucke, Andréa P B
+AU  - Gollucke AP
+FAU - Peres, Rogério C
+AU  - Peres RC
+FAU - Odair A Jr
+AU  - Odair A Jr
+FAU - Ribeiro, Daniel A
+AU  - Ribeiro DA
+AD  - HEXALAB/UNISANTOS - Catholic University of Santos. Av. Conselheiro Nebias, 300. 
+      Santos-SP 11015-002. Brazil. gollucke@uol.com.br.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United Arab Emirates
+TA  - Recent Pat Food Nutr Agric
+JT  - Recent patents on food, nutrition & agriculture
+JID - 101526178
+RN  - 0 (Antioxidants)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Polyphenols)
+SB  - IM
+MH  - Antioxidants/pharmacology/*therapeutic use
+MH  - *Dietary Supplements
+MH  - Humans
+MH  - Oxidative Stress/*drug effects
+MH  - *Patents as Topic
+MH  - Plant Extracts/pharmacology/*therapeutic use
+MH  - Polyphenols/pharmacology/*therapeutic use
+MH  - Vitis/*chemistry
+EDAT- 2013/12/04 06:00
+MHDA- 2014/09/17 06:00
+CRDT- 2013/12/04 06:00
+PHST- 2013/10/09 00:00 [received]
+PHST- 2013/11/10 00:00 [revised]
+PHST- 2013/11/21 00:00 [accepted]
+PHST- 2013/12/04 06:00 [entrez]
+PHST- 2013/12/04 06:00 [pubmed]
+PHST- 2014/09/17 06:00 [medline]
+AID - FNA-EPUB-57780 [pii]
+AID - 10.2174/2212798405666131129153239 [doi]
+PST - ppublish
+SO  - Recent Pat Food Nutr Agric. 2013 Dec;5(3):214-9. doi: 
+      10.2174/2212798405666131129153239.
+
+PMID- 34509152
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211117
+LR  - 20211117
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 370
+DP  - 2022 Feb 15
+TI  - Dereplication of extracts from nutraceutical mushrooms Pleurotus using molecular 
+      network approach.
+PG  - 131019
+LID - S0308-8146(21)02025-2 [pii]
+LID - 10.1016/j.foodchem.2021.131019 [doi]
+AB  - Pleurotus is an edible mushroom from the well-known genus of Basidiomycetes; it is 
+      the second-most commonly consumed mushroom worldwide. This genus is characterized by 
+      the presence of steroids, fatty acids, and polysaccharides. Recently, Pleurotus has 
+      become popular as a functional food owing to its health benefits, primarily because 
+      they are a source of vitamins, fibers, minerals, and lipids. In natural products 
+      chemistry, dereplication techniques identify bioactive molecules from natural 
+      sources such as plants and fungi without isolating or characterizing molecules. We 
+      used dereplication techniques aided by the Global Natural Products Social Molecular 
+      Network to analyze the chemical composition of the methanolic extracts of six 
+      Pleurotus species (P. sapidus, P. ostreaus, P. ostreaus var. Florida, P. djamor, P. 
+      citrinopileatus, and P. pulmonarius), to identify bioactive molecules with 
+      nutraceutical properties. Using this technique, we identified several molecular 
+      families, including eight fatty acids and seven steroids. Our findings suggest that 
+      dereplication is a relatively rapid tool for characterizing fungal species and 
+      determining their nutraceutical value.
+CI  - Copyright © 2021 Elsevier Ltd. All rights reserved.
+FAU - Caldas, Lhaís Araújo
+AU  - Caldas LA
+AD  - Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de 
+      São Paulo, Diadema, SP, Brazil.
+FAU - Zied, Diego Cunha
+AU  - Zied DC
+AD  - Faculdade de Ciências Agrarias e Tecnológicas, Universidade Estadual Paulista Júlio 
+      de Mesquita Filho, Dracena, SP, Brazil.
+FAU - Sartorelli, Patrícia
+AU  - Sartorelli P
+AD  - Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de 
+      São Paulo, Diadema, SP, Brazil. Electronic address: psartorelli@unifesp.br.
+LA  - eng
+PT  - Journal Article
+DEP - 20210901
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 0 (Polysaccharides)
+SB  - IM
+MH  - *Agaricales
+MH  - Dietary Supplements
+MH  - Functional Food
+MH  - Humans
+MH  - *Pleurotus
+MH  - Polysaccharides
+OTO - NOTNLM
+OT  - Basidiomycetes
+OT  - Fatty acid
+OT  - GNPS
+OT  - Nutraceutical value
+OT  - Steroid
+EDAT- 2021/09/12 06:00
+MHDA- 2021/11/18 06:00
+CRDT- 2021/09/11 20:24
+PHST- 2021/04/09 00:00 [received]
+PHST- 2021/08/20 00:00 [revised]
+PHST- 2021/08/29 00:00 [accepted]
+PHST- 2021/09/12 06:00 [pubmed]
+PHST- 2021/11/18 06:00 [medline]
+PHST- 2021/09/11 20:24 [entrez]
+AID - S0308-8146(21)02025-2 [pii]
+AID - 10.1016/j.foodchem.2021.131019 [doi]
+PST - ppublish
+SO  - Food Chem. 2022 Feb 15;370:131019. doi: 10.1016/j.foodchem.2021.131019. Epub 2021 
+      Sep 1.
+
+PMID- 29977077
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191017
+LR  - 20191017
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2018 Jul 5
+TI  - Bio-based products control black rot (Xanthomonas campestris pv. campestris) and 
+      increase the nutraceutical and antioxidant components in kale.
+PG  - 10199
+LID - 10.1038/s41598-018-28086-6 [doi]
+LID - 10199
+AB  - Black rot of crucifers, (Xanthomonas campestris pv. campestris) is the principal 
+      yield-limiting and destructive pathogen of cruciferous crop worldwide. In order to 
+      validate a bio-based control alternative for this disease, whey, lime sulfur, 
+      biofertilizer, Bordeaux mixture or raw milk were applied to kale (Brassica oleracea 
+      var. acephala) plants. The disease control was achieved by most of the tested 
+      products. Milk-based products (raw milk and whey) and biofertilizer reduced the 
+      severity by 44 and 56% in the field. Antioxidants, crude fibber, crude protein and 
+      lipid contents and kale yield were verified in the five treatments on the leaves 
+      with and without X. campestris pv. campestris inoculation. In the absence of the 
+      pathogen (non-inoculated), lime sulfur and Bordeaux mixture improved plant 
+      nutritional value compared to organic treatments, nevertheless milk-based products 
+      and biofertilizer improved the evaluated variables more than the control. However, 
+      on leaves inoculated with X. campestris pv. campestris raw milk increased 
+      antioxidant activity, crude protein and fiber contents, whereas biofertilizer 
+      increased kale yield, lipid and antioxidant contents. Milk-based products and 
+      biofertilizer were further evaluated in greenhouse trials to determinate 
+      the activity of defense-related enzymes and lignin content. Biofertilizer treatment 
+      resulted in increased phenylalanine ammonia lyase, catalase, peroxidase activities 
+      and lignin content. Hence, the application of milk-based products and biofertilizer 
+      are promising to control black rot of crucifers and also improves food quality by 
+      boosting nutritional values and antioxidant activity.
+FAU - Nuñez, Andrés M P
+AU  - Nuñez AMP
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+FAU - Rodríguez, Gabriel A A
+AU  - Rodríguez GAA
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+AD  - Universidad de San Carlos, Avenida 11, Guatemala, 01012, Guatemala.
+FAU - Monteiro, Fernando P
+AU  - Monteiro FP
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+FAU - Faria, Amanda F
+AU  - Faria AF
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+FAU - Silva, Julio C P
+AU  - Silva JCP
+AUID- ORCID: 0000-0002-1961-6695
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+FAU - Monteiro, Ana C A
+AU  - Monteiro ACA
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+FAU - Carvalho, Carolina V
+AU  - Carvalho CV
+AD  - Department of Nutrition, Universidade, Federal de Lavras, 37200-000, Lavras, Minas 
+      Gerais, Brazil.
+FAU - Gomes, Luiz A A
+AU  - Gomes LAA
+AD  - Department of Agriculture, Universidade Federal de Lavras, 37200-000, Lavras, Minas 
+      Gerais, Brazil.
+FAU - Souza, Ricardo M
+AU  - Souza RM
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+FAU - de Souza, Jorge T
+AU  - de Souza JT
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil.
+FAU - Medeiros, Flávio H V
+AU  - Medeiros FHV
+AD  - Department of Plant Pathology, Universidade Federal de Lavras, 37200-000, Lavras, 
+      Minas Gerais, Brazil. flaviomedeiros@dfp.ufla.br.
+LA  - eng
+GR  - 309307/2017-1/Ministry of Science, Technology and Innovation | Conselho Nacional de 
+      Desenvolvimento Cient&amp;#x00ED;fico e Tecnol&amp;#x00F3;gico (National Council for 
+      Scientific and Technological Development)/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180705
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Antioxidants)
+RN  - 0 (Calcium Compounds)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Sulfides)
+RN  - 1MBW07J51Q (calcium sulfide)
+RN  - 789U1901C5 (Copper)
+RN  - 8011-63-0 (Bordeaux mixture)
+SB  - IM
+MH  - Antioxidants/*metabolism
+MH  - Brassica/chemistry/*drug effects/microbiology
+MH  - Calcium Compounds/pharmacology
+MH  - Copper/pharmacology
+MH  - Dietary Supplements/*analysis
+MH  - Food Quality
+MH  - Nutritive Value
+MH  - Plant Diseases/prevention & control
+MH  - Plant Extracts/pharmacology
+MH  - Sulfides/pharmacology
+MH  - Whey/chemistry
+MH  - Xanthomonas campestris/*pathogenicity
+PMC - PMC6033922
+COIS- The authors declare no competing interests.
+EDAT- 2018/07/07 06:00
+MHDA- 2019/10/18 06:00
+CRDT- 2018/07/07 06:00
+PHST- 2018/04/11 00:00 [received]
+PHST- 2018/06/13 00:00 [accepted]
+PHST- 2018/07/07 06:00 [entrez]
+PHST- 2018/07/07 06:00 [pubmed]
+PHST- 2019/10/18 06:00 [medline]
+AID - 10.1038/s41598-018-28086-6 [pii]
+AID - 28086 [pii]
+AID - 10.1038/s41598-018-28086-6 [doi]
+PST - epublish
+SO  - Sci Rep. 2018 Jul 5;8(1):10199. doi: 10.1038/s41598-018-28086-6.
+
+PMID- 32823508
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2304-8158 (Print)
+IS  - 2304-8158 (Electronic)
+IS  - 2304-8158 (Linking)
+VI  - 9
+IP  - 8
+DP  - 2020 Aug 13
+TI  - Spray-Dried Structured Lipid Carriers for the Loading of Rosmarinus officinalis: New 
+      Nutraceutical and Food Preservative.
+LID - 10.3390/foods9081110 [doi]
+LID - 1110
+AB  - Rosemary, an aromatic herb with significant antioxidative activity, is frequently 
+      used as food preservative and a source of nutraceuticals. Its antioxidant effect is 
+      mainly related to the presence of phenolic compounds, molecules considerably 
+      unstable and prone to irreversible physicochemical changes when exposed to external 
+      agents. We here proposed the loading of rosemary into structured lipid systems to 
+      improve its physicochemical properties. Four formulations were prepared using the 
+      same amount of rosemary lyophilized extract. The lipid phase was composed of stearic 
+      acid and oleic acid, and the aqueous phase, a varying combination of drying carriers 
+      (whey protein concentrate or gum Arabic) and surfactant (Poloxamer 188). The 
+      formulations were sonicated, spray-dried, and the obtained powders were 
+      characterized regarding the density (0.18 g/mL to 0.26 g/mL), particle size 
+      distribution (7 µm and 52 µm), and water solubility (29% to 48%). The antioxidant 
+      activity was determined by applying ABTS(•+) radical-scavenging assay and the 
+      results expressed per gram of lyophilized extract (150.6 μmol Trolox/g to 376.4 μmol 
+      Trolox/g), with a significantly lower/higher result seen for formulations containing 
+      gum Arabic and a higher concentration of Poloxamer. The prepared systems may have 
+      potential applications as preservative in foodstuff and as nutraceutical.
+FAU - Baldim, Iara
+AU  - Baldim I
+AUID- ORCID: 0000-0003-3621-3094
+AD  - Faculty of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, Av. 
+      do Café s/n, Ribeirão Preto, SP, São Paulo 14040-903, Brazil.
+AD  - CEB-Centre of Biological Engineering, University of Minho, Campus de Gualtar, 
+      4710-057 Braga, Portugal.
+FAU - Souza, Claudia R F
+AU  - Souza CRF
+AUID- ORCID: 0000-0002-4152-8640
+AD  - Faculty of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, Av. 
+      do Café s/n, Ribeirão Preto, SP, São Paulo 14040-903, Brazil.
+FAU - Durazzo, Alessandra
+AU  - Durazzo A
+AUID- ORCID: 0000-0002-7747-9107
+AD  - CREA-Research Centre for Food and Nutrition, Via Ardeatina 546, 00178 Rome, Italy.
+FAU - Lucarini, Massimo
+AU  - Lucarini M
+AD  - CREA-Research Centre for Food and Nutrition, Via Ardeatina 546, 00178 Rome, Italy.
+FAU - Santini, Antonello
+AU  - Santini A
+AUID- ORCID: 0000-0001-5505-3327
+AD  - Department of Pharmacy, University of Napoli Federico II, Via D. Montesano 49, 80131 
+      Napoli, Italy.
+FAU - Souto, Eliana B
+AU  - Souto EB
+AUID- ORCID: 0000-0002-9737-6017
+AD  - CEB-Centre of Biological Engineering, University of Minho, Campus de Gualtar, 
+      4710-057 Braga, Portugal.
+AD  - Faculty of Pharmacy, Department of Pharmaceutical Technology, University of Coimbra, 
+      Pólo das Ciências da Saúde, Azinhaga de Santa Comba, 3000-548 Coimbra, Portugal.
+FAU - Oliveira, Wanderley P
+AU  - Oliveira WP
+AUID- ORCID: 0000-0003-4356-2508
+AD  - Faculty of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, Av. 
+      do Café s/n, Ribeirão Preto, SP, São Paulo 14040-903, Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20200813
+TA  - Foods
+JT  - Foods (Basel, Switzerland)
+JID - 101670569
+PMC - PMC7466245
+OTO - NOTNLM
+OT  - Rosmarinus officinalis
+OT  - antioxidant activity
+OT  - food preservative
+OT  - nutraceuticals
+OT  - spray-dryer
+OT  - structured lipid carriers
+COIS- The authors report no conflict of interest in this study.
+EDAT- 2020/08/23 06:00
+MHDA- 2020/08/23 06:01
+CRDT- 2020/08/23 06:00
+PHST- 2020/06/09 00:00 [received]
+PHST- 2020/08/03 00:00 [revised]
+PHST- 2020/08/07 00:00 [accepted]
+PHST- 2020/08/23 06:00 [entrez]
+PHST- 2020/08/23 06:00 [pubmed]
+PHST- 2020/08/23 06:01 [medline]
+AID - foods9081110 [pii]
+AID - foods-09-01110 [pii]
+AID - 10.3390/foods9081110 [doi]
+PST - epublish
+SO  - Foods. 2020 Aug 13;9(8):1110. doi: 10.3390/foods9081110.
+
+PMID- 28954390
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180529
+LR  - 20181113
+IS  - 1660-3397 (Electronic)
+IS  - 1660-3397 (Linking)
+VI  - 15
+IP  - 10
+DP  - 2017 Sep 26
+TI  - Brown Algae Padina sanctae-crucis Børgesen: A Potential Nutraceutical.
+LID - 10.3390/md15100251 [doi]
+LID - 251
+AB  - Padina sanctae-crucis Børgesen is distributed worldwide in tropical and subtropical 
+      seas; belongs to the Dictyotaceae family, and has proven to be an exceptional source 
+      of biologically active compounds. Four compounds were isolated and identified, 
+      namely: dolastane diterpene new for the genus Padina; phaeophytin and 
+      hidroxy-phaeophytin new for the family Dictyotaceae, and; mannitol first described 
+      in this species. Saturated fatty acids as compared to the percentages of unsaturated 
+      fatty acids were shown to be present in greater abundance. Palmitic and linolenic 
+      acid were the main saturated and unsaturated acids, respectively. Cytotoxic and 
+      antioxidant activities were evaluated using human erythrocytes. In vivo evaluations 
+      of acute toxicity and genotoxicity were performed in mice. Methanolic extract of 
+      P.sanctae-crucis presented antioxidant activity and did not induce cytotoxicity, 
+      genotoxicity or acute toxicity. Since Padina sanctae-crucis is already used as food, 
+      has essential fatty acids for the nutrition of mammals, does not present toxicity 
+      and has antioxidant activity, it can be considered as a potential nutraceutical.
+FAU - Nogueira, Raquel B S S
+AU  - Nogueira RBSS
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      raquelbssn@gmail.com.
+FAU - Tomaz, Anna Cláudia A
+AU  - Tomaz ACA
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      annacatomaz@gmail.com.
+FAU - Pessoa, Déborah R
+AU  - Pessoa DR
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      deborahribeiro11@gmail.com.
+FAU - Xavier, Aline L
+AU  - Xavier AL
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      aline.lx@gmail.com.
+FAU - Pita, João Carlos L R
+AU  - Pita JCLR
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      joaocpita@gmail.com.
+FAU - Sobral, Marianna V
+AU  - Sobral MV
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      mariannavbs@gmail.com.
+AD  - Department of Pharmaceutical Sciences, Federal University of Paraíba, João Pessoa 
+      58051-900, PB, Brazil. mariannavbs@gmail.com.
+FAU - Pontes, Marcela L C
+AU  - Pontes MLC
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      marcelalinspontes@gmail.com.
+FAU - Pessôa, Hilzeth L F
+AU  - Pessôa HLF
+AD  - Postgraduate Program in Development and Technological Innovation in Medicines, 
+      Health Sciences Center, Federal University of Paraíba, João Pessoa 58051-970, PB, 
+      Brazil. hilzeth@gmail.com.
+AD  - Department of Molecular Biology, Federal University of Paraíba, João Pessoa 
+      58051-900, PB, Brazil. hilzeth@gmail.com.
+FAU - Diniz, Margareth F F M
+AU  - Diniz MFFM
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      margarethdiniz.ufpb@gmail.com.
+AD  - Department of Pharmaceutical Sciences, Federal University of Paraíba, João Pessoa 
+      58051-900, PB, Brazil. margarethdiniz.ufpb@gmail.com.
+AD  - Postgraduate Program in Development and Technological Innovation in Medicines, 
+      Health Sciences Center, Federal University of Paraíba, João Pessoa 58051-970, PB, 
+      Brazil. margarethdiniz.ufpb@gmail.com.
+FAU - Miranda, George Emmanuel C
+AU  - Miranda GEC
+AD  - Department of Systematics and Ecology, Federal University of Paraíba, João Pessoa 
+      58051-900, PB, Brazil. mirandag@dse.ufpb.br.
+FAU - Vieira, Maria Aparecida R
+AU  - Vieira MAR
+AD  - Center of R&D of Plant Genetic Resources, Agronomical Institute, CP28, Campinas 
+      13001-970, SP, Brazil. mavieduc@ibb.unesp.br.
+FAU - Marques, Marcia O M
+AU  - Marques MOM
+AD  - Center of R&D of Plant Genetic Resources, Agronomical Institute, CP28, Campinas 
+      13001-970, SP, Brazil. mortiz@iac.sp.gov.br.
+FAU - Souza, Maria de Fátima V
+AU  - Souza MFV
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      mfvanderlei@ltf.ufpb.br.
+AD  - Department of Pharmaceutical Sciences, Federal University of Paraíba, João Pessoa 
+      58051-900, PB, Brazil. mfvanderlei@ltf.ufpb.br.
+AD  - Postgraduate Program in Development and Technological Innovation in Medicines, 
+      Health Sciences Center, Federal University of Paraíba, João Pessoa 58051-970, PB, 
+      Brazil. mfvanderlei@ltf.ufpb.br.
+FAU - Cunha, Emídio V L
+AU  - Cunha EVL
+AD  - Postgraduate Program in Bioactive Natural and Synthetic Products, Health Sciences 
+      Center, Federal University of Paraíba, João Pessoa 58051-970, PB, Brazil. 
+      emidio@ltf.ufpb.br.
+LA  - eng
+PT  - Journal Article
+DEP - 20170926
+TA  - Mar Drugs
+JT  - Marine drugs
+JID - 101213729
+RN  - 0 (Antioxidants)
+RN  - 0 (Biological Products)
+RN  - 0 (Fatty Acids)
+RN  - 0 (Fatty Acids, Unsaturated)
+RN  - 0RBV727H71 (alpha-Linolenic Acid)
+RN  - 2V16EO95H1 (Palmitic Acid)
+RN  - Y4S76JWI15 (Methanol)
+SB  - IM
+MH  - Animals
+MH  - Antioxidants/pharmacology
+MH  - Biological Products/*chemistry/*pharmacology
+MH  - Dietary Supplements
+MH  - Erythrocytes/drug effects
+MH  - Fatty Acids/pharmacology
+MH  - Fatty Acids, Unsaturated/pharmacology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methanol/chemistry
+MH  - Mice
+MH  - Mutagenicity Tests/methods
+MH  - Palmitic Acid/pharmacology
+MH  - Phaeophyta/*chemistry
+MH  - alpha-Linolenic Acid/pharmacology
+PMC - PMC5666402
+OTO - NOTNLM
+OT  - Dictyotaceae
+OT  - acute toxicity
+OT  - cytotoxicity
+OT  - dolastane diterpene
+OT  - genotoxicity
+OT  - linolenic acid
+OT  - mannitol
+OT  - palmitic acid
+OT  - phaeophytin
+COIS- The authors declare no conflicts of interest.
+EDAT- 2017/09/29 06:00
+MHDA- 2018/05/31 06:00
+CRDT- 2017/09/29 06:00
+PHST- 2017/07/01 00:00 [received]
+PHST- 2017/07/24 00:00 [revised]
+PHST- 2017/08/07 00:00 [accepted]
+PHST- 2017/09/29 06:00 [entrez]
+PHST- 2017/09/29 06:00 [pubmed]
+PHST- 2018/05/31 06:00 [medline]
+AID - md15100251 [pii]
+AID - marinedrugs-15-00251 [pii]
+AID - 10.3390/md15100251 [doi]
+PST - epublish
+SO  - Mar Drugs. 2017 Sep 26;15(10):251. doi: 10.3390/md15100251.
+
+PMID- 30600498
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191224
+LR  - 20191224
+IS  - 1559-0720 (Electronic)
+IS  - 0163-4984 (Linking)
+VI  - 191
+IP  - 1
+DP  - 2019 Sep
+TI  - Nutraceutical Effect of Trace Elements as Additional Injectable Doses to Modulate 
+      Oxidant and Antioxidant Status, and Improves the Quality of Lamb Meat.
+PG  - 115-125
+LID - 10.1007/s12011-018-1612-7 [doi]
+AB  - Our study aimed to evaluate whether zinc, copper, selenium, and manganese 
+      subcutaneous mineral application (trace elements) reduced mortality, improved 
+      performance, and modulated oxidant and antioxidant balance in lamb meat, thereby 
+      improving its quality. We divided the 110 newborn Lacaune lambs into two groups: 
+      non-treated (control), and treated (application of minerals) with three doses of 
+      0.33 mL/kg of body weight mineral complex on days of life 1, 30, and 60. All animals 
+      were weighed on day of life 1, 30, 60, 90, and 150. At the end of the experiment, 12 
+      animals were slaughtered for physical and chemical analysis of meat, oxidant, and 
+      antioxidant status, and for allometric analysis. Mineral-application animals had 
+      greater live-weight (P < 0.05) on days of life 60 and 90. There was an increase in 
+      fat thickness (P = 0.004); pH levels (P = 0.002) were lower in mineral-application 
+      animal meat than in that of the control group. Meat was paler (according to 
+      lightness (L color)) in the control group (P = 0.04). Weight loss from cooking was 
+      greater in control animals (P = 0.004). Shear strength values were lower in the meat 
+      of treated lambs (P = 0.008) suggesting that mineral application was associated with 
+      increased meat tenderness. In addition, catalase and superoxide dismutase activities 
+      were higher (P = 0.01) in mineral-treated animals, associated with a reduction in 
+      reactive oxygen species levels (P < 0.01), and lipid peroxidation products 
+      (P = 0.02). These data suggest that mineral application modulated oxidant and 
+      antioxidant status, reflecting better meat quality.
+FAU - Cazarotto, Chrystian J
+AU  - Cazarotto CJ
+AD  - Graduate Program in Animal Science, Universidade do Estado de Santa Catarina 
+      (UDESC), Chapecó, Santa Catarina (SC), Brazil.
+FAU - Boito, Jhonatan P
+AU  - Boito JP
+AD  - Graduate Program in Animal Science, Universidade do Estado de Santa Catarina 
+      (UDESC), Chapecó, Santa Catarina (SC), Brazil.
+FAU - Glombowsky, Patrícia
+AU  - Glombowsky P
+AD  - Graduate Program in Animal Science, Universidade do Estado de Santa Catarina 
+      (UDESC), Chapecó, Santa Catarina (SC), Brazil.
+FAU - Baggio, Rafael A
+AU  - Baggio RA
+AD  - Graduate Program in Animal Science, Universidade do Estado de Santa Catarina 
+      (UDESC), Chapecó, Santa Catarina (SC), Brazil.
+FAU - Galli, Gabriela M
+AU  - Galli GM
+AD  - Graduate Program in Animal Science, Universidade do Estado de Santa Catarina 
+      (UDESC), Chapecó, Santa Catarina (SC), Brazil.
+FAU - Machado, Gustavo
+AU  - Machado G
+AD  - Department of Population Health and Pathobiology, College of Veterinary Medicine, 
+      North Carolina State University, Raleigh, USA.
+FAU - Bottari, Nathieli B
+AU  - Bottari NB
+AD  - Graduate Program in Biochemical Toxicologicology, Universidade Federal de Santa 
+      Maria (UFSM), Santa Maria, RS, Brazil.
+FAU - Leal, Marta L R
+AU  - Leal MLR
+AD  - Department of Large Animal, UFSM, Santa Maria, RS, Brazil.
+FAU - Kessler, Julcemar D
+AU  - Kessler JD
+AD  - Graduate Program in Animal Science, Universidade do Estado de Santa Catarina 
+      (UDESC), Chapecó, Santa Catarina (SC), Brazil.
+FAU - Baldissera, Matheus D
+AU  - Baldissera MD
+AD  - Department of Microbiology and Parasitology, UFSM, Santa Maria, RS, Brazil.
+FAU - da Silva, Aleksandro S
+AU  - da Silva AS
+AUID- ORCID: 0000-0002-9860-1933
+AD  - Graduate Program in Animal Science, Universidade do Estado de Santa Catarina 
+      (UDESC), Chapecó, Santa Catarina (SC), Brazil. aleksandro.silva@udesc.br.
+AD  - Graduate Program in Biochemical Toxicologicology, Universidade Federal de Santa 
+      Maria (UFSM), Santa Maria, RS, Brazil. aleksandro.silva@udesc.br.
+AD  - Department of Animal Science, University of Santa Catarina State, 680 D, Beloni 
+      Trombeta Zanin Street, Chapecó, SC, 89815-630, Brazil. aleksandro.silva@udesc.br.
+LA  - eng
+PT  - Journal Article
+DEP - 20190102
+PL  - United States
+TA  - Biol Trace Elem Res
+JT  - Biological trace element research
+JID - 7911509
+RN  - 0 (Trace Elements)
+SB  - IM
+MH  - Animals
+MH  - Animals, Newborn
+MH  - *Dietary Supplements
+MH  - *Food Quality
+MH  - Male
+MH  - *Meat
+MH  - Oxidation-Reduction/drug effects
+MH  - Sheep
+MH  - Trace Elements/*pharmacology
+OTO - NOTNLM
+OT  - Antioxidant system
+OT  - Lipid oxidation
+OT  - Mineral
+OT  - Performance
+OT  - Reactive oxygen species
+EDAT- 2019/01/03 06:00
+MHDA- 2019/12/25 06:00
+CRDT- 2019/01/03 06:00
+PHST- 2018/08/30 00:00 [received]
+PHST- 2018/12/06 00:00 [accepted]
+PHST- 2019/01/03 06:00 [pubmed]
+PHST- 2019/12/25 06:00 [medline]
+PHST- 2019/01/03 06:00 [entrez]
+AID - 10.1007/s12011-018-1612-7 [pii]
+AID - 10.1007/s12011-018-1612-7 [doi]
+PST - ppublish
+SO  - Biol Trace Elem Res. 2019 Sep;191(1):115-125. doi: 10.1007/s12011-018-1612-7. Epub 
+      2019 Jan 2.
+
+PMID- 25140597
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150408
+LR  - 20191027
+IS  - 1678-2674 (Electronic)
+IS  - 0102-8650 (Linking)
+VI  - 29
+IP  - 8
+DP  - 2014 Aug
+TI  - Nutraceutical preconditioning with arginine and oil mixes. Effects on inflammatory 
+      mediators, oxidative stress and lipid profile in patients undergoing radical 
+      prostatectomy.
+PG  - 538-43
+LID - S0102-86502014000800538 [pii]
+AB  - PURPOSE: To investigate whether there is any effect resulting from preconditioning 
+      with nutraceutical supplementation containing arginine and oil mixes with high ω9:ω6 
+      ratio and low ω6:ω3 ratio containing EPA and DHA, ALA fatty acids on inflammatory 
+      mediators, antioxidant and lipid profile modulation in surgical trauma. METHODS: 
+      Twenty-six men scheduled for radical prostatectomy were randomized into three groups 
+      and treated as follows: Group 1 (skim milk, 0% fat), Group 2 (supplement with ω6:ω3 
+      ratio of 8:1 and arginine) and Group 3 (supplement with high ω9:ω6 ratio of 3.2:1 
+      and low ω6:ω3 ratio of 1.4:1 and arginine). Patients received skin milk or 
+      supplements twice a day (200 ml) during five days prior to surgery. Peripheral 
+      venous blood samples were collected at three different timepoints: five days before 
+      surgery (PRE), before anesthesia induction (IND) and on the 2nd postoperative day 
+      (POS). Parameters analyzed included inflammatory cytokines (IL-1β, IL-6, IL-8 and 
+      TNF-α), antioxidants (catalase), lipid profile and heat shock protein (HSP-27). 
+      RESULTS: There were no significant differences between groups on inflammatory 
+      mediators and antioxidant parameters. However, lipid profile values (Cholesterol, 
+      LDL, Triglycerides, VLDL), were significantly different. CONCLUSION: Preconditioning 
+      with arginine and oil mixes containing high ω9:ω6 ratio and low ω6:ω3 ratio, has no 
+      effects on inflammatory mediators and oxidative stress in patients undergoing 
+      radical prostatectomy. Reduction of cholesterol, triglycerides, LDL and VLDL 
+      profiles may be related to the trauma effect.
+FAU - Tavares, Lílian de Lima
+AU  - Tavares Lde L
+AD  - Department of Surgery, Federal University of Ceara, Fortaleza, CE, Brazil.
+FAU - Cavalcante, Karla Pinheiro
+AU  - Cavalcante KP
+AD  - Department of Surgery, Federal University of Ceara, Fortaleza, CE, Brazil.
+FAU - Campelo, Márcio Wilker Soares
+AU  - Campelo MW
+AD  - Department of Surgery, UFC, Fortaleza, CE, Brazil.
+FAU - Coutinho, Leonam Gomes
+AU  - Coutinho LG
+AD  - Department of Genetics and Cellular Biology, Federal University of Rio Grande do 
+      Norte, Natal, RN, Brazil.
+FAU - Medeiros, Silvia Regina Batistuzzo de
+AU  - Medeiros SR
+AD  - Department of Genetics and Cellular Biology, UFRN, Natal, RN, Brazil.
+FAU - Guimarães, Sérgio Botelho
+AU  - Guimarães SB
+AD  - Department of Surgery, UFC, Fortaleza, CE, Brazil.
+FAU - Vasconcelos, Paulo Roberto Leitão de
+AU  - Vasconcelos PR
+AD  - Department of Surgery, UFC, Fortaleza, CE, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Brazil
+TA  - Acta Cir Bras
+JT  - Acta cirurgica brasileira
+JID - 9103983
+RN  - 0 (Cytokines)
+RN  - 0 (Fatty Acids)
+RN  - 0 (HSP27 Heat-Shock Proteins)
+RN  - 0 (Inflammation Mediators)
+RN  - 0 (Lipids)
+RN  - 0 (Triglycerides)
+RN  - 94ZLA3W45F (Arginine)
+RN  - 97C5T2UQ7J (Cholesterol)
+RN  - EC 1.11.1.6 (Catalase)
+SB  - IM
+MH  - Arginine/metabolism/*pharmacology
+MH  - Catalase/*blood/drug effects
+MH  - Cholesterol/blood
+MH  - Cytokines/blood/drug effects
+MH  - *Dietary Supplements
+MH  - Double-Blind Method
+MH  - Fatty Acids/metabolism/*pharmacology
+MH  - HSP27 Heat-Shock Proteins/blood
+MH  - Humans
+MH  - Inflammation Mediators/*blood
+MH  - Lipids/*blood
+MH  - Male
+MH  - Oxidative Stress/*drug effects
+MH  - Prostatectomy
+MH  - Triglycerides/blood
+EDAT- 2014/08/21 06:00
+MHDA- 2015/04/09 06:00
+CRDT- 2014/08/21 06:00
+PHST- 2014/03/26 00:00 [received]
+PHST- 2014/06/24 00:00 [accepted]
+PHST- 2014/08/21 06:00 [entrez]
+PHST- 2014/08/21 06:00 [pubmed]
+PHST- 2015/04/09 06:00 [medline]
+AID - S0102-86502014000800538 [pii]
+AID - 10.1590/s0102-86502014000800010 [doi]
+PST - ppublish
+SO  - Acta Cir Bras. 2014 Aug;29(8):538-43. doi: 10.1590/s0102-86502014000800010.
+
+PMID- 26880818
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20171116
+IS  - 1471-9053 (Electronic)
+IS  - 0032-0781 (Linking)
+VI  - 57
+IP  - 3
+DP  - 2016 Mar
+TI  - Pheophytinase Knockdown Impacts Carbon Metabolism and Nutraceutical Content Under 
+      Normal Growth Conditions in Tomato.
+PG  - 642-53
+LID - 10.1093/pcp/pcw021 [doi]
+AB  - Although chlorophyll (Chl) degradation is an essential biochemical pathway for plant 
+      physiology, our knowledge regarding this process still has unfilled gaps. 
+      Pheophytinase (PPH) was shown to be essential for Chl breakdown in dark-induced 
+      senescent leaves. However, the catalyzing enzymes involved in pigment turnover and 
+      fruit ripening-associated degreening are still controversial. Chl metabolism is 
+      closely linked to the biosynthesis of other isoprenoid-derived compounds, such as 
+      carotenoids and tocopherols, which are also components of the photosynthetic 
+      machinery. Chls, carotenoids and tocopherols share a common precursor, 
+      geranylgeranyl diphosphate, produced by the plastidial methylerythritol 4-phosphate 
+      (MEP) pathway. Additionally, the Chl degradation-derived phytol can be incorporated 
+      into tocopherol biosynthesis. In this context, tomato turns out to be an interesting 
+      model to address isoprenoid-metabolic cross-talk since fruit ripening combines 
+      degreening and an intensely active MEP leading to carotenoid accumulation. Here, we 
+      investigate the impact of PPH deficiency beyond senescence by the comprehensive 
+      phenotyping of SlPPH-knockdown tomato plants. In leaves, photosynthetic parameters 
+      indicate altered energy usage of excited Chl. As a mitigatory effect, 
+      photosynthesis-associated carotenoids increased while tocopherol content remained 
+      constant. Additionally, starch and soluble sugar profiles revealed a distinct 
+      pattern of carbon allocation in leaves that suggests enhanced sucrose exportation. 
+      The higher levels of carbohydrates in sink organs down-regulated carotenoid 
+      biosynthesis. Additionally, the reduction in Chl-derived phytol recycling resulted 
+      in decreased tocopherol content in transgenic ripe fruits. Summing up, tocopherol 
+      and carotenoid metabolism, together with the antioxidant capacity of the hydrophilic 
+      and hydrophobic fractions, were differentially affected in leaves and fruits of the 
+      transgenic plants. Thus, in tomato, PPH plays a role beyond senescence-associated 
+      Chl degradation that, when compromised, affects isoprenoid and carbon metabolism 
+      which ultimately alters the fruit's nutraceutical content.
+CI  - © The Author 2016. Published by Oxford University Press on behalf of Japanese 
+      Society of Plant Physiologists. All rights reserved. For permissions, please email: 
+      journals.permissions@oup.com.
+FAU - Lira, Bruno Silvestre
+AU  - Lira BS
+AD  - Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São 
+      Paulo, SP, Brazil.
+FAU - Rosado, Daniele
+AU  - Rosado D
+AD  - Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São 
+      Paulo, SP, Brazil.
+FAU - Almeida, Juliana
+AU  - Almeida J
+AD  - Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São 
+      Paulo, SP, Brazil.
+FAU - de Souza, Amanda Pereira
+AU  - de Souza AP
+AD  - Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São 
+      Paulo, SP, Brazil.
+FAU - Buckeridge, Marcos Silveira
+AU  - Buckeridge MS
+AD  - Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São 
+      Paulo, SP, Brazil.
+FAU - Purgatto, Eduardo
+AU  - Purgatto E
+AD  - Departamento de Alimentos e Nutrição Experimental, Faculdade de Ciências 
+      Farmacêuticas, Universidade de São Paulo, São Paulo, SP, Brazil.
+FAU - Guyer, Luzia
+AU  - Guyer L
+AD  - Institute of Plant Biology, University of Zurich, Zurich, Switzerland.
+FAU - Hörtensteiner, Stefan
+AU  - Hörtensteiner S
+AD  - Institute of Plant Biology, University of Zurich, Zurich, Switzerland.
+FAU - Freschi, Luciano
+AU  - Freschi L
+AD  - Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São 
+      Paulo, SP, Brazil.
+FAU - Rossi, Magdalena
+AU  - Rossi M
+AD  - Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São 
+      Paulo, SP, Brazil mmrossi@usp.br.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160214
+PL  - Japan
+TA  - Plant Cell Physiol
+JT  - Plant & cell physiology
+JID - 9430925
+RN  - 0 (Antioxidants)
+RN  - 0 (Chromans)
+RN  - 0 (RNA, Messenger)
+RN  - 1406-65-1 (Chlorophyll)
+RN  - 36-88-4 (Carotenoids)
+RN  - 7440-44-0 (Carbon)
+RN  - 9005-25-8 (Starch)
+RN  - EC 3.- (Hydrolases)
+RN  - R0ZB2556P8 (Tocopherols)
+RN  - S18UL9710X (6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid)
+SB  - IM
+MH  - Antioxidants/metabolism
+MH  - Biosynthetic Pathways/genetics
+MH  - Carbon/*metabolism
+MH  - Carotenoids/metabolism
+MH  - Chlorophyll/metabolism
+MH  - Chromans/metabolism
+MH  - Dietary Supplements/*analysis
+MH  - *Gene Knockdown Techniques
+MH  - Genes, Plant
+MH  - Hydrolases/*metabolism
+MH  - Lycopersicon esculentum/enzymology/*genetics/*growth & development
+MH  - Photosynthesis
+MH  - Phylogeny
+MH  - Plants, Genetically Modified
+MH  - RNA, Messenger/genetics/metabolism
+MH  - Starch/metabolism
+MH  - Tocopherols/metabolism
+OTO - NOTNLM
+OT  - Carotenoids
+OT  - Chlorophyll degradation
+OT  - Pheophytinase
+OT  - Solanum lycopersicum
+OT  - Tocopherol
+OT  - Tomato
+EDAT- 2016/02/18 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2016/02/17 06:00
+PHST- 2015/10/05 00:00 [received]
+PHST- 2016/01/20 00:00 [accepted]
+PHST- 2016/02/17 06:00 [entrez]
+PHST- 2016/02/18 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - pcw021 [pii]
+AID - 10.1093/pcp/pcw021 [doi]
+PST - ppublish
+SO  - Plant Cell Physiol. 2016 Mar;57(3):642-53. doi: 10.1093/pcp/pcw021. Epub 2016 Feb 
+      14.
+
+PMID- 17070035
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070516
+LR  - 20131121
+IS  - 0960-8524 (Print)
+IS  - 0960-8524 (Linking)
+VI  - 98
+IP  - 7
+DP  - 2007 May
+TI  - Production of biomass and nutraceutical compounds by Spirulina platensis under 
+      different temperature and nitrogen regimes.
+PG  - 1489-93
+AB  - The cyanobacterium Spirulina platensis has been used by humans because of its 
+      nutritional and possibly medicinal effects. Our study evaluated the influence of 
+      temperature and nitrogen concentration in the medium on the production of biomass by 
+      this cyanobacterium and the biomass composition in protein, lipid and phenolic 
+      compounds. We found that at 35 degrees C there was a negative effect on biomass 
+      production but a positive effect on the production of protein, lipids and phenolics, 
+      the highest levels of these compounds being obtained in Zarrouk's medium containing 
+      1.875 or 2.500 g l(-1) sodium nitrate. Higher biomass densities and productivity 
+      were obtained at 30 degrees C than at 35 degrees C, but nitrogen concentration 
+      appeared to have no effect on the amount of protein, lipid or phenolics, indicating 
+      that at 30 degrees C the concentration of sodium nitrate in Zarrouk's medium (2.50 g 
+      l(-1)) can be reduced without loss of productivity, an important cost-saving factor 
+      in large-scale cultivation.
+FAU - Colla, Luciane Maria
+AU  - Colla LM
+AD  - Laboratory of Biochemical Engineering, Department of Chemistry, Federal University 
+      Foundation of Rio Grande, P.O. Box 474, CEP 96201-900 Rio Grande, RS, Brazil.
+FAU - Oliveira Reinehr, Christian
+AU  - Oliveira Reinehr C
+FAU - Reichert, Carolina
+AU  - Reichert C
+FAU - Costa, Jorge Alberto Vieira
+AU  - Costa JA
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20061027
+PL  - England
+TA  - Bioresour Technol
+JT  - Bioresource technology
+JID - 9889523
+RN  - 0 (Acids, Carbocyclic)
+RN  - 0 (Bacterial Proteins)
+RN  - 0 (Lipids)
+RN  - N762921K75 (Nitrogen)
+SB  - IM
+MH  - Acids, Carbocyclic/analysis
+MH  - Analysis of Variance
+MH  - Bacterial Proteins/*biosynthesis
+MH  - Biomass
+MH  - *Bioreactors
+MH  - *Dietary Supplements
+MH  - Lipids/*biosynthesis
+MH  - Nitrogen/analysis
+MH  - Spirulina/*metabolism
+MH  - Temperature
+EDAT- 2006/10/31 09:00
+MHDA- 2007/05/17 09:00
+CRDT- 2006/10/31 09:00
+PHST- 2004/02/17 00:00 [received]
+PHST- 2005/03/17 00:00 [revised]
+PHST- 2005/09/27 00:00 [accepted]
+PHST- 2006/10/31 09:00 [pubmed]
+PHST- 2007/05/17 09:00 [medline]
+PHST- 2006/10/31 09:00 [entrez]
+AID - S0960-8524(05)00476-1 [pii]
+AID - 10.1016/j.biortech.2005.09.030 [doi]
+PST - ppublish
+SO  - Bioresour Technol. 2007 May;98(7):1489-93. doi: 10.1016/j.biortech.2005.09.030. Epub 
+      2006 Oct 27.
+
+PMID- 28763992
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171101
+LR  - 20181202
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 237
+DP  - 2017 Dec 15
+TI  - Nutraceutical potential of Byrsonima cydoniifolia fruits based on chemical 
+      composition, anti-inflammatory, and antihyperalgesic activities.
+PG  - 240-246
+LID - S0308-8146(17)30874-9 [pii]
+LID - 10.1016/j.foodchem.2017.05.082 [doi]
+AB  - In recent years, the fruits of native Brazilian plant species with anti-inflammatory 
+      property have gained prominence due to their properties comparable to traditional 
+      medicines. This study aimed to chemically characterize and evaluate the 
+      anti-inflammatory and antihyperalgesic activity of Byrsonima cydoniifolia fruit, 
+      which is widely used to manufacture ice cream and jellies. Our results revealed that 
+      the fruit exhibits flavonoid derivatives and stilbenes, as trans-piceatannol and 
+      resveratrol, as main secondary metabolites. In mice, the hydroethanolic extract of 
+      fruit reduced the edema, migration of polymorphonuclear leukocytes into the 
+      peritoneal cavity, as well as abdominal writhings. The results demonstrated, for the 
+      first time, the presence of stilbenoids in the Byrsonima genus and the 
+      anti-inflammatory and antihyperalgesic effect of Byrsonima cydoniifolia fruits, 
+      supporting its potential as a nutraceutical food.
+CI  - Copyright © 2017 Elsevier Ltd. All rights reserved.
+FAU - Santos, Vanessa Samúdio Dos
+AU  - Santos VSD
+AD  - Laboratório de Produtos Naturais e Espectrometria de Massas, Universidade Federal de 
+      Mato Grosso do Sul, Campo Grande, MS, Brazil.
+FAU - Nascimento, Thalita Vieira
+AU  - Nascimento TV
+AD  - Laboratório de Farmacologia e Inflamação, Universidade Federal de Mato Grosso do 
+      Sul, Campo Grande, MS, Brazil.
+FAU - Felipe, Josyelen Lousada
+AU  - Felipe JL
+AD  - Laboratório de Farmacologia e Inflamação, Universidade Federal de Mato Grosso do 
+      Sul, Campo Grande, MS, Brazil.
+FAU - Boaretto, Amanda Galdi
+AU  - Boaretto AG
+AD  - Laboratório de Produtos Naturais e Espectrometria de Massas, Universidade Federal de 
+      Mato Grosso do Sul, Campo Grande, MS, Brazil.
+FAU - Damasceno-Junior, Geraldo Alves
+AU  - Damasceno-Junior GA
+AD  - Laboratório de Botânica, Universidade Federal de Mato Grosso do Sul, Campo Grande, 
+      MS, Brazil.
+FAU - Silva, Denise Brentan
+AU  - Silva DB
+AD  - Laboratório de Produtos Naturais e Espectrometria de Massas, Universidade Federal de 
+      Mato Grosso do Sul, Campo Grande, MS, Brazil.
+FAU - Toffoli-Kadri, Mônica Cristina
+AU  - Toffoli-Kadri MC
+AD  - Laboratório de Farmacologia e Inflamação, Universidade Federal de Mato Grosso do 
+      Sul, Campo Grande, MS, Brazil.
+FAU - Carollo, Carlos Alexandre
+AU  - Carollo CA
+AD  - Laboratório de Produtos Naturais e Espectrometria de Massas, Universidade Federal de 
+      Mato Grosso do Sul, Campo Grande, MS, Brazil. Electronic address: 
+      carlos.carollo@ufms.br.
+LA  - eng
+PT  - Journal Article
+DEP - 20170519
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Animals
+MH  - Anti-Inflammatory Agents
+MH  - Dietary Supplements
+MH  - *Fruit
+MH  - Mice
+MH  - Plant Extracts
+OTO - NOTNLM
+OT  - Canjiqueira
+OT  - Malpighiaceae
+OT  - Stilbenoids
+OT  - trans-Piceatannol
+EDAT- 2017/08/03 06:00
+MHDA- 2017/11/02 06:00
+CRDT- 2017/08/03 06:00
+PHST- 2016/12/29 00:00 [received]
+PHST- 2017/05/10 00:00 [revised]
+PHST- 2017/05/16 00:00 [accepted]
+PHST- 2017/08/03 06:00 [entrez]
+PHST- 2017/08/03 06:00 [pubmed]
+PHST- 2017/11/02 06:00 [medline]
+AID - S0308-8146(17)30874-9 [pii]
+AID - 10.1016/j.foodchem.2017.05.082 [doi]
+PST - ppublish
+SO  - Food Chem. 2017 Dec 15;237:240-246. doi: 10.1016/j.foodchem.2017.05.082. Epub 2017 
+      May 19.
+
+PMID- 22481651
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121113
+LR  - 20191120
+IS  - 1806-4841 (Electronic)
+IS  - 0365-0596 (Linking)
+VI  - 87
+IP  - 1
+DP  - 2012 Jan-Feb
+TI  - Clinical, biometric and ultrasound assessment of the effects of daily use of a 
+      nutraceutical composed of lycopene, acerola extract, grape seed extract and 
+      Biomarine Complex in photoaged human skin.
+PG  - 52-61
+LID - S0365-05962012000100006 [pii]
+AB  - BACKGROUND: The use of nutraceuticals has become frequent in the cutaneous approach 
+      to photoaging. OBJECTIVES: To assess the clinical efficacy of a nutraceutical 
+      product composed of lycopene, acerola extract, grape seed extract and Biomarine 
+      ComplexT in photoaged human skin. METHODS: 50 women, from 35 to 60 years of age, 
+      phototypes I to III, were assessed. For 120 days, they associated the nutraceutical 
+      product with the use of a sunscreen FPS15. On days 0 (D0), 30 (D30), 60 (D60), 90 
+      (D90) and 120 (D120) they were evaluated and underwent Medical Assessments and 
+      Self-Assessment and cutaneous biometric analyses (corneometry, sebumetry and 
+      pH-metry) in the skin of the left zygomatic region and the upper medial side region 
+      of the left arm; on days 0 (D0), 30 (D30) and 120 (D120) the skin of the same 
+      regions was analyzed by ultrasound. On days 0 (D0) and 120 (D120) skin biopsies were 
+      performed in the areas where instrumental evaluation was performed (to evaluate 
+      collagen and elastic fibers). RESULTS: There was an improvement of the general 
+      status of the skin of all volunteers by the Medical and Volunteer Self- Assessments; 
+      increased parameters of cutaneous hydration, reduction of pH, increasing of 
+      ultrasound density and a histological increment of collagen and elastic fibers (both 
+      on the face and arm); there was a reduction of seborrhea (only on the face) 
+      CONCLUSIONS: The daily use of a nutraceutical product containing lycopene, acerola 
+      extract, grape seed extract and Biomarine ComplexT showed an important adjuvant 
+      effect to counteract skin photoaging.
+FAU - Costa, Adilson
+AU  - Costa A
+AD  - Universidade Federal de São Paulo, Brazil. adilson_costa@hotmail.com
+FAU - Lindmark, Lars
+AU  - Lindmark L
+FAU - Arruda, Lúcia Helena Fávaro
+AU  - Arruda LH
+FAU - Assumpção, Elvira Cancio
+AU  - Assumpção EC
+FAU - Ota, Fernanda Sayuri
+AU  - Ota FS
+FAU - Pereira, Margareth de Oliveira
+AU  - Pereira Mde O
+FAU - Langen, Stéphanie Selma Barros
+AU  - Langen SS
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Spain
+TA  - An Bras Dermatol
+JT  - Anais brasileiros de dermatologia
+JID - 0067662
+RN  - 0 (Antioxidants)
+RN  - 0 (Grape Seed Extract)
+RN  - 36-88-4 (Carotenoids)
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+RN  - SB0N2N0WV6 (Lycopene)
+SB  - IM
+MH  - Adult
+MH  - Antioxidants/*therapeutic use
+MH  - Ascorbic Acid/therapeutic use
+MH  - Brazil
+MH  - Carotenoids/therapeutic use
+MH  - *Dietary Supplements
+MH  - Female
+MH  - Grape Seed Extract/therapeutic use
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Lycopene
+MH  - Malpighiaceae/chemistry
+MH  - Middle Aged
+MH  - Self-Assessment
+MH  - Skin Aging/*drug effects
+EDAT- 2012/04/07 06:00
+MHDA- 2012/11/14 06:00
+CRDT- 2012/04/07 06:00
+PHST- 2010/12/11 00:00 [received]
+PHST- 2011/03/24 00:00 [accepted]
+PHST- 2012/04/07 06:00 [entrez]
+PHST- 2012/04/07 06:00 [pubmed]
+PHST- 2012/11/14 06:00 [medline]
+AID - S0365-05962012000100006 [pii]
+AID - 10.1590/s0365-05962012000100006 [doi]
+PST - ppublish
+SO  - An Bras Dermatol. 2012 Jan-Feb;87(1):52-61. doi: 10.1590/s0365-05962012000100006.
+
+PMID- 32228118
+OWN - NLM
+STAT- Publisher
+LR  - 20200401
+IS  - 1525-6014 (Electronic)
+IS  - 0148-0545 (Linking)
+DP  - 2020 Mar 31
+TI  - Lobularia maritima leave extract, a nutraceutical agent with antioxidant activity, 
+      protects against CCl(4)-induced liver injury in mice.
+PG  - 1-14
+LID - 10.1080/01480545.2020.1742730 [doi]
+AB  - Lobularia maritima (Alyssum maritimum, Brassicaceae), commonly known as 
+      sweet alyssum, is an annual ornamental halophyte widely spread along the Tunisian 
+      seashore. Lobularia maritima leaf ethanol extract was tested in an experimental 
+      model of hepatotoxicity induced by carbon tetrachloride (CCl(4)). L. maritima 
+      extract was found to possess in vitro antioxidant activity by scavenging the DPPH 
+      radical (IC(50)= 45 μg/mL), reducing/chelating iron ions and inhibiting liver lipid 
+      peroxidation induced by FeSO(4). The levels of total phenolics and flavonoids were 
+      175 ± 2.66 mg GAE/g, and 35 ± 2.88 mg QE/g respectively. Moreover, HPLC analysis 
+      revealed six compounds, namely gallic, salicylic, ellagic and ferulic acids as well 
+      as catechin and quercetin. A mice model of acute liver injury was successfully 
+      established after a single intraperitoneal injection of CCl(4), as evidenced by 
+      histological analysis, Masson trichrome and Sirius red staining. Compared with the 
+      CCl(4) intoxicated group, the L. maritima treatment resulted to reduce the liver 
+      serum marker enzymes, lipid peroxidation and increased the activities of antioxidant 
+      enzymes with further amelioration in the oxidative stress. The present findings 
+      discover the therapeutic potentials of L. maritima empowered with promising natural 
+      leads for the treatment of oxidative stress associated health disorders by 
+      attenuating free radicals, inhibiting lipid peroxidation, and upregulating the 
+      tissue-specific antioxidant enzymes.
+FAU - Ben Hsouna, Anis
+AU  - Ben Hsouna A
+AUID- ORCID: 0000-0002-3837-5532
+AD  - Department of Life Sciences, Faculty of Sciences of Gafsa, Gafsa, Tunisia.
+AD  - Centre of Biotechnology of Sfax, Biotechnology and Plant Improvement Laboratory, 
+      Sfax, Tunisia.
+FAU - Dhibi, Sabah
+AU  - Dhibi S
+AUID- ORCID: 0000-0001-6989-5197
+AD  - Laboratory of Animal Ecophysiology, Faculty of Sciences, University of Gafsa, Gafsa, 
+      Tunisia.
+FAU - Dhifi, Wissal
+AU  - Dhifi W
+AD  - Laboratory of Physiopathology, Alimentation and Biomolecules, PAB, LR17ES03, Higher 
+      Institute of Biotechnology of Sidi Thabet, BiotechPole of Sidi Thabet, University of 
+      Manouba, Ariana, Tunisia.
+FAU - Ben Saad, Rania
+AU  - Ben Saad R
+AD  - Centre of Biotechnology of Sfax, Biotechnology and Plant Improvement Laboratory, 
+      Sfax, Tunisia.
+FAU - Brini, Faical
+AU  - Brini F
+AD  - Centre of Biotechnology of Sfax, Biotechnology and Plant Improvement Laboratory, 
+      Sfax, Tunisia.
+FAU - Hfaidh, Najla
+AU  - Hfaidh N
+AD  - Laboratory of Animal Ecophysiology, Faculty of Sciences, University of Gafsa, Gafsa, 
+      Tunisia.
+FAU - Almeida, Jackson Roberto Guedes da Silva
+AU  - Almeida JRGDS
+AUID- ORCID: 0000-0002-0867-1357
+AD  - Center for Studies and Research of Medicinal Plants, Federal University of Vale do 
+      São Francisco, Petrolina, Brazil.
+FAU - Mnif, Wissem
+AU  - Mnif W
+AUID- ORCID: 0000-0002-8123-4743
+AD  - Department of Chemistry, Faculty of Sciences and Arts in Balgarn, University of 
+      Bisha, Bisha, Saudi Arabia.
+AD  - Laboratory of Biotechnology and Valorisation of Bio-GeoRessources, BVBGR, LR11ES31, 
+      Higher Institute of Biotechnology of Sidi Thabet, BiotechPole of Sidi Thabet, 
+      University of Manouba, Ariana, Tunisia.
+LA  - eng
+PT  - Journal Article
+DEP - 20200331
+PL  - United States
+TA  - Drug Chem Toxicol
+JT  - Drug and chemical toxicology
+JID - 7801723
+SB  - IM
+OTO - NOTNLM
+OT  - Lobularia maritima
+OT  - carbon tetrachloride
+OT  - hepatoprotective
+OT  - histopathological analysis
+OT  - oxidative stress
+OT  - phenolic compounds
+EDAT- 2020/04/02 06:00
+MHDA- 2020/04/02 06:00
+CRDT- 2020/04/02 06:00
+PHST- 2020/04/02 06:00 [entrez]
+PHST- 2020/04/02 06:00 [pubmed]
+PHST- 2020/04/02 06:00 [medline]
+AID - 10.1080/01480545.2020.1742730 [doi]
+PST - aheadofprint
+SO  - Drug Chem Toxicol. 2020 Mar 31:1-14. doi: 10.1080/01480545.2020.1742730.
+
+PMID- 24747989
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140911
+LR  - 20211021
+IS  - 1476-5535 (Electronic)
+IS  - 1367-5435 (Linking)
+VI  - 41
+IP  - 6
+DP  - 2014 Jun
+TI  - Thermopressurized diluted phosphoric acid pretreatment of ligno(hemi)cellulose to 
+      make free sugars and nutraceutical oligosaccharides.
+PG  - 957-64
+LID - 10.1007/s10295-014-1426-3 [doi]
+AB  - Ligno(hemi)cellulosics (L(h)Cs) as sugarcane bagasse and loblolly pine sawdust are 
+      currently being used to produce biofuels such as bioethanol and biobutanol through 
+      fermentation of free sugars that are often obtained enzymatically. However, this 
+      bioconversion requires a pretreatment to solubilize the hemicellulose fractions, 
+      thus facilitating the action of the cellulolytic enzymes. Instead of the main free 
+      monosaccharides used in these current models, the modulation of thermopressurized 
+      orthophosphoric acid as a pretreatment, in the ranges of 3-12 atm and pH 1.5-2.5, 
+      can produce nondigestible oligosaccharides (NDOS) such as xylo-oligosaccharides 
+      (XOS) because heteroxylan is present in both types of hardwood and softwood 
+      hemicelluloses. A comparative thin-layer chromatographic analysis of the hydrolytic 
+      products showed the best conditions for NDOS production to be 7 atm/water, pH 2.25 
+      and 2.50, and 8.5 atm/water for both sources. Particular hydrolysates from 7 atm 
+      (171 °C) at pHs 2.25 and 2.50 both for cane bagasse and pine sawdust, with 
+      respective oligosaccharide contents of 57 and 59 %, once mixed in a proportion of 
+      1:1 for each plant source, were used in vitro as carbon sources for Bifidobacterium 
+      or Lactobacillus. Once both bacteria attained the stationary phase of growth, an 
+      unforeseen feature emerged: the preference of B. animalis for bagasse hydrolysates 
+      and, conversely, the preference of L. casei for pine hydrolysates. Considering the 
+      fact that nutraceutical oligosaccharides from both hemicelluloses correspond to 
+      higher value-added byproducts, the technology using a much diluted thermopressurized 
+      orthophosphoric acid pretreatment becomes an attractive choice for L(h)Cs.
+FAU - Tiboni, Marcela
+AU  - Tiboni M
+AD  - Department of Pharmacy, Federal University of Paraná (UFPR), Curitiba, PR, 
+      80210-170, Brazil.
+FAU - Grzybowski, Adelia
+AU  - Grzybowski A
+FAU - Baldo, Gizele Rejane
+AU  - Baldo GR
+FAU - Dias, Edson Flausino Jr
+AU  - Dias EF Jr
+FAU - Tanner, Robert D
+AU  - Tanner RD
+FAU - Kornfield, Julia Ann
+AU  - Kornfield JA
+FAU - Fontana, José Domingos
+AU  - Fontana JD
+LA  - eng
+PT  - Journal Article
+DEP - 20140418
+PL  - Germany
+TA  - J Ind Microbiol Biotechnol
+JT  - Journal of industrial microbiology & biotechnology
+JID - 9705544
+RN  - 0 (Biofuels)
+RN  - 0 (Monosaccharides)
+RN  - 0 (Oligosaccharides)
+RN  - 0 (Phosphoric Acids)
+RN  - 0 (Polysaccharides)
+RN  - 11132-73-3 (lignocellulose)
+RN  - 8024-50-8 (hemicellulose)
+RN  - 9004-34-6 (Cellulose)
+RN  - 9005-53-2 (Lignin)
+RN  - 9006-97-7 (bagasse)
+RN  - E4GA8884NN (phosphoric acid)
+SB  - IM
+MH  - Bifidobacterium/growth & development/metabolism
+MH  - Biofuels
+MH  - *Carbohydrate Metabolism
+MH  - Cellulose/chemistry/metabolism
+MH  - Fermentation
+MH  - Hot Temperature
+MH  - Hydrolysis
+MH  - Lactobacillus/growth & development/metabolism
+MH  - Lignin/*metabolism
+MH  - Monosaccharides/metabolism
+MH  - Oligosaccharides/*metabolism
+MH  - *Phosphoric Acids
+MH  - Pinus/chemistry
+MH  - Polysaccharides/metabolism
+MH  - Pressure
+MH  - Probiotics/*metabolism
+MH  - Saccharum/chemistry
+MH  - Wood/metabolism
+EDAT- 2014/04/22 06:00
+MHDA- 2014/09/12 06:00
+CRDT- 2014/04/22 06:00
+PHST- 2013/12/12 00:00 [received]
+PHST- 2014/02/19 00:00 [accepted]
+PHST- 2014/04/22 06:00 [entrez]
+PHST- 2014/04/22 06:00 [pubmed]
+PHST- 2014/09/12 06:00 [medline]
+AID - 10.1007/s10295-014-1426-3 [doi]
+PST - ppublish
+SO  - J Ind Microbiol Biotechnol. 2014 Jun;41(6):957-64. doi: 10.1007/s10295-014-1426-3. 
+      Epub 2014 Apr 18.
+
+PMID- 23109830
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160309
+LR  - 20211021
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 13
+IP  - 9
+DP  - 2012
+TI  - Gamma irradiation of in-shell and blanched peanuts protects against mycotoxic fungi 
+      and retains their nutraceutical components during long-term storage.
+PG  - 10935-58
+LID - 10.3390/ijms130910935 [doi]
+AB  - Peanut samples were irradiated (0.0, 5.2, 7.2 or 10.0 kGy), stored for a year (room 
+      temperature) and examined every three months. Mycotoxic fungi (MF) were detected in 
+      non-irradiated blanched peanuts. A dose of 5.2 kGy was found suitable to prevent MF 
+      growth in blanched samples. No MF was detected in in-shell peanuts, with or without 
+      irradiation. The colors of the control in-shell and blanched samples were, 
+      respectively, 44.72 and 60.21 (L *); 25.20 and 20.38 (Chroma); 53.05 and 86.46 
+      (°Hue). The water activities (Aw) were 0.673 and 0.425. The corresponding fatty 
+      acids were 13.33% and 12.14% (C16:0), 44.94% and 44.92% (C18:1, ω9) and 37.10% and 
+      37.63% (C18:2, ω6). The total phenolics (TP) were 4.62 and 2.52 mg GAE/g, with 
+      antioxidant activities (AA) of 16.97 and 10.36 μmol TEAC/g. Storage time negatively 
+      correlated with Aw (in-shell peanuts) or L *, linoleic acid, TP and AA (in-shell and 
+      blanched peanuts) but positively correlated with Aw (blanched peanuts), and with 
+      oleic acid (in-shell and blanched peanuts). Irradiation positively correlated with 
+      antioxidant activity (blanched peanuts). No correlation was found between 
+      irradiation and AA (in-shell samples) or fatty acids and TP (in-shell and blanched 
+      peanuts). Irradiation protected against MF and retained both the polyunsaturated 
+      fatty acids and polyphenols in the samples.
+FAU - de Camargo, Adriano Costa
+AU  - de Camargo AC
+AD  - Department of Agri-Food Industry, Food & Nutrition, "Luiz de Queiroz" College of 
+      Agriculture (ESALQ/USP), University of São Paulo, Av. Pádua Dias 11, P.O. Box 9, 
+      CEP, Piracicaba 13418-900, Brazil; E-Mails: tvieira@usp.br (T.M.F.S.V.); 
+      marisadarce@usp.br (M.A.B.R.A.); smalencar@usp.br (S.M.A.); macdomin@usp.br 
+      (M.A.C.-D.); martaspoto@usp.br (M.H.F.S.); sgcbraza@usp.br (S.G.C.-B.).
+FAU - de Souza Vieira, Thais Maria Ferreira
+AU  - de Souza Vieira TM
+FAU - Regitano-d'Arce, Marisa Aparecida Bismara
+AU  - Regitano-d'Arce MA
+FAU - de Alencar, Severino Matias
+AU  - de Alencar SM
+FAU - Calori-Domingues, Maria Antonia
+AU  - Calori-Domingues MA
+FAU - Spoto, Marta Helena Fillet
+AU  - Spoto MH
+FAU - Canniatti-Brazaca, Solange Guidolin
+AU  - Canniatti-Brazaca SG
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120831
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Antioxidants)
+RN  - 0 (Fatty Acids)
+RN  - 0 (Phenols)
+SB  - IM
+MH  - Antioxidants/analysis
+MH  - Arachis/chemistry/*microbiology/*radiation effects
+MH  - Fatty Acids/analysis
+MH  - Food Irradiation/*methods
+MH  - Fungi/*isolation & purification/*radiation effects
+MH  - Gamma Rays
+MH  - Mycotoxicosis/prevention & control
+MH  - Phenols/analysis
+PMC - PMC3472722
+OTO - NOTNLM
+OT  - antioxidant properties
+OT  - color
+OT  - gamma radiation
+OT  - mycotoxic fungi
+OT  - nutraceuticals
+OT  - polyphenols
+OT  - polyunsaturated fatty acids
+OT  - storage
+OT  - water activity
+EDAT- 2012/10/31 06:00
+MHDA- 2012/10/31 06:01
+CRDT- 2012/10/31 06:00
+PHST- 2012/07/18 00:00 [received]
+PHST- 2012/08/18 00:00 [revised]
+PHST- 2012/08/18 00:00 [accepted]
+PHST- 2012/10/31 06:00 [entrez]
+PHST- 2012/10/31 06:00 [pubmed]
+PHST- 2012/10/31 06:01 [medline]
+AID - ijms-13-10935 [pii]
+AID - 10.3390/ijms130910935 [doi]
+PST - ppublish
+SO  - Int J Mol Sci. 2012;13(9):10935-58. doi: 10.3390/ijms130910935. Epub 2012 Aug 31.
+
+PMID- 25529669
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150806
+LR  - 20181202
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 174
+DP  - 2015 May 1
+TI  - Post-harvest nutraceutical behaviour during ripening and senescence of 8 highly 
+      perishable fruit species from the Northern Brazilian Amazon region.
+PG  - 188-96
+LID - S0308-8146(14)01675-6 [pii]
+LID - 10.1016/j.foodchem.2014.10.111 [doi]
+AB  - The post-harvest nutraceutical characteristics of highly perishable native fruits 
+      species from the Northern Brazilian Amazon region were studied during 12 day at 15 ± 
+      1 °C and 95 ± 3% RH. Uxi and caja fruit showed climacteric behaviour while caju, 
+      açai de terra firme, camu-camu, inajá, murici and araçá-boi were non-climacteric. 
+      Soluble solids and sugars increased for climacteric fruit while total acidity 
+      remained constant for all fruits. In general, all fruit species had high levels of 
+      total phenolics (121-9889 mg GAE 100 g(-1) dry weight pulp), vitamin C (31-1532 mg 
+      AA 100 mL(-1) juice) and antioxidant activity (AOX) (75-288 1 μmol Trolox Eq 100 
+      g(-1) dry weight, ORAC value), however, camu-camu, acai and murici were among the 
+      highest. All fruits showed an increase in phenolic content (15-82%), a simultaneous 
+      decrease in ascorbic acid in both peel (88-98%) and pulp (89-97%), while AOX 
+      increased or decreased depending on the fruit species, very likely due to the 
+      specific phenolic profile being synthesized. We propose a hypothetical model where 
+      ripening/senescence induced a redox homeostasis imbalance which in turn triggered 
+      the responses.
+CI  - Copyright © 2014 Elsevier Ltd. All rights reserved.
+FAU - Neves, Leandro Camargo
+AU  - Neves LC
+AD  - UFRR/CAA, Department of Fitotecnia, Food and Technology Laboratory, University of 
+      Roraima State, BR 174 Km 12, 69310-270 Boa Vista, RR, Brazil. Electronic address: 
+      rapelbtu@hotmail.com.
+FAU - Tosin, Jéssica Milanez
+AU  - Tosin JM
+AD  - UFRR/CAA, Department of Fitotecnia, Food and Technology Laboratory, University of 
+      Roraima State, BR 174 Km 12, 69310-270 Boa Vista, RR, Brazil.
+FAU - Benedette, Ronaldo Moreno
+AU  - Benedette RM
+AD  - UFRR/CAA, Department of Fitotecnia, Food and Technology Laboratory, University of 
+      Roraima State, BR 174 Km 12, 69310-270 Boa Vista, RR, Brazil.
+FAU - Cisneros-Zevallos, Luis
+AU  - Cisneros-Zevallos L
+AD  - Department of Horticultural Sciences, Texas A&M University, College Station, TX 
+      77843-2133, USA. Electronic address: lcisnero@tamu.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141029
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 0 (Antioxidants)
+RN  - 0 (Phenols)
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+SB  - IM
+MH  - Antioxidants/analysis
+MH  - Ascorbic Acid/analysis
+MH  - Brazil
+MH  - Dietary Supplements
+MH  - Fruit/*chemistry/growth & development
+MH  - Myrtaceae
+MH  - Phenols/analysis
+OTO - NOTNLM
+OT  - Amazon-region
+OT  - Antioxidants
+OT  - Fruit-species
+OT  - Nutraceuticals
+OT  - Postharvest changes
+OT  - Redox homeostasis
+OT  - Ripening/senescence
+EDAT- 2014/12/23 06:00
+MHDA- 2015/08/08 06:00
+CRDT- 2014/12/23 06:00
+PHST- 2014/04/23 00:00 [received]
+PHST- 2014/10/18 00:00 [revised]
+PHST- 2014/10/20 00:00 [accepted]
+PHST- 2014/12/23 06:00 [entrez]
+PHST- 2014/12/23 06:00 [pubmed]
+PHST- 2015/08/08 06:00 [medline]
+AID - S0308-8146(14)01675-6 [pii]
+AID - 10.1016/j.foodchem.2014.10.111 [doi]
+PST - ppublish
+SO  - Food Chem. 2015 May 1;174:188-96. doi: 10.1016/j.foodchem.2014.10.111. Epub 2014 Oct 
+      29.
+
+PMID- 27595581
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180125
+LR  - 20180125
+IS  - 1618-2650 (Electronic)
+IS  - 1618-2642 (Linking)
+VI  - 408
+IP  - 28
+DP  - 2016 Nov
+TI  - Fast determination of four polar contaminants in soy nutraceutical products by 
+      liquid chromatography coupled to tandem mass spectrometry.
+PG  - 8089-8098
+AB  - An analytical method based on a modified QuPPe (quick polar pesticide) extraction 
+      procedure coupled with liquid chromatography-tandem mass spectrometry (LC-MS/MS) was 
+      evaluated for the determination of four polar compounds (chlorate, fosetyl-Al, 
+      maleic hydrazide, and perchlorate) in nutraceutical products obtained from soy. 
+      Experimental conditions including extraction such as solvent, acidification, time, 
+      and clean-up sorbents were varied. Acidified acetonitrile (1 % formic acid, v/v) was 
+      used as extraction solvent instead of methanol (conventional QuPPe), which provides 
+      a doughy mixture which cannot be injected into the LC. Clean-up or derivatization 
+      steps were avoided. For analysis, several stationary phases were evaluated and 
+      Hypercarb (porous graphitic carbon) provided the best results. The optimized method 
+      was validated and recoveries ranged between 46 and 119 %, and correction factors can 
+      be used for quantification purposes bearing in mind that inter-day precision was 
+      equal to or lower than 17 %. Limits of quantification (LOQs) ranged from 4 to 
+      100 μg kg(-1). Soy-based nutraceutical products were analyzed and chlorate was 
+      detected in five samples at concentrations between 63 and 1642 μg kg(-1). Graphical 
+      Abstract Analysis of polar compounds in soy-based nutraceutical products.
+FAU - Domingos Alves, Renata
+AU  - Domingos Alves R
+AD  - Research Group "Analytical Chemistry of Contaminants", Department of Chemistry and 
+      Physics, Research Centre for Agricultural and Food Biotechnology (BITAL), Agrifood 
+      Campus of International Excellence, ceiA3, University of Almeria, 04120, Almeria, 
+      Spain.
+AD  - Departamento de Química, Universidade Federal de Viçosa, Av. P. H. Rolfs, s/n, 
+      36570-900, Viçosa, Minas Gerais, Brazil.
+FAU - Romero-González, Roberto
+AU  - Romero-González R
+AD  - Research Group "Analytical Chemistry of Contaminants", Department of Chemistry and 
+      Physics, Research Centre for Agricultural and Food Biotechnology (BITAL), Agrifood 
+      Campus of International Excellence, ceiA3, University of Almeria, 04120, Almeria, 
+      Spain.
+FAU - López-Ruiz, Rosalía
+AU  - López-Ruiz R
+AD  - Research Group "Analytical Chemistry of Contaminants", Department of Chemistry and 
+      Physics, Research Centre for Agricultural and Food Biotechnology (BITAL), Agrifood 
+      Campus of International Excellence, ceiA3, University of Almeria, 04120, Almeria, 
+      Spain.
+FAU - Jiménez-Medina, M L
+AU  - Jiménez-Medina ML
+AD  - Research Group "Analytical Chemistry of Contaminants", Department of Chemistry and 
+      Physics, Research Centre for Agricultural and Food Biotechnology (BITAL), Agrifood 
+      Campus of International Excellence, ceiA3, University of Almeria, 04120, Almeria, 
+      Spain.
+FAU - Garrido Frenich, Antonia
+AU  - Garrido Frenich A
+AD  - Research Group "Analytical Chemistry of Contaminants", Department of Chemistry and 
+      Physics, Research Centre for Agricultural and Food Biotechnology (BITAL), Agrifood 
+      Campus of International Excellence, ceiA3, University of Almeria, 04120, Almeria, 
+      Spain. agarrido@ual.es.
+LA  - eng
+PT  - Journal Article
+DEP - 20160905
+PL  - Germany
+TA  - Anal Bioanal Chem
+JT  - Analytical and bioanalytical chemistry
+JID - 101134327
+RN  - 0 (Capsules)
+RN  - 0 (Pesticide Residues)
+RN  - 0 (Tablets)
+SB  - IM
+MH  - Capsules
+MH  - Chromatography, Liquid
+MH  - Dietary Supplements/*analysis
+MH  - *Drug Contamination/prevention & control
+MH  - Limit of Detection
+MH  - Pesticide Residues/*analysis
+MH  - Reproducibility of Results
+MH  - Soybeans/*chemistry
+MH  - Tablets
+MH  - Tandem Mass Spectrometry
+MH  - Time Factors
+OTO - NOTNLM
+OT  - Liquid chromatography
+OT  - Mass spectrometry
+OT  - Nutraceuticals
+OT  - Polar compounds
+OT  - QuPPe
+OT  - Soy
+EDAT- 2016/10/22 06:00
+MHDA- 2018/01/26 06:00
+CRDT- 2016/09/07 06:00
+PHST- 2016/07/15 00:00 [received]
+PHST- 2016/08/26 00:00 [accepted]
+PHST- 2016/08/23 00:00 [revised]
+PHST- 2016/10/22 06:00 [pubmed]
+PHST- 2018/01/26 06:00 [medline]
+PHST- 2016/09/07 06:00 [entrez]
+AID - 10.1007/s00216-016-9912-2 [pii]
+AID - 10.1007/s00216-016-9912-2 [doi]
+PST - ppublish
+SO  - Anal Bioanal Chem. 2016 Nov;408(28):8089-8098. doi: 10.1007/s00216-016-9912-2. Epub 
+      2016 Sep 5.
+
+PMID- 22312286
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150226
+LR  - 20211021
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2012
+TI  - Development of an innovative nutraceutical fermented beverage from herbal mate (Ilex 
+      paraguariensis A.St.-Hil.) extract.
+PG  - 788-800
+LID - 10.3390/ijms13010788 [doi]
+AB  - Herbal mate (Ilex paraguariensis A.St.-Hil.) leaves are traditionally used for their 
+      stimulant, antioxidant, antimicrobial, and diuretic activity, presenting as 
+      principal components polyphenolic compounds. The aim of this work was to develop an 
+      innovative, non-dairy, functional, probiotic, fermented beverage using herbal mate 
+      extract as a natural ingredient which would also be hypocholesterolemic and 
+      hepatoprotective. Among different strains used, Lactobacillus acidophilus was 
+      selected as the best for fermentation. The addition of honey positively affected the 
+      development of L. acidophilus and the formulated beverage maintained microbial 
+      stability during shelf life. Key ingredients in the extract included xanthines, 
+      polyphenols and other antioxidants with potential health benefits for the consumer. 
+      Caffeine levels and antioxidant activity were also studied. Acceptable levels of 
+      caffeine and large antioxidant capacity were observed for the formulation when 
+      compared to other antioxidant beverages. An advantage of this product is the 
+      compliance to organic claims, while providing caffeine, other phyto-stimulants and 
+      antioxidant compounds without the addition of synthetic components or preservatives 
+      in the formulation. Sensorial analysis demonstrated that the beverage had good 
+      consumer acceptance in comparison to two other similar commercial beverages. 
+      Therefore, this beverage could be used as a new, non-dairy vehicle for probiotic 
+      consumption, especially by vegetarians and lactose intolerant consumers. It is 
+      expected that such a product will have good market potential in an era of functional 
+      foods.
+FAU - Lima, Isabela Ferrari Pereira
+AU  - Lima IF
+AD  - Bioprocess Engineering and Biotechnology Division, Chemical Engineering Department, 
+      Federal University of Paraná, Curitiba, PR 81531-991, Brazil; E-Mails: 
+      isa.m.ferrari@gmail.com (I.F.P.L.); juliano@incorporefoods.com.br (J.D.D.L.).
+FAU - De Dea Lindner, Juliano
+AU  - De Dea Lindner J
+FAU - Soccol, Vanete Thomaz
+AU  - Soccol VT
+FAU - Parada, José Luiz
+AU  - Parada JL
+FAU - Soccol, Carlos Ricardo
+AU  - Soccol CR
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120113
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Antioxidants)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Polyphenols)
+RN  - 0 (Xanthines)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+MH  - Antioxidants/chemistry
+MH  - Beverages/*analysis
+MH  - Caffeine/analysis
+MH  - Chromatography, High Pressure Liquid
+MH  - Dietary Supplements
+MH  - Fermentation
+MH  - Hydrogen-Ion Concentration
+MH  - Ilex paraguariensis/*chemistry/metabolism
+MH  - Lactobacillus acidophilus/growth & development
+MH  - Plant Extracts/*chemistry
+MH  - Plant Leaves/chemistry/metabolism
+MH  - Polyphenols/chemistry
+MH  - Probiotics
+MH  - Xanthines/chemistry
+PMC - PMC3269720
+OTO - NOTNLM
+OT  - Lactobacillus acidophilus
+OT  - antioxidant activity
+OT  - caffeine
+OT  - herbal mate
+OT  - probiotic beverage
+EDAT- 2012/02/09 06:00
+MHDA- 2012/02/09 06:01
+CRDT- 2012/02/08 06:00
+PHST- 2011/12/19 00:00 [received]
+PHST- 2011/12/31 00:00 [revised]
+PHST- 2012/01/05 00:00 [accepted]
+PHST- 2012/02/08 06:00 [entrez]
+PHST- 2012/02/09 06:00 [pubmed]
+PHST- 2012/02/09 06:01 [medline]
+AID - ijms-13-00788 [pii]
+AID - 10.3390/ijms13010788 [doi]
+PST - ppublish
+SO  - Int J Mol Sci. 2012;13(1):788-800. doi: 10.3390/ijms13010788. Epub 2012 Jan 13.
+
+PMID- 21971664
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120622
+LR  - 20191027
+IS  - 1678-2674 (Electronic)
+IS  - 0102-8650 (Linking)
+VI  - 26 Suppl 1
+DP  - 2011
+TI  - Oxidative stress parameters in women with breast cancer undergoing neoadjuvant 
+      chemotherapy and treated with nutraceutical doses of oral glutamine.
+PG  - 82-7
+LID - S0102-86502011000700017 [pii]
+AB  - PURPOSE: To evaluate the effects of oral administration of GLN on the oxidative 
+      stress in women with breast cancer undergoing neoadjuvant FAC chemotherapy (5 
+      fluouracil 500 mg/m²+Doxorubicin 50 mg/m²+Cyclophosphamide 500 mg/m² body surface 
+      area). METHODS: Twenty women (mean age: 51.7 years) with breast ductal carcinomas 
+      classified as T3 or T4 were included in the study, regardless of pre or post 
+      menopause status. Sachets containing glutamine 15g ("A") or milk protein 15g ("B") 
+      were prepared by a registered pharmacist. Allocation of patients was made by 
+      software program. Patients who received sachets labeled "A" were included in G1 
+      group. The remaining patients, treated with the preparation labeled "B", were 
+      included in group G2. Sachets contents were blended in 150 ml of drinking water, and 
+      were given daily to each patient during the entire course of neoadjuvant 
+      chemotherapy. Peripheral blood samples were collected in the first day of each of 
+      the three cycles of chemotherapy before drug infusion. Tumor and normal breast 
+      samples were collected at the end of Patey´s surgical procedure. Samples were 
+      analysed for GSH and TBARS contents. RESULTS: TBARS and GSH values were not 
+      different in breast healthy and tumor tissues nor blood when comparing control (G-2) 
+      and glutamine-treated (G-1) patients. Also, no significant differences were found in 
+      TBARS and GSH levels comparing different timepoints within the same group. 
+      CONCLUSION: Oral GLN (15g/kg/day) offers no protection against systemic or local 
+      oxidative stress in women with breast Ca undergoing neoadjuvant chemotherapy (FAC).
+FAU - Farias, José Wilson Mourão de
+AU  - Farias JW
+AD  - Experimental Surgery Research Laboratory (LABCEX), Department of Surgery, Federal 
+      University of Ceara, Fortaleza-CE, Brazil.
+FAU - Furtado, Flavia Siqueira
+AU  - Furtado FS
+FAU - Guimarães, Sergio Botelho
+AU  - Guimarães SB
+FAU - Silva Filho, Antônio Ribeiro da
+AU  - Silva Filho AR
+FAU - Vasconcelos, Paulo Roberto Leitão de
+AU  - Vasconcelos PR
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - Brazil
+TA  - Acta Cir Bras
+JT  - Acta cirurgica brasileira
+JID - 9103983
+RN  - 0 (Thiobarbituric Acid Reactive Substances)
+RN  - 0RH81L854J (Glutamine)
+RN  - 80168379AG (Doxorubicin)
+RN  - 8N3DW7272P (Cyclophosphamide)
+RN  - GAN16C9B8O (Glutathione)
+RN  - U3P01618RT (Fluorouracil)
+RN  - CAF protocol
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Antineoplastic Combined Chemotherapy Protocols/administration & dosage/*therapeutic 
+      use
+MH  - Breast Neoplasms/*drug therapy/metabolism/pathology
+MH  - Carcinoma, Ductal, Breast/*drug therapy/metabolism/pathology
+MH  - Cyclophosphamide/administration & dosage
+MH  - Double-Blind Method
+MH  - Doxorubicin/administration & dosage
+MH  - Female
+MH  - Fluorouracil/administration & dosage
+MH  - Glutamine/*administration & dosage
+MH  - Glutathione/blood
+MH  - Humans
+MH  - Middle Aged
+MH  - Neoadjuvant Therapy/methods
+MH  - Oxidative Stress/*drug effects
+MH  - Prospective Studies
+MH  - Statistics, Nonparametric
+MH  - Thiobarbituric Acid Reactive Substances/analysis
+MH  - Time Factors
+EDAT- 2011/10/14 06:00
+MHDA- 2012/06/23 06:00
+CRDT- 2011/10/06 06:00
+PHST- 2011/10/06 06:00 [entrez]
+PHST- 2011/10/14 06:00 [pubmed]
+PHST- 2012/06/23 06:00 [medline]
+AID - S0102-86502011000700017 [pii]
+AID - 10.1590/s0102-86502011000700017 [doi]
+PST - ppublish
+SO  - Acta Cir Bras. 2011;26 Suppl 1:82-7. doi: 10.1590/s0102-86502011000700017.

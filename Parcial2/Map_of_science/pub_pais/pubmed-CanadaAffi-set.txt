@@ -1,0 +1,3576 @@
+PMID- 33677795
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20211217
+IS  - 2190-3948 (Electronic)
+IS  - 2190-393X (Linking)
+VI  - 12
+IP  - 1
+DP  - 2022 Jan
+TI  - Curcumin, a potent therapeutic nutraceutical and its enhanced delivery and 
+      bioaccessibility by pickering emulsions.
+PG  - 124-157
+LID - 10.1007/s13346-021-00936-3 [doi]
+AB  - Curcumin is a biomolecule with functional moieties, which contribute to its 
+      anti-inflammatory, anticancer, and antioxidant properties. It has shown several 
+      therapeutic effects on treating inflammatory and neurodegenerative diseases and 
+      contributes to the reduction of oxidative stress and damage to body tissues. 
+      However, its low solubility and fast metabolism limit its absorption in the 
+      gastrointestinal (GI) tract and lead to its low bioavailability. Preparation of 
+      Pickering emulsions stabilized with mineral or biopolymer-based nanoparticles can be 
+      an effective strategy for enhancing the stability of curcumin against degradation, 
+      increasing its bioaccessibility in the GI tract, and achieving its controlled 
+      release at various locations based on changes in environmental conditions. Various 
+      nanoparticles prepared from minerals, proteins, and polysaccharides show potential 
+      for stabilizing the curcumin-loaded emulsions, and their wettability can be altered 
+      through complexation and formation of hybrid nanoparticles. Stabilization of 
+      Pickering emulsions with polysaccharide-based nanoparticles and their complexes can 
+      enhance the stability of the curcumin against degradation. Moreover, various 
+      protein-based nanoparticles and their conjugated forms with other proteins or 
+      polysaccharides can enable the preparation of high internal phase Pickering 
+      emulsions (HIPEs) with concomitant higher loading and bioaccessibility of the 
+      curcumin molecule. In light of the several therapeutic properties of curcumin, this 
+      review article aims to highlight recent studies and the strategies used for the 
+      preparation of curcumin Pickering emulsions stabilized by various nanoparticles for 
+      enhancing its bioaccessibility during metabolism. These may be useful in 
+      pharmaceutical and food industries for drug development and delivery and 
+      fortification of food products with this nutraceutical component.
+CI  - © 2021. Controlled Release Society.
+FAU - Saffarionpour, Shima
+AU  - Saffarionpour S
+AUID- ORCID: 0000-0002-0644-5874
+AD  - Department of Chemical Engineering and Applied Chemistry, University of Toronto, 
+      Toronto, Ontario, Canada. s.saffarionpour@utoronto.ca.
+FAU - Diosady, Levente L
+AU  - Diosady LL
+AD  - Department of Chemical Engineering and Applied Chemistry, University of Toronto, 
+      Toronto, Ontario, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210306
+PL  - United States
+TA  - Drug Deliv Transl Res
+JT  - Drug delivery and translational research
+JID - 101540061
+SB  - IM
+OTO - NOTNLM
+OT  - Bioaccessibility
+OT  - Biopolymeric nanoparticles
+OT  - Curcumin
+OT  - In vitro digestion
+OT  - Pickering emulsions
+OT  - Therapeutic effect
+EDAT- 2021/03/08 06:00
+MHDA- 2021/03/08 06:00
+CRDT- 2021/03/07 20:43
+PHST- 2021/02/01 00:00 [accepted]
+PHST- 2021/03/08 06:00 [pubmed]
+PHST- 2021/03/08 06:00 [medline]
+PHST- 2021/03/07 20:43 [entrez]
+AID - 10.1007/s13346-021-00936-3 [pii]
+AID - 10.1007/s13346-021-00936-3 [doi]
+PST - ppublish
+SO  - Drug Deliv Transl Res. 2022 Jan;12(1):124-157. doi: 10.1007/s13346-021-00936-3. Epub 
+      2021 Mar 6.
+
+PMID- 35164230
+OWN - NLM
+STAT- In-Process
+LR  - 20220215
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 27
+IP  - 3
+DP  - 2022 Jan 31
+TI  - Nutritional and Nutraceutical Properties of Mexican Traditional Mole Sauce.
+LID - 10.3390/molecules27030966 [doi]
+LID - 966
+AB  - Mole sauce is one of the traditional Mexican foods; it is a complex mixture of 
+      ingredients of diverse origins that directly influence its nutritional value. The 
+      objective of this study was to investigate the antioxidant properties and 
+      nutritional components in five varieties of mole from Hidalgo in Mexico namely verde 
+      (V), ranchero (R), almendrado (A), casero (C), and pipian (P). Proximal chemical 
+      analysis and determination of the color index and the content of total starch, 
+      dietary fiber, mineral content (Ca, Na, K, and Mg), total phenolic content, and 
+      antioxidant activity by ABTS (2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic 
+      acid)) and DPPH (2,2-diphenylpicrylhydrazyl) were carried out. All the five 
+      varieties of mole reported less than 25% moisture content while fat content varied 
+      from 42.9% to 58.25%. The color index ranged from a deep orange to a deep red color. 
+      A fair percentage of dietary fiber was found in all mole varieties with a low amount 
+      of starch as well. The presence of mostly insoluble dietary fiber, high phenolic 
+      content (36.13-79.49 mg GAE/100 g), and high antioxidant activity could be 
+      considered important strengths to boost the consumption of these traditional 
+      preparations. This research will contribute to a better scientific knowledge of 
+      traditional Mexican sauces as functional foods or nutraceuticals that could be used 
+      to avoid health disorders.
+FAU - Campos-Montiel, Rafael
+AU  - Campos-Montiel R
+AD  - Institute of Agricultural Sciences, Autonomous University of the State of Hidalgo, 
+      Hidalgo 3600, Mexico.
+FAU - Medina-Pérez, Gabriela
+AU  - Medina-Pérez G
+AD  - Institute of Agricultural Sciences, Autonomous University of the State of Hidalgo, 
+      Hidalgo 3600, Mexico.
+FAU - Vázquez-Nuñez, Edgar
+AU  - Vázquez-Nuñez E
+AUID- ORCID: 0000-0002-5722-2718
+AD  - Department of Chemical, Electronic and Biomedical Engineering, Division of Sciences 
+      and Engineering, University of Guanajuato, Lomas del Bosque 103, Lomas del 
+      Campestre, León, Guanajuato 37150, Mexico.
+FAU - Afanador-Barajas, Laura
+AU  - Afanador-Barajas L
+AUID- ORCID: 0000-0002-8133-7048
+AD  - Natural Sciences Department, Engineering and Sciences Faculty, Universidad Central, 
+      Bogotá 110311, Colombia.
+FAU - Hernández-Soto, Iridiam
+AU  - Hernández-Soto I
+AD  - Institute of Agricultural Sciences, Autonomous University of the State of Hidalgo, 
+      Hidalgo 3600, Mexico.
+FAU - Ahmad Nayik, Gulzar
+AU  - Ahmad Nayik G
+AUID- ORCID: 0000-0001-8372-5936
+AD  - Department of Food Science & Technology, Government Degree College, Shopian 192303, 
+      India.
+FAU - González-Montiel, Lucio
+AU  - González-Montiel L
+AD  - University of La Cañada Teotitlan de Flores Magon, Oaxaca 68540, Mexico.
+FAU - Alkafafy, Mohamed
+AU  - Alkafafy M
+AUID- ORCID: 0000-0002-7194-5429
+AD  - Department of Biotechnology, College of Science, Taif University, Taif 21944, Saudi 
+      Arabia.
+LA  - eng
+PT  - Journal Article
+DEP - 20220131
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+SB  - IM
+PMC - PMC8839710
+OTO - NOTNLM
+OT  - Mexican food
+OT  - antioxidant activity
+OT  - dietary fiber
+OT  - mineral content
+OT  - mole
+OT  - phenolic content
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/02/16 06:00
+MHDA- 2022/02/16 06:00
+CRDT- 2022/02/15 01:20
+PHST- 2021/12/28 00:00 [received]
+PHST- 2022/01/28 00:00 [revised]
+PHST- 2022/01/28 00:00 [accepted]
+PHST- 2022/02/15 01:20 [entrez]
+PHST- 2022/02/16 06:00 [pubmed]
+PHST- 2022/02/16 06:00 [medline]
+AID - molecules27030966 [pii]
+AID - molecules-27-00966 [pii]
+AID - 10.3390/molecules27030966 [doi]
+PST - epublish
+SO  - Molecules. 2022 Jan 31;27(3):966. doi: 10.3390/molecules27030966.
+
+PMID- 29251504
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180215
+LR  - 20180215
+IS  - 1520-5118 (Electronic)
+IS  - 0021-8561 (Linking)
+VI  - 66
+IP  - 1
+DP  - 2018 Jan 10
+TI  - Cellulosic Nanomaterials in Food and Nutraceutical Applications: A Review.
+PG  - 8-19
+LID - 10.1021/acs.jafc.7b04204 [doi]
+AB  - Cellulosic nanomaterials (CNMs) are organic, green nanomaterials that are obtained 
+      from renewable sources and possess exceptional mechanical strength and 
+      biocompatibility. The associated unique physical and chemical properties have made 
+      these nanomaterials an intriguing prospect for various applications including the 
+      food and nutraceutical industry. From the immobilization of various bioactive agents 
+      and enzymes, emulsion stabilization, direct food additives, to the development of 
+      intelligent packaging systems or pathogen or pH detectors, the potential food 
+      related applications for CNMs are endless. Over the past decade, there have been 
+      several reviews published covering different aspects of cellulosic nanomaterials, 
+      such as processing-structure-property relationship, physical and chemical 
+      properties, rheology, extraction, nanocomposites, etc. In this critical review, we 
+      have discussed and provided a summary of the recent developments in the utilization 
+      of cellulosic nanomaterials in applications related to food and nutraceuticals.
+FAU - Khan, Avik
+AU  - Khan A
+AD  - Limerick Pulp and Paper Centre, Department of Chemical Engineering, University of 
+      New Brunswick , Fredericton, New Brunswick E3B 5A3, Canada.
+FAU - Wen, Yangbing
+AU  - Wen Y
+AD  - Tianjin Key Laboratory of Pulp and Paper, Tianjin University of Science and 
+      Technology , Tianjin 300457, China.
+FAU - Huq, Tanzina
+AU  - Huq T
+AD  - Limerick Pulp and Paper Centre, Department of Chemical Engineering, University of 
+      New Brunswick , Fredericton, New Brunswick E3B 5A3, Canada.
+FAU - Ni, Yonghao
+AU  - Ni Y
+AUID- ORCID: 0000-0001-6107-6672
+AD  - Limerick Pulp and Paper Centre, Department of Chemical Engineering, University of 
+      New Brunswick , Fredericton, New Brunswick E3B 5A3, Canada.
+AD  - Tianjin Key Laboratory of Pulp and Paper, Tianjin University of Science and 
+      Technology , Tianjin 300457, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20171229
+PL  - United States
+TA  - J Agric Food Chem
+JT  - Journal of agricultural and food chemistry
+JID - 0374755
+RN  - 0 (Emulsifying Agents)
+RN  - 0 (Enzymes, Immobilized)
+RN  - 0 (Food Additives)
+RN  - 9004-34-6 (Cellulose)
+SB  - IM
+MH  - Animals
+MH  - Cells, Immobilized
+MH  - *Cellulose
+MH  - *Dietary Supplements
+MH  - Emulsifying Agents/chemistry
+MH  - Enzymes, Immobilized
+MH  - Food Additives/chemistry
+MH  - Food Industry/*methods
+MH  - Food Packaging
+MH  - Humans
+MH  - Mammals
+MH  - Nanostructures/*chemistry/toxicity
+OTO - NOTNLM
+OT  - bioactive agents
+OT  - cellulose
+OT  - emulsion stabilization
+OT  - food
+OT  - intelligent packaging
+OT  - nanomaterials
+EDAT- 2017/12/19 06:00
+MHDA- 2018/02/16 06:00
+CRDT- 2017/12/19 06:00
+PHST- 2017/12/19 06:00 [pubmed]
+PHST- 2018/02/16 06:00 [medline]
+PHST- 2017/12/19 06:00 [entrez]
+AID - 10.1021/acs.jafc.7b04204 [doi]
+PST - ppublish
+SO  - J Agric Food Chem. 2018 Jan 10;66(1):8-19. doi: 10.1021/acs.jafc.7b04204. Epub 2017 
+      Dec 29.
+
+PMID- 26069242
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180118
+LR  - 20180118
+IS  - 1468-2982 (Electronic)
+IS  - 0333-1024 (Linking)
+VI  - 36
+IP  - 12
+DP  - 2016 Oct
+TI  - Diet and nutraceutical interventions for headache management: A review of the 
+      evidence.
+PG  - 1112-1133
+LID - 10.1177/0333102415590239 [doi]
+AB  - Background The use of complementary and alternative medicines (CAM) is common among 
+      patients with primary headaches. In parallel, CAM research is growing. Diet 
+      interventions comprise another category of non-pharmacologic treatment for primary 
+      headache that is of increasing clinical and research interest. Methods A literature 
+      search was carried out to identify studies on the efficacy of diet and nutraceutical 
+      interviews for primary headache in the pediatric and adult populations. MEDLINE, 
+      Embase and EBM Reviews-Cochrane Central Register of Controlled Trials were searched 
+      to identify studies. Results There is a growing body of literature on the potential 
+      use of CAM and diet interventions for primary headache disorders. This review 
+      identified literature on the use of a variety of diet and nutraceutical 
+      interventions for headache. Most of the studies assessed the efficacy of these 
+      interventions for migraine, though some explored their role in tension-type headache 
+      and cluster headache. The quality of the evidence in this area is generally poor. 
+      Conclusions CAM is becoming more commonplace in the headache world. Several 
+      interventions show promise, but caution needs to be exercised in using these agents 
+      given limited safety and efficacy data. In addition, interest in exploring diet 
+      interventions in the treatment of primary headaches is emerging. Further research 
+      into the efficacy of nutraceutical and diet interventions is warranted.
+FAU - Orr, Serena L
+AU  - Orr SL
+AD  - Children's Hospital of Eastern Ontario, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20160711
+PL  - England
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Drugs, Chinese Herbal)
+SB  - IM
+MH  - Complementary Therapies/*methods
+MH  - Diet Therapy/*methods
+MH  - *Dietary Supplements
+MH  - Drugs, Chinese Herbal/*therapeutic use
+MH  - Evidence-Based Medicine
+MH  - Headache/*therapy
+MH  - Humans
+MH  - Migraine Disorders/*therapy
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Diet
+OT  - headache
+OT  - herbal medicines
+OT  - migraine
+OT  - nutraceuticals
+OT  - vitamins
+EDAT- 2015/06/13 06:00
+MHDA- 2018/01/19 06:00
+CRDT- 2015/06/13 06:00
+PHST- 2015/06/13 06:00 [pubmed]
+PHST- 2018/01/19 06:00 [medline]
+PHST- 2015/06/13 06:00 [entrez]
+AID - 0333102415590239 [pii]
+AID - 10.1177/0333102415590239 [doi]
+PST - ppublish
+SO  - Cephalalgia. 2016 Oct;36(12):1112-1133. doi: 10.1177/0333102415590239. Epub 2016 Jul 
+      11.
+
+PMID- 34209371
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210714
+LR  - 20210714
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 26
+IP  - 13
+DP  - 2021 Jun 30
+TI  - Zanthoxylum Species: A Comprehensive Review of Traditional Uses, Phytochemistry, 
+      Pharmacological and Nutraceutical Applications.
+LID - 10.3390/molecules26134023 [doi]
+LID - 4023
+AB  - Zanthoxylum species (Syn. Fagara species) of the Rutaceae family are widely used in 
+      many countries as food and in trado-medicinal practice due to their wide 
+      geographical distribution and medicinal properties. Peer reviewed journal articles 
+      and ethnobotanical records that reported the traditional knowledge, 
+      phytoconstituents, biological activities and toxicological profiles of Z. species 
+      with a focus on metabolic and neuronal health were reviewed. It was observed that 
+      many of the plant species are used as food ingredients and in treating inflammation, 
+      pain, hypertension and brain diseases. Over 500 compounds have been isolated from Z. 
+      species, and the biological activities of both the plant extracts and their 
+      phytoconstituents, including their mechanisms of action, are discussed. The 
+      phytochemicals responsible for the biological activities of some of the species are 
+      yet to be identified. Similarly, biological activities of some isolated compounds 
+      remain unknown. Taken together, the Z. species extracts and compounds possess 
+      promising biological activities and should be further explored as potential sources 
+      of new nutraceuticals and drugs.
+FAU - Okagu, Innocent Uzochukwu
+AU  - Okagu IU
+AUID- ORCID: 0000-0002-9424-7535
+AD  - Department of Biochemistry, University of Nigeria, Nsukka 410001, Enugu State, 
+      Nigeria.
+FAU - Ndefo, Joseph Chinedu
+AU  - Ndefo JC
+AD  - Department of Science Laboratory Technology, University of Nigeria, Nsukka 410001, 
+      Enugu State, Nigeria.
+FAU - Aham, Emmanuel Chigozie
+AU  - Aham EC
+AD  - Department of Biochemistry, University of Nigeria, Nsukka 410001, Enugu State, 
+      Nigeria.
+AD  - Natural Science Unit, School of General Studies, University of Nigeria, Nsukka 
+      410001, Enugu State, Nigeria.
+FAU - Udenigwe, Chibuike C
+AU  - Udenigwe CC
+AUID- ORCID: 0000-0001-8802-7707
+AD  - School of Nutrition Sciences, University of Ottawa, Ottawa, ON K1H 8M5, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210630
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Food Ingredients)
+RN  - 0 (Phytochemicals)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Animals
+MH  - *Dietary Supplements
+MH  - Ethnobotany
+MH  - Ethnopharmacology
+MH  - *Food Ingredients
+MH  - Humans
+MH  - *Phytochemicals/chemistry/therapeutic use
+MH  - *Plant Extracts/chemistry/therapeutic use
+MH  - Zanthoxylum/*chemistry/classification
+PMC - PMC8272177
+OTO - NOTNLM
+OT  - Zanthoxylum species
+OT  - biological activities
+OT  - ethnobotanical use
+OT  - nutraceuticals
+OT  - phytochemicals
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/07/03 06:00
+MHDA- 2021/07/15 06:00
+CRDT- 2021/07/02 01:38
+PHST- 2021/05/31 00:00 [received]
+PHST- 2021/06/22 00:00 [revised]
+PHST- 2021/06/25 00:00 [accepted]
+PHST- 2021/07/02 01:38 [entrez]
+PHST- 2021/07/03 06:00 [pubmed]
+PHST- 2021/07/15 06:00 [medline]
+AID - molecules26134023 [pii]
+AID - molecules-26-04023 [pii]
+AID - 10.3390/molecules26134023 [doi]
+PST - epublish
+SO  - Molecules. 2021 Jun 30;26(13):4023. doi: 10.3390/molecules26134023.
+
+PMID- 33255979
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201226
+IS  - 1999-4923 (Print)
+IS  - 1999-4923 (Electronic)
+IS  - 1999-4923 (Linking)
+VI  - 12
+IP  - 12
+DP  - 2020 Nov 26
+TI  - Drug-Nutraceutical Co-Crystal and Salts for Making New and Improved Bi-Functional 
+      Analgesics.
+LID - 10.3390/pharmaceutics12121144 [doi]
+LID - 1144
+AB  - The discovery and development of effective analgesics is greatly lagging behind the 
+      steadily rising prevalence of chronic pain. Currently prescribed analgesics for 
+      chronic pain are lacking in efficacy mainly due to their narrowly-targeted mechanism 
+      of action. Driving neuronal hyperexcitability that underlies symptoms of chronic 
+      pain are multiple non-neuronal processes, among which are tissue hypoxia and 
+      oxidative stress. Here we demonstrate the design, synthesis, and activity of new 
+      multi-component bi-functional analgesic crystalline solids, co-crystals, and salts, 
+      based on pairing of vasodilatory anti-hypoxic drugs pentoxifylline, clonidine and 
+      linsidomine with antioxidant nutraceuticals protocatechuic acid, α-lipoic acid, and 
+      caffeic acid. After validation, chemical and structural characterization of these 
+      novel salts and co-crystals, topical formulations of the products were tested in a 
+      rat model of complex regional pain syndrome. Analgesic effects achieved with the 
+      salts and co-crystal exceeded the efficacy and/or potency of constituent compounds 
+      indicating that more effective, advanced analgesics can readily be developed by 
+      careful pairing of compounds that simultaneously target multiple neural and 
+      non-neural processes driving chronic pain.
+FAU - Fulas, Oli Abate
+AU  - Fulas OA
+AD  - Department of Anesthesia, McGill University, 3655 Promenade Sir William Osler, 
+      Montreal, QC H3G 1Y6, Canada.
+FAU - Laferrière, André
+AU  - Laferrière A
+AD  - Department of Anesthesia, McGill University, 3655 Promenade Sir William Osler, 
+      Montreal, QC H3G 1Y6, Canada.
+FAU - Ayoub, Ghada
+AU  - Ayoub G
+AD  - Department of Chemistry, McGill University, 801 Sherbrooke Street W, Montreal, QC 
+      H3A 0B8, Canada.
+FAU - Gandrath, Dayaker
+AU  - Gandrath D
+AD  - Department of Chemistry, McGill University, 801 Sherbrooke Street W, Montreal, QC 
+      H3A 0B8, Canada.
+FAU - Mottillo, Cristina
+AU  - Mottillo C
+AUID- ORCID: 0000-0002-0291-7387
+AD  - Department of Chemistry, McGill University, 801 Sherbrooke Street W, Montreal, QC 
+      H3A 0B8, Canada.
+FAU - Titi, Hatem M
+AU  - Titi HM
+AD  - Department of Chemistry, McGill University, 801 Sherbrooke Street W, Montreal, QC 
+      H3A 0B8, Canada.
+FAU - Stein, Robin S
+AU  - Stein RS
+AD  - Department of Chemistry, McGill University, 801 Sherbrooke Street W, Montreal, QC 
+      H3A 0B8, Canada.
+FAU - Friščić, Tomislav
+AU  - Friščić T
+AUID- ORCID: 0000-0002-3921-7915
+AD  - Department of Chemistry, McGill University, 801 Sherbrooke Street W, Montreal, QC 
+      H3A 0B8, Canada.
+FAU - Coderre, Terence J
+AU  - Coderre TJ
+AD  - Department of Anesthesia, McGill University, 3655 Promenade Sir William Osler, 
+      Montreal, QC H3G 1Y6, Canada.
+LA  - eng
+GR  - RGPIN/05605, RGPIN-2017-06467, RGPAS 507837-17/Natural Sciences and Engineering 
+      Research Council of Canada/
+GR  - MOP-119279/CAPMC/CIHR/Canada
+GR  - N/A/Louise and Alan Edwards Foundation/
+PT  - Journal Article
+DEP - 20201126
+TA  - Pharmaceutics
+JT  - Pharmaceutics
+JID - 101534003
+PMC - PMC7761172
+OTO - NOTNLM
+OT  - CRPS
+OT  - antioxidants
+OT  - co-crystal
+OT  - mechanochemistry
+OT  - neuropathic pain
+OT  - topical analgesics
+OT  - vasodilators
+COIS- Other than patent information listed above the authors declare no conflict of 
+      interest.
+EDAT- 2020/12/02 06:00
+MHDA- 2020/12/02 06:01
+CRDT- 2020/12/01 01:10
+PHST- 2020/10/31 00:00 [received]
+PHST- 2020/11/22 00:00 [revised]
+PHST- 2020/11/24 00:00 [accepted]
+PHST- 2020/12/01 01:10 [entrez]
+PHST- 2020/12/02 06:00 [pubmed]
+PHST- 2020/12/02 06:01 [medline]
+AID - pharmaceutics12121144 [pii]
+AID - pharmaceutics-12-01144 [pii]
+AID - 10.3390/pharmaceutics12121144 [doi]
+PST - epublish
+SO  - Pharmaceutics. 2020 Nov 26;12(12):1144. doi: 10.3390/pharmaceutics12121144.
+
+PMID- 28626684
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2215-017X (Print)
+IS  - 2215-017X (Electronic)
+IS  - 2215-017X (Linking)
+VI  - 5
+DP  - 2015 Mar
+TI  - Mechanisms of plastein formation, and prospective food and nutraceutical 
+      applications of the peptide aggregates.
+PG  - 63-69
+LID - 10.1016/j.btre.2014.12.003 [doi]
+AB  - Plastein is a protease-induced peptide aggregate with prospective application in 
+      enhancing the nutritional quality of proteins and debittering protein hydrolysates. 
+      These properties are yet to be applied in product development possibly due to 
+      economic considerations (production cost vs. product yields). This paper reviews 
+      currently proposed mechanisms of plastein formation including condensation, 
+      transpeptidation and physical interaction of aggregating peptides. Emerging findings 
+      indicate that plastein possesses bioactivities, thereby expanding its prospective 
+      application. The role of proteases in inducing peptide interaction in plastein 
+      remains unclear. Understanding the protease function will facilitate the development 
+      of efficient proteases and scalable industrial processes for plastein production.
+FAU - Gong, Min
+AU  - Gong M
+AD  - Health and Bioproducts Research Laboratory, Department of Environmental Sciences, 
+      Faculty of Agriculture, Dalhousie University, Truro, NS B2N 5E3, Canada.
+FAU - Mohan, Aishwarya
+AU  - Mohan A
+AD  - Health and Bioproducts Research Laboratory, Department of Environmental Sciences, 
+      Faculty of Agriculture, Dalhousie University, Truro, NS B2N 5E3, Canada.
+FAU - Gibson, Angus
+AU  - Gibson A
+AD  - Health and Bioproducts Research Laboratory, Department of Environmental Sciences, 
+      Faculty of Agriculture, Dalhousie University, Truro, NS B2N 5E3, Canada.
+FAU - Udenigwe, Chibuike C
+AU  - Udenigwe CC
+AD  - Health and Bioproducts Research Laboratory, Department of Environmental Sciences, 
+      Faculty of Agriculture, Dalhousie University, Truro, NS B2N 5E3, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20141212
+TA  - Biotechnol Rep (Amst)
+JT  - Biotechnology reports (Amsterdam, Netherlands)
+JID - 101637426
+PMC - PMC5466193
+OTO - NOTNLM
+OT  - Bioactivity
+OT  - Debittering
+OT  - Nutraceutical
+OT  - Nutritional enrichment
+OT  - Peptide aggregation
+OT  - Plastein
+EDAT- 2014/12/12 00:00
+MHDA- 2014/12/12 00:01
+CRDT- 2017/06/20 06:00
+PHST- 2014/11/02 00:00 [received]
+PHST- 2014/12/07 00:00 [revised]
+PHST- 2014/12/08 00:00 [accepted]
+PHST- 2017/06/20 06:00 [entrez]
+PHST- 2014/12/12 00:00 [pubmed]
+PHST- 2014/12/12 00:01 [medline]
+AID - S2215-017X(14)00059-9 [pii]
+AID - 10.1016/j.btre.2014.12.003 [doi]
+PST - epublish
+SO  - Biotechnol Rep (Amst). 2014 Dec 12;5:63-69. doi: 10.1016/j.btre.2014.12.003. 
+      eCollection 2015 Mar.
+
+PMID- 32455954
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210304
+LR  - 20210304
+IS  - 1660-3397 (Electronic)
+IS  - 1660-3397 (Linking)
+VI  - 18
+IP  - 5
+DP  - 2020 May 22
+TI  - Northern Sea Cucumber (Cucumaria frondosa): A Potential Candidate for Functional 
+      Food, Nutraceutical, and Pharmaceutical Sector.
+LID - 10.3390/md18050274 [doi]
+LID - 274
+AB  - Sea cucumber (Cucumaria frondosa) is the most abundant and widely distributed 
+      species in the cold waters of North Atlantic Ocean. C. frondosa contains a wide 
+      range of bioactive compounds, mainly collagen, cerebrosides, glycosaminoglycan, 
+      chondroitin sulfate, saponins, phenols, and mucopolysaccharides, which demonstrate 
+      unique biological and pharmacological properties. In particular, the body wall of 
+      this marine invertebrate is the major edible part and contains most of the active 
+      constituents, mainly polysaccharides and collagen, which exhibit numerous biological 
+      activities, including anticancer, anti-hypertensive, anti-angiogenic, 
+      anti-inflammatory, antidiabetic, anti-coagulation, antimicrobial, antioxidation, and 
+      anti- osteoclastogenic properties. In particular, triterpene glycosides (frondoside 
+      A and other) are the most researched group of compounds due to their potential 
+      anticancer activity. This review summarizes the latest information on C. frondosa, 
+      mainly geographical distribution, landings specific to Canadian coastlines, 
+      processing, commercial products, trade market, bioactive compounds, and potential 
+      health benefits in the context of functional foods and nutraceuticals.
+FAU - Hossain, Abul
+AU  - Hossain A
+AUID- ORCID: 0000-0002-7519-8555
+AD  - Department of Biochemistry, Memorial University of Newfoundland, St. John's, NL A1B 
+      3X9, Canada.
+FAU - Dave, Deepika
+AU  - Dave D
+AD  - Department of Biochemistry, Memorial University of Newfoundland, St. John's, NL A1B 
+      3X9, Canada.
+AD  - Marine Bioprocessing Facility, Centre of Aquaculture and Seafood Development, 
+      Fisheries and Marine Institute, Memorial University of Newfoundland, St. John's, NL 
+      A1C 5R3, Canada.
+FAU - Shahidi, Fereidoon
+AU  - Shahidi F
+AUID- ORCID: 0000-0002-9912-0330
+AD  - Department of Biochemistry, Memorial University of Newfoundland, St. John's, NL A1B 
+      3X9, Canada.
+LA  - eng
+GR  - RGPIN-2015-06121/Natural Sciences and Engineering Research Council of Canada/
+PT  - Journal Article
+PT  - Review
+DEP - 20200522
+TA  - Mar Drugs
+JT  - Marine drugs
+JID - 101213729
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Animals
+MH  - *Dietary Supplements
+MH  - *Functional Food
+MH  - Oceans and Seas
+MH  - *Pharmaceutical Preparations
+MH  - *Sea Cucumbers
+PMC - PMC7281287
+OTO - NOTNLM
+OT  - Cucumaria frondosa
+OT  - bioactive compounds
+OT  - geographical distribution
+OT  - health benefits
+OT  - market
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/05/28 06:00
+MHDA- 2021/03/05 06:00
+CRDT- 2020/05/28 06:00
+PHST- 2020/05/01 00:00 [received]
+PHST- 2020/05/18 00:00 [revised]
+PHST- 2020/05/20 00:00 [accepted]
+PHST- 2020/05/28 06:00 [entrez]
+PHST- 2020/05/28 06:00 [pubmed]
+PHST- 2021/03/05 06:00 [medline]
+AID - md18050274 [pii]
+AID - marinedrugs-18-00274 [pii]
+AID - 10.3390/md18050274 [doi]
+PST - epublish
+SO  - Mar Drugs. 2020 May 22;18(5):274. doi: 10.3390/md18050274.
+
+PMID- 34961264
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211231
+IS  - 2223-7747 (Print)
+IS  - 2223-7747 (Electronic)
+IS  - 2223-7747 (Linking)
+VI  - 10
+IP  - 12
+DP  - 2021 Dec 17
+TI  - Effect of Graft and Nano ZnO on Nutraceutical and Mineral Content in Bell Pepper.
+LID - 10.3390/plants10122793 [doi]
+LID - 2793
+AB  - The objective of this experiment was to evaluate the effects of grafting, zinc oxide 
+      nanoparticles (ZnO NPs), and their interaction on the nutritional composition of 
+      bell pepper plants. The treatments evaluated included grafted and non-grafted pepper 
+      plants with four concentrations of ZnO NPs (0, 10, 20, 30 mg L(-1)) applied to the 
+      foliage. The following parameters were evaluated: content of N, P, K(+), Ca(2+), 
+      Mg(2+), Mn(2+), Zn(2+), Fe(2+), Cu(2+), total antioxidants, ascorbic acid, total 
+      phenols, glutathione, total proteins, fruit firmness, and total soluble solids. 
+      Grafting increased the content of N 12.2%, P 15.9%, K(+) 26.7%, Mg(2+) 20.3%, Mn(2+) 
+      34.7%, Zn(2+) 19.5%, Fe(2+) 18.2%, Cu(2+) 11.5%, antioxidant capacity 2.44%, 
+      ascorbic acid 4.63%, total phenols 1.33%, glutathione 7.18%, total proteins 1.08%, 
+      fruit firmness 8.8%. The application of 30 mg L(-1) ZnO NPs increased the content of 
+      N 12.3%, P 25.9%, Mg(2+) 36.8%, Mn(2+) 42.2%, Zn(2+) 27%, Fe(2+) 45%, antioxidant 
+      activity 13.95%, ascorbic acid 26.77%, total phenols 10.93%, glutathione 11.46%, 
+      total proteins 11.01%, and fruit firmness 17.7% compared to the control. The results 
+      obtained demonstrate the influence of the use of grafts and ZnO NPs as tools that 
+      could improve the quality and nutrient content in fruits of bell pepper crops.
+FAU - Uresti-Porras, José-Gerardo
+AU  - Uresti-Porras JG
+AUID- ORCID: 0000-0001-6713-6373
+AD  - Doctorado en Ciencias en Agricultura Protegida, Universidad Autónoma Agraria Antonio 
+      Narro, Saltillo 25315, Mexico.
+FAU - Cabrera-De-La Fuente, Marcelino
+AU  - Cabrera-De-La Fuente M
+AUID- ORCID: 0000-0002-3292-2793
+AD  - Departamento de Horticultura, Universidad Autónoma Agraria Antonio Narro, Saltillo 
+      25315, Mexico.
+FAU - Benavides-Mendoza, Adalberto
+AU  - Benavides-Mendoza A
+AUID- ORCID: 0000-0002-2729-4315
+AD  - Departamento de Horticultura, Universidad Autónoma Agraria Antonio Narro, Saltillo 
+      25315, Mexico.
+FAU - Olivares-Sáenz, Emilio
+AU  - Olivares-Sáenz E
+AD  - Facultad de Agronomía, Universidad Autónoma de Nuevo León, Francisco I. Madero S/N, 
+      Ex Hacienda el Canada, General Escobedo 66050, Mexico.
+FAU - Cabrera, Raul I
+AU  - Cabrera RI
+AD  - Rutgers Agricultural Research and Extension Center (RAREC), Department of Plant 
+      Biology, Rutgers University, Bridgeton, NJ 08302, USA.
+FAU - Juárez-Maldonado, Antonio
+AU  - Juárez-Maldonado A
+AUID- ORCID: 0000-0003-3061-2297
+AD  - Departamento de Botánica, Universidad Autónoma Agraria Antonio Narro, Saltillo 
+      25315, Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20211217
+TA  - Plants (Basel)
+JT  - Plants (Basel, Switzerland)
+JID - 101596181
+PMC - PMC8706215
+OTO - NOTNLM
+OT  - biostimulation
+OT  - fruit quality
+OT  - healthy
+OT  - induced stress
+OT  - nutritional value
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/12/29 06:00
+MHDA- 2021/12/29 06:01
+CRDT- 2021/12/28 01:09
+PHST- 2021/11/17 00:00 [received]
+PHST- 2021/12/06 00:00 [revised]
+PHST- 2021/12/09 00:00 [accepted]
+PHST- 2021/12/28 01:09 [entrez]
+PHST- 2021/12/29 06:00 [pubmed]
+PHST- 2021/12/29 06:01 [medline]
+AID - plants10122793 [pii]
+AID - plants-10-02793 [pii]
+AID - 10.3390/plants10122793 [doi]
+PST - epublish
+SO  - Plants (Basel). 2021 Dec 17;10(12):2793. doi: 10.3390/plants10122793.
+
+PMID- 34574205
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211001
+IS  - 2304-8158 (Print)
+IS  - 2304-8158 (Electronic)
+IS  - 2304-8158 (Linking)
+VI  - 10
+IP  - 9
+DP  - 2021 Sep 4
+TI  - Comparison of Nutritional and Nutraceutical Properties of Burdock Roots Cultivated 
+      in Fengxian and Peixian of China.
+LID - 10.3390/foods10092095 [doi]
+LID - 2095
+AB  - This study aimed to analyze and compare the nutritional quality of powders of 
+      burdock root from Fengxian (FX) and Peixian (PX) in China. The nutrient composition 
+      including carbohydrates, protein, amino acids, vitamin C, carotenoids, as well as 
+      total phenols, total flavonoids and phenolic compounds were investigated in addition 
+      to in vitro antioxidant capacity. The results showed that the basic nutrients of 
+      burdock root powder (BRP) in both locations did not have significant differences (p 
+      > 0.05), although the in vitro antioxidant capacity of BRP of Fengxian (F-BRP) was 
+      greater than that of PX (p < 0.05). The burdock root peel powder (BRPP) possessed 
+      more phenolics and stronger in vitro antioxidant capacity than the burdock root 
+      powder (BRP) and peeled burdock root powder (PBRP) (p < 0.05). Moreover, better 
+      quality burdock root was obtained from FX. F-BRP was consequently analyzed by 
+      ultra-performance liquid chromatography tandem mass spectrometry for its phenolic 
+      composition. Seventeen phenolics, mainly caffeoylquinic acids, were detected. In 
+      addition, a total of 181 volatile compounds belonging to eight types were detected 
+      including alcohols, aldehydes, ketones, alkenes, esters, acids, linear or aromatic 
+      hydrocarbons, and others. The diverse compounds found in this study can provide a 
+      theoretical basis for the development and utilization of burdock in the food 
+      industry.
+FAU - Zhang, Xiaoxiao
+AU  - Zhang X
+AD  - School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, 
+      China.
+AD  - Institute of Agro-Product Processing, Jiangsu Academy of Agricultural Sciences, 
+      Nanjing 210014, China.
+FAU - Herrera-Balandrano, Daniela D
+AU  - Herrera-Balandrano DD
+AD  - Institute of Agro-Product Processing, Jiangsu Academy of Agricultural Sciences, 
+      Nanjing 210014, China.
+AD  - Department of Food and Human Nutritional Sciences, University of Manitoba, Winnipeg, 
+      MB R3T 2N2, Canada.
+FAU - Huang, Wuyang
+AU  - Huang W
+AD  - School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, 
+      China.
+AD  - Institute of Agro-Product Processing, Jiangsu Academy of Agricultural Sciences, 
+      Nanjing 210014, China.
+FAU - Chai, Zhi
+AU  - Chai Z
+AD  - Institute of Agro-Product Processing, Jiangsu Academy of Agricultural Sciences, 
+      Nanjing 210014, China.
+FAU - Beta, Trust
+AU  - Beta T
+AD  - Department of Food and Human Nutritional Sciences, University of Manitoba, Winnipeg, 
+      MB R3T 2N2, Canada.
+FAU - Wang, Jing
+AU  - Wang J
+AD  - College of Chemical Engineering, Nanjing Forestry University, Nanjing 210037, China.
+FAU - Feng, Jin
+AU  - Feng J
+AD  - Institute of Agro-Product Processing, Jiangsu Academy of Agricultural Sciences, 
+      Nanjing 210014, China.
+FAU - Li, Ying
+AU  - Li Y
+AD  - Institute of Agro-Product Processing, Jiangsu Academy of Agricultural Sciences, 
+      Nanjing 210014, China.
+LA  - eng
+GR  - CX(19)2006/Jiangsu Agricultural Science and Technology Innovation Fund/
+GR  - BE2020382/Jiangsu Provincial Key Research and Development Program/
+PT  - Journal Article
+DEP - 20210904
+TA  - Foods
+JT  - Foods (Basel, Switzerland)
+JID - 101670569
+PMC - PMC8469698
+OTO - NOTNLM
+OT  - amino acids
+OT  - burdock root
+OT  - caffeoylquinic acids
+OT  - in vitro antioxidant capacity
+OT  - nutrient composition
+OT  - volatile compounds
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/09/29 06:00
+MHDA- 2021/09/29 06:01
+CRDT- 2021/09/28 01:11
+PHST- 2021/07/29 00:00 [received]
+PHST- 2021/08/29 00:00 [revised]
+PHST- 2021/09/02 00:00 [accepted]
+PHST- 2021/09/28 01:11 [entrez]
+PHST- 2021/09/29 06:00 [pubmed]
+PHST- 2021/09/29 06:01 [medline]
+AID - foods10092095 [pii]
+AID - foods-10-02095 [pii]
+AID - 10.3390/foods10092095 [doi]
+PST - epublish
+SO  - Foods. 2021 Sep 4;10(9):2095. doi: 10.3390/foods10092095.
+
+PMID- 27375635
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160704
+LR  - 20200930
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 7
+DP  - 2016
+TI  - Exploiting Phenylpropanoid Derivatives to Enhance the Nutraceutical Values of 
+      Cereals and Legumes.
+PG  - 763
+LID - 10.3389/fpls.2016.00763 [doi]
+LID - 763
+AB  - Phenylpropanoids are a diverse chemical class with immense health benefits that are 
+      biosynthesized from the aromatic amino acid L-phenylalanine. This article reviews 
+      the progress for accessing variation in phenylpropanoids in germplasm collections, 
+      the genetic and molecular basis of phenylpropanoid biosynthesis, and the development 
+      of cultivars dense in seed-phenylpropanoids. Progress is also reviewed on 
+      high-throughput assays, factors that influence phenylpropanoids, the site of 
+      phenylpropanoids accumulation in seed, Genotype × Environment interactions, and on 
+      consumer attitudes for the acceptance of staple foods rich in phenylpropanoids. A 
+      paradigm shift was noted in barley, maize, rice, sorghum, soybean, and wheat, 
+      wherein cultivars rich in phenylpropanoids are grown in Europe and North and Central 
+      America. Studies have highlighted some biological constraints that need to be 
+      addressed for development of high-yielding cultivars that are rich in 
+      phenylpropanoids. Genomics-assisted breeding is expected to facilitate rapid 
+      introgression into improved genetic backgrounds by minimizing linkage drag. More 
+      research is needed to systematically characterize germplasm pools for assessing 
+      variation to support crop genetic enhancement, and assess consumer attitudes to 
+      foods rich in phenylpropanoids.
+FAU - Dwivedi, Sangam L
+AU  - Dwivedi SL
+AD  - International Crops Research Institute for the Semi-Arid Tropics Patancheru, India.
+FAU - Upadhyaya, Hari D
+AU  - Upadhyaya HD
+AD  - International Crops Research Institute for the Semi-Arid TropicsPatancheru, India; 
+      Department of Agronomy, Kansas State UniversityManhattan, KS, USA; UWA Institute of 
+      Agriculture, University of Western AustraliaCrawley, WA, Australia.
+FAU - Chung, Ill-Min
+AU  - Chung IM
+AD  - Department of Applied Life Science, College of Life and Environmental Science, 
+      Konkuk University Seoul, Korea.
+FAU - De Vita, Pasquale
+AU  - De Vita P
+AD  - Consiglio per la Ricerca in Agricoltura e l'Analisi dell'Economia Agraria, Centro di 
+      Ricerca per la Cerealicoltura Foggia, Italy.
+FAU - García-Lara, Silverio
+AU  - García-Lara S
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Guajardo-Flores, Daniel
+AU  - Guajardo-Flores D
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Gutiérrez-Uribe, Janet A
+AU  - Gutiérrez-Uribe JA
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Serna-Saldívar, Sergio O
+AU  - Serna-Saldívar SO
+AD  - Tecnológico de Monterrey, Centro de Biotecnología-FEMSA, Escuela de Ingeniería y 
+      Ciencias Monterrey, Mexico.
+FAU - Rajakumar, Govindasamy
+AU  - Rajakumar G
+AD  - Department of Applied Life Science, College of Life and Environmental Science, 
+      Konkuk University Seoul, Korea.
+FAU - Sahrawat, Kanwar L
+AU  - Sahrawat KL
+AD  - International Crops Research Institute for the Semi-Arid Tropics Patancheru, India.
+FAU - Kumar, Jagdish
+AU  - Kumar J
+AD  - Sevita International Inkerman, ON, Canada.
+FAU - Ortiz, Rodomiro
+AU  - Ortiz R
+AD  - Swedish University of Agricultural Sciences Alnarp, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20160603
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC4891577
+OTO - NOTNLM
+OT  - Genotype × Environment interaction
+OT  - anthocyanins
+OT  - cereals
+OT  - flavonoids
+OT  - genetics and biosynthesis
+OT  - germplasm
+OT  - legumes
+OT  - phenolics
+EDAT- 2016/07/05 06:00
+MHDA- 2016/07/05 06:01
+CRDT- 2016/07/05 06:00
+PHST- 2016/01/27 00:00 [received]
+PHST- 2016/05/17 00:00 [accepted]
+PHST- 2016/07/05 06:00 [entrez]
+PHST- 2016/07/05 06:00 [pubmed]
+PHST- 2016/07/05 06:01 [medline]
+AID - 10.3389/fpls.2016.00763 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2016 Jun 3;7:763. doi: 10.3389/fpls.2016.00763. eCollection 2016.
+
+PMID- 31555976
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210525
+LR  - 20210525
+IS  - 1436-6215 (Electronic)
+IS  - 1436-6207 (Linking)
+VI  - 59
+IP  - 6
+DP  - 2020 Sep
+TI  - EPA and DHA as markers of nutraceutical treatment response in major depressive 
+      disorder.
+PG  - 2439-2447
+LID - 10.1007/s00394-019-02090-6 [doi]
+AB  - PURPOSE: Depression clinical trials are increasingly studying biomarkers to predict 
+      and monitor response to treatment. Assessment of biomarkers may reveal subsets of 
+      patients who are responsive to nutraceutical treatment, which may facilitate a 
+      personalized approach to treating depression. METHODS: This is a post hoc analysis 
+      of an 8-week, double-blind, randomized, controlled trial (n = 158) investigating a 
+      combination nutraceutical comprising Omega-3 (EPA 1 g/DHA 656 mg), SAMe, zinc, 
+      5-HTP, folinic acid, and co-factors versus placebo for the treatment of Major 
+      Depressive Disorder. The study explored levels of polyunsaturated fatty acids, 
+      folate, vitamin B12, zinc, homocysteine, and BDNF as possible predictors and 
+      correlates of response to nutraceutical supplementation. RESULTS: Concentrations of 
+      EPA and DHA in red cell membranes increased in response to treatment and were 
+      significantly correlated with a decrease in depressive symptoms during active 
+      treatment (p = 0.003 and p = 0.029; respectively). Higher baseline levels of omega-6 
+      fatty acid also correlated with depression reduction in the active treatment group 
+      ( p = 0.011). No other biomarkers were associated with a lessening of depressive 
+      symptoms. CONCLUSION: Changes in fatty acid levels resulting from a nutraceutical 
+      combination containing EPA and DHA provide a response biomarker in treating 
+      depression.
+FAU - van der Burg, Kiki P
+AU  - van der Burg KP
+AD  - MaSc Medicine at University Medical Center Utrecht (UMCU), Utrecht, The Netherlands.
+FAU - Cribb, Lachlan
+AU  - Cribb L
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Firth, Joseph
+AU  - Firth J
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+AD  - Division of Psychology and Mental Health, Faculty of Biology, Medicine and Health, 
+      University of Manchester, Manchester, UK.
+FAU - Karmacoska, Diana
+AU  - Karmacoska D
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia.
+FAU - Mischoulon, David
+AU  - Mischoulon D
+AD  - Depression Clinical and Research Program, Massachusetts General Hospital, Harvard 
+      Medical School, Boston, MA, USA.
+FAU - Byrne, Gerard J
+AU  - Byrne GJ
+AD  - Faculty of Medicine, Discipline of Psychiatry, Centre for Clinical Research, Royal 
+      Brisbane and Women's Hospital, The University of Queensland, Herston, Australia.
+FAU - Bousman, Chad
+AU  - Bousman C
+AD  - Departments of Medical Genetics, Psychiatry, and Physiology and Pharmacology, 
+      University of Calgary, Calgary, AB, Canada.
+AD  - Department of Psychiatry, The University of Melbourne, Melbourne, Australia.
+FAU - Stough, Con
+AU  - Stough C
+AD  - Centre for Human Psychopharmacology, Swinburne University of Technology, Hawthorn, 
+      Australia.
+FAU - Murphy, Jenifer
+AU  - Murphy J
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Oliver, Georgina
+AU  - Oliver G
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Berk, Michael
+AU  - Berk M
+AD  - Department of Psychiatry, The University of Melbourne, Melbourne, Australia.
+AD  - IMPACT SRC, Barwon Health, School of Medicine, Deakin University, Geelong, 
+      Australia.
+AD  - Florey Institute of Neuroscience and Mental Health, The University of Melbourne, 
+      Parkville, Australia.
+AD  - Orygen, The Centre of Excellence in Youth Mental Health, The University of 
+      Melbourne, Parkville, Australia.
+FAU - Ng, Chee H
+AU  - Ng CH
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia.
+FAU - Sarris, Jerome
+AU  - Sarris J
+AUID- ORCID: 0000-0001-9287-8854
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, The University of 
+      Melbourne, Melbourne, Australia. j.sarris@westernsydney.edu.au.
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, Australia. 
+      j.sarris@westernsydney.edu.au.
+LA  - eng
+GR  - APP1048222/National Health and Medical Research Council/
+PT  - Clinical Trial, Phase II
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+DEP - 20190925
+PL  - Germany
+TA  - Eur J Nutr
+JT  - European journal of nutrition
+JID - 100888704
+RN  - 0 (Biomarkers)
+RN  - 25167-62-8 (Docosahexaenoic Acids)
+RN  - AAN7QOV9EA (Eicosapentaenoic Acid)
+SB  - IM
+MH  - Adult
+MH  - Biomarkers/analysis
+MH  - Depressive Disorder, Major/*diet therapy
+MH  - *Dietary Supplements
+MH  - Docosahexaenoic Acids/*analysis
+MH  - Double-Blind Method
+MH  - Eicosapentaenoic Acid/*analysis
+MH  - Erythrocyte Membrane/chemistry
+MH  - Female
+MH  - Humans
+MH  - Male
+OTO - NOTNLM
+OT  - Biomarker
+OT  - Depression
+OT  - Nutraceutical
+OT  - Omega-3
+OT  - Precision medicine
+EDAT- 2019/09/27 06:00
+MHDA- 2021/05/26 06:00
+CRDT- 2019/09/27 06:00
+PHST- 2019/03/27 00:00 [received]
+PHST- 2019/09/06 00:00 [accepted]
+PHST- 2019/09/27 06:00 [pubmed]
+PHST- 2021/05/26 06:00 [medline]
+PHST- 2019/09/27 06:00 [entrez]
+AID - 10.1007/s00394-019-02090-6 [pii]
+AID - 10.1007/s00394-019-02090-6 [doi]
+PST - ppublish
+SO  - Eur J Nutr. 2020 Sep;59(6):2439-2447. doi: 10.1007/s00394-019-02090-6. Epub 2019 Sep 
+      25.
+
+PMID- 33362557
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201229
+IS  - 1663-9812 (Print)
+IS  - 1663-9812 (Electronic)
+IS  - 1663-9812 (Linking)
+VI  - 11
+DP  - 2020
+TI  - Nutraceutical Targeting of Inflammation-Modulating microRNAs in Severe Forms of 
+      COVID-19: A Novel Approach to Prevent the Cytokine Storm.
+PG  - 602999
+LID - 10.3389/fphar.2020.602999 [doi]
+LID - 602999
+AB  - The coronavirus disease 2019 (COVID-19) pandemic has become the number one health 
+      problem worldwide. As of August 2020, it has affected more than 18 million humans 
+      and caused over 700,000 deaths worldwide. COVID-19 is an infectious disease that can 
+      lead to severe acute respiratory syndrome. Under certain circumstances, the viral 
+      infection leads to excessive and uncontrolled inflammatory response, which is 
+      associated with the massive release of inflammatory cytokines in pulmonary alveolar 
+      structures. This phenomenon has been referred to as the "cytokine storm," and it is 
+      closely linked to lung injury, acute respiratory syndrome and mortality. 
+      Unfortunately, there is currently no vaccine available to prevent the infection, and 
+      no effective treatment is available to reduce the mortality associated with the 
+      severe form of the disease. The cytokine storm associate with COVID-19 shows 
+      similarities with those observed in other pathologies such as sepsis, acute 
+      respiratory distress syndrome, acute lung injury and other viral infection including 
+      severe cases of influenza. However, the specific mechanisms that cause and modulate 
+      the cytokine storm in the different conditions remain to be determined. micro-RNAs 
+      are important regulators of gene expression, including key inflammatory cytokines 
+      involved in the massive recruitment of immune cells to the lungs such as IL1β, IL6, 
+      and TNFα. In recent years, it has been shown that nutraceutical agents can modulate 
+      the expression of miRs involved in the regulation of cytokines in various 
+      inflammatory diseases. Here we review the potential role of 
+      inflammatory-regulating-miRs in the cytokine storm associated with COVID-19, and 
+      propose that nutraceutical agents may represent a supportive therapeutic approach to 
+      modulate dysregulated miRs in this condition, providing benefits in severe 
+      respiratory diseases.
+CI  - Copyright © 2020 Desjarlais, Wirth, Lahaie, Ruknudin, Hardy, Rivard and Chemtob.
+FAU - Desjarlais, Michel
+AU  - Desjarlais M
+AD  - Department of Ophthalmology, Maisonneuve-Rosemont Hospital Research Center, 
+      Université de Montréal, Montréal, QC, Canada.
+AD  - Departments of Pediatrics, Ophthalmology and Pharmacology, Centre Hospitalier 
+      Universitaire Sainte-Justine Research Center, Montréal, QC, Canada.
+FAU - Wirth, Maëlle
+AU  - Wirth M
+AD  - Department of Ophthalmology, Maisonneuve-Rosemont Hospital Research Center, 
+      Université de Montréal, Montréal, QC, Canada.
+AD  - Departments of Pediatrics, Ophthalmology and Pharmacology, Centre Hospitalier 
+      Universitaire Sainte-Justine Research Center, Montréal, QC, Canada.
+FAU - Lahaie, Isabelle
+AU  - Lahaie I
+AD  - Department of Ophthalmology, Maisonneuve-Rosemont Hospital Research Center, 
+      Université de Montréal, Montréal, QC, Canada.
+FAU - Ruknudin, Pakiza
+AU  - Ruknudin P
+AD  - Department of Ophthalmology, Maisonneuve-Rosemont Hospital Research Center, 
+      Université de Montréal, Montréal, QC, Canada.
+FAU - Hardy, Pierre
+AU  - Hardy P
+AD  - Departments of Pediatrics, Ophthalmology and Pharmacology, Centre Hospitalier 
+      Universitaire Sainte-Justine Research Center, Montréal, QC, Canada.
+FAU - Rivard, Alain
+AU  - Rivard A
+AD  - Department of Medicine, Centre Hospitalier de l'Université de Montréal (CHUM) 
+      Research Center, Montréal, QC, Canada.
+FAU - Chemtob, Sylvain
+AU  - Chemtob S
+AD  - Department of Ophthalmology, Maisonneuve-Rosemont Hospital Research Center, 
+      Université de Montréal, Montréal, QC, Canada.
+AD  - Departments of Pediatrics, Ophthalmology and Pharmacology, Centre Hospitalier 
+      Universitaire Sainte-Justine Research Center, Montréal, QC, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20201211
+TA  - Front Pharmacol
+JT  - Frontiers in pharmacology
+JID - 101548923
+PMC - PMC7759543
+OTO - NOTNLM
+OT  - COVID-19
+OT  - cytokine storm
+OT  - inflammation
+OT  - microRNA
+OT  - nutraceutics
+COIS- The authors declare that the research was conducted in the absence of any commercial 
+      or financial relationships that could be construed as a potential conflict of 
+      interest.
+EDAT- 2020/12/29 06:00
+MHDA- 2020/12/29 06:01
+CRDT- 2020/12/28 11:55
+PHST- 2020/09/07 00:00 [received]
+PHST- 2020/11/17 00:00 [accepted]
+PHST- 2020/12/28 11:55 [entrez]
+PHST- 2020/12/29 06:00 [pubmed]
+PHST- 2020/12/29 06:01 [medline]
+AID - 602999 [pii]
+AID - 10.3389/fphar.2020.602999 [doi]
+PST - epublish
+SO  - Front Pharmacol. 2020 Dec 11;11:602999. doi: 10.3389/fphar.2020.602999. eCollection 
+      2020.
+
+PMID- 34681531
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211026
+IS  - 2304-8158 (Print)
+IS  - 2304-8158 (Electronic)
+IS  - 2304-8158 (Linking)
+VI  - 10
+IP  - 10
+DP  - 2021 Oct 17
+TI  - Antioxidant, Scavenging, Reducing, and Anti-Proliferative Activities of Selected 
+      Tropical Brown Seaweeds Confirm the Nutraceutical Potential of Spatoglossum asperum.
+LID - 10.3390/foods10102482 [doi]
+LID - 2482
+AB  - Brown seaweeds have shown high potential of bioactivity and provide health benefits 
+      as an important functional food ingredient. Therefore, four abundantly growing 
+      tropical brown seaweeds-Iyengaria stellata, Spatoglossum asperum, Sargassum 
+      linearifolium, and Stoechospermum polypodioides-were collected from the Saurashtra 
+      Coast of the Arabian Sea. They were analyzed for metabolite profiling, biochemical 
+      activities (including total antioxidant, reducing, scavenging, and 
+      anti-proliferative characteristics), and total phenolic and flavonoid contents. A 
+      concentration-dependent antioxidant, reducing, and scavenging activities were 
+      observed for all four brown seaweeds. The S. asperum and I. stellata extracts showed 
+      maximum total antioxidant activity. S. asperum also showed high scavenging and 
+      reducing activities compared to other studied brown seaweeds. Further, S. asperum 
+      contained high total phenolic and flavonoid content compared to other brown seaweeds 
+      collected from the same coast. A multivariate correlation study confirmed a positive 
+      correlation between total phenolic and flavonoid contents, and biochemical 
+      activities (total antioxidant, scavenging and reducing) for all brown seaweeds. 
+      About 35% anti-proliferative activity was observed with S. asperum extract on Huh7 
+      cells; in contrast S. polypodioide showed about 44% proliferation inhibition of Huh7 
+      cells. Similarly, 26% proliferation inhibition of HeLa cells was observed with S. 
+      asperum extract. Overall, S. asperum possesses high total flavonoid and phenolic 
+      amounts, and showed potential antioxidant, scavenging and reducing characteristics. 
+      The study confirmed the nutraceutical potential of S. asperum and that it could be a 
+      promising functional food ingredient.
+FAU - Tanna, Bhakti
+AU  - Tanna B
+AUID- ORCID: 0000-0003-3958-9791
+AD  - Division of Applied Phycology and Biotechnology, CSIR-Central Salt and Marine 
+      Chemicals Research Institute, G. B. Marg, Bhavnagar 364002, India.
+AD  - Academy of Scientific and Innovative Research (AcSIR), CSIR, Ghaziabad 201002, 
+      India.
+FAU - Choudhary, Babita
+AU  - Choudhary B
+AD  - Division of Applied Phycology and Biotechnology, CSIR-Central Salt and Marine 
+      Chemicals Research Institute, G. B. Marg, Bhavnagar 364002, India.
+AD  - Academy of Scientific and Innovative Research (AcSIR), CSIR, Ghaziabad 201002, 
+      India.
+FAU - Mishra, Avinash
+AU  - Mishra A
+AUID- ORCID: 0000-0003-0342-010X
+AD  - Division of Applied Phycology and Biotechnology, CSIR-Central Salt and Marine 
+      Chemicals Research Institute, G. B. Marg, Bhavnagar 364002, India.
+AD  - Academy of Scientific and Innovative Research (AcSIR), CSIR, Ghaziabad 201002, 
+      India.
+FAU - Chauhan, O P
+AU  - Chauhan OP
+AD  - DRDO-Defence Food Research Laboratory, Siddarthanagar, Mysuru 570011, India.
+FAU - Patel, Manish Kumar
+AU  - Patel MK
+AUID- ORCID: 0000-0001-5250-1008
+AD  - Division of Applied Phycology and Biotechnology, CSIR-Central Salt and Marine 
+      Chemicals Research Institute, G. B. Marg, Bhavnagar 364002, India.
+FAU - Shokralla, Shadi
+AU  - Shokralla S
+AD  - Centre for Biodiversity Genomics, University of Guelph, Guelph, ON N1G 2W1, Canada.
+AD  - Department of Integrative Biology, University of Guelph, Guelph, ON N1G 2W1, Canada.
+FAU - El-Abedin, Tarek K Zin
+AU  - El-Abedin TKZ
+AD  - Department of Agriculture & Biosystems Engineering, Faculty of Agriculture 
+      (El-Shatby), Alexandria University, Alexandria 21545, Egypt.
+FAU - Elansary, Hosam O
+AU  - Elansary HO
+AUID- ORCID: 0000-0002-4476-2408
+AD  - Plant Production Department, College of Food & Agriculture Sciences, King Saud 
+      University, Riyadh 11451, Saudi Arabia.
+FAU - Mahmoud, Eman A
+AU  - Mahmoud EA
+AD  - Department of Food Industries, Faculty of Agriculture, Damietta University, Damietta 
+      34511, Egypt.
+LA  - eng
+GR  - RSP-2021/118/King Saud University/
+PT  - Journal Article
+DEP - 20211017
+TA  - Foods
+JT  - Foods (Basel, Switzerland)
+JID - 101670569
+PMC - PMC8536100
+OTO - NOTNLM
+OT  - antioxidant
+OT  - brown seaweeds
+OT  - functional food
+OT  - metabolites
+OT  - metabolomics
+OT  - nutraceuticals
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/10/24 06:00
+MHDA- 2021/10/24 06:01
+CRDT- 2021/10/23 01:07
+PHST- 2021/09/13 00:00 [received]
+PHST- 2021/10/11 00:00 [revised]
+PHST- 2021/10/14 00:00 [accepted]
+PHST- 2021/10/23 01:07 [entrez]
+PHST- 2021/10/24 06:00 [pubmed]
+PHST- 2021/10/24 06:01 [medline]
+AID - foods10102482 [pii]
+AID - foods-10-02482 [pii]
+AID - 10.3390/foods10102482 [doi]
+PST - epublish
+SO  - Foods. 2021 Oct 17;10(10):2482. doi: 10.3390/foods10102482.
+
+PMID- 21861724
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120405
+LR  - 20211203
+IS  - 1557-7600 (Electronic)
+IS  - 1096-620X (Linking)
+VI  - 14
+IP  - 12
+DP  - 2011 Dec
+TI  - The potential of fenugreek (Trigonella foenum-graecum) as a functional food and 
+      nutraceutical and its effects on glycemia and lipidemia.
+PG  - 1485-9
+LID - 10.1089/jmf.2011.0002 [doi]
+AB  - Dietary fiber from fenugreek blunts glucose and cholesterol after a meal and 
+      regulates the production of cholesterol in the liver. The mechanisms for these 
+      effects have not been fully elucidated. Fenugreek seeds contain 45.4% dietary fiber 
+      (32% insoluble and 13.3% soluble), and the gum is composed of galactose and mannose. 
+      The latter compounds are associated with reduced glycemia and cholesterolemia. 
+      Fenugreek's hypoglycemic effect has been especially documented in humans and animals 
+      with type 1 and type 2 diabetes mellitus. In addition, this dietary fiber has 
+      potential for widespread use in the food industry because its galactomannan 
+      composition has emulsifying and stabilizing properties. Flour supplemented with 
+      8%-10% fenugreek dietary fiber has been used in the production of baked goods such 
+      as bread, pizza, muffins, and cakes. This application to flour allows for the 
+      production of functional foods that may be widely acceptable to consumers observing 
+      western diets.
+FAU - Roberts, Keisha T
+AU  - Roberts KT
+AD  - Guelph Food Research Centre, Agriculture and Agri-Food Canada, and University of 
+      Guelph, Guelph, Ontario, Canada. krober04@uoguelph.ca
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20110823
+PL  - United States
+TA  - J Med Food
+JT  - Journal of medicinal food
+JID - 9812512
+RN  - 0 (Blood Glucose)
+RN  - 0 (Dietary Fiber)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Mannans)
+RN  - 0 (Plant Extracts)
+RN  - 11078-30-1 (galactomannan)
+RN  - 68990-15-8 (fenugreek seed meal)
+RN  - X2RN3Q8DNE (Galactose)
+SB  - IM
+MH  - Animals
+MH  - Blood Glucose/analysis/*drug effects
+MH  - Dietary Fiber
+MH  - *Dietary Supplements
+MH  - *Functional Food
+MH  - Galactose/analogs & derivatives
+MH  - Humans
+MH  - Hyperlipidemias/*drug therapy
+MH  - Hypoglycemic Agents/*administration & dosage
+MH  - Mannans/administration & dosage
+MH  - Models, Animal
+MH  - Plant Extracts/*administration & dosage
+MH  - Trigonella
+EDAT- 2011/08/25 06:00
+MHDA- 2012/04/06 06:00
+CRDT- 2011/08/25 06:00
+PHST- 2011/08/25 06:00 [entrez]
+PHST- 2011/08/25 06:00 [pubmed]
+PHST- 2012/04/06 06:00 [medline]
+AID - 10.1089/jmf.2011.0002 [doi]
+PST - ppublish
+SO  - J Med Food. 2011 Dec;14(12):1485-9. doi: 10.1089/jmf.2011.0002. Epub 2011 Aug 23.
+
+PMID- 26723564
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170501
+LR  - 20181113
+IS  - 1872-6240 (Electronic)
+IS  - 0006-8993 (Print)
+IS  - 0006-8993 (Linking)
+VI  - 1640
+IP  - Pt A
+DP  - 2016 Jun 1
+TI  - Vitamins and nutrients as primary treatments in experimental brain injury: Clinical 
+      implications for nutraceutical therapies.
+PG  - 114-129
+LID - S0006-8993(15)00969-5 [pii]
+LID - 10.1016/j.brainres.2015.12.030 [doi]
+AB  - With the numerous failures of pharmaceuticals to treat traumatic brain injury in 
+      humans, more researchers have become interested in combination therapies. This is 
+      largely due to the multimodal nature of damage from injury, which causes 
+      excitotoxicity, oxidative stress, edema, neuroinflammation and cell death. Polydrug 
+      treatments have the potential to target multiple aspects of the secondary injury 
+      cascade, while many previous therapies focused on one particular aspect. Of specific 
+      note are vitamins, minerals and nutrients that can be utilized to supplement other 
+      therapies. Many of these have low toxicity, are already FDA approved and have 
+      minimal interactions with other drugs, making them attractive targets for 
+      therapeutics. Over the past 20 years, interest in supplementation and 
+      supraphysiologic dosing of nutrients for brain injury has increased and indeed many 
+      vitamins and nutrients now have a considerable body of the literature backing their 
+      use. Here, we review several of the prominent therapies in the category of 
+      nutraceutical treatment for brain injury in experimental models, including vitamins 
+      (B2, B3, B6, B9, C, D, E), herbs and traditional medicines (ginseng, Gingko biloba), 
+      flavonoids, and other nutrients (magnesium, zinc, carnitine, omega-3 fatty acids). 
+      While there is still much work to be done, several of these have strong potential 
+      for clinical therapies, particularly with regard to polydrug regimens. This article 
+      is part of a Special Issue entitled SI:Brain injury and recovery.
+CI  - Copyright © 2016 Elsevier B.V. All rights reserved.
+FAU - Vonder Haar, Cole
+AU  - Vonder Haar C
+AD  - University of British Columbia, Vancouver, BC, Canada.
+FAU - Peterson, Todd C
+AU  - Peterson TC
+AD  - Stanford University, Palo Alto, CA, USA.
+FAU - Martens, Kris M
+AU  - Martens KM
+AD  - University of British Columbia, Vancouver, BC, Canada.
+FAU - Hoane, Michael R
+AU  - Hoane MR
+AD  - Southern Illinois University, Carbondale, IL, USA. Electronic address: 
+      mhoane@siu.edu.
+LA  - eng
+GR  - R01 HD061944/HD/NICHD NIH HHS/United States
+GR  - R15 NS045647/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20151223
+TA  - Brain Res
+JT  - Brain research
+JID - 0045503
+RN  - 0 (Neuroprotective Agents)
+RN  - 0 (Vitamins)
+SB  - IM
+MH  - Animals
+MH  - Brain Injuries/*drug therapy/metabolism
+MH  - *Dietary Supplements
+MH  - Humans
+MH  - Neuroprotective Agents/*administration & dosage
+MH  - Vitamins/*administration & dosage
+PMC - PMC4870112
+MID - NIHMS750661
+OTO - NOTNLM
+OT  - *Minerals
+OT  - *Nutrients
+OT  - *Polytherapy
+OT  - *TBI
+OT  - *Vitamins
+EDAT- 2016/01/03 06:00
+MHDA- 2017/05/02 06:00
+CRDT- 2016/01/03 06:00
+PHST- 2015/10/15 00:00 [received]
+PHST- 2015/12/14 00:00 [revised]
+PHST- 2015/12/15 00:00 [accepted]
+PHST- 2016/01/03 06:00 [entrez]
+PHST- 2016/01/03 06:00 [pubmed]
+PHST- 2017/05/02 06:00 [medline]
+AID - S0006-8993(15)00969-5 [pii]
+AID - 10.1016/j.brainres.2015.12.030 [doi]
+PST - ppublish
+SO  - Brain Res. 2016 Jun 1;1640(Pt A):114-129. doi: 10.1016/j.brainres.2015.12.030. Epub 
+      2015 Dec 23.
+
+PMID- 33675264
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211015
+LR  - 20211019
+IS  - 1439-0396 (Electronic)
+IS  - 0931-2439 (Linking)
+VI  - 105
+IP  - 3
+DP  - 2021 May
+TI  - Effects of a nutraceutical supplement on gastrointestinal health in racing 
+      standardbreds.
+PG  - 558-568
+LID - 10.1111/jpn.13508 [doi]
+AB  - BACKGROUND: Feed additives that accelerate gastrointestinal transit time may help 
+      support normal gastrointestinal function in horses at risk for impaction colic. 
+      Previous research has demonstrated significant stimulatory effect of a hemp-based 
+      nutraceutical product (Gs Formula; GF) on contractility of gastric smooth muscle and 
+      gastrin production in vitro. OBJECTIVES: To quantify effects of GF on indicators of 
+      GIT transit time and tight junction proteins. STUDY DESIGN: Randomized 
+      placebo-controlled cross-over study. METHODS: Eight Standardbreds were administered 
+      200 plastic beads by nasogastric tube before (baseline; BL) and after receiving a 
+      diet containing GF (CON: 0 g/day, LO: 160 g/day or HI: 480 g/day) for 28 days. Total 
+      manure collection occurred every 2 hours for 72 hours after bead administration. 
+      Outcome measures included GIT transit time, faecal dry matter (DM), water intake, 
+      and complete biochemistry and haematology screens. RESULTS: There was no effect of 
+      GF on GIT transit time. Faecal output was significantly lower in LO and HI horses 
+      than CON horses after 28 days on the supplement. HI horses have significantly lower 
+      rouleaux formation and lower faecal DM on Day 28 compared with BL. GF also produced 
+      changes in electrolytes associated with pH balance, which may indicate a role for GF 
+      as an alkalinizing compound in exercising horses. Clinical pathology results support 
+      the safety of GF up to 480 g/day for 28 days with no adverse effects being observed 
+      in haematology or biochemistry results. MAIN LIMITATIONS: Future studies on GF 
+      should focus on evaluating effect of GF on gastrointestinal transit in horses with 
+      naturally or experimentally delayed gastrointestinal motility, and its effect on 
+      exercise performance and onset of fatigue. CONCLUSIONS: GF may help support normal 
+      gastrointestinal function in horses at risk for impaction colic by reducing faecal 
+      DM and rouleaux formation.
+CI  - © 2021 Wiley-VCH GmbH.
+FAU - Wellard, Leah
+AU  - Wellard L
+AD  - Department of Animal Biosciences, University of Guelph, Guelph, ON, Canada.
+FAU - Medyk, Katryna
+AU  - Medyk K
+AD  - Department of Animal Biosciences, University of Guelph, Guelph, ON, Canada.
+FAU - Pearson, Wendy
+AU  - Pearson W
+AUID- ORCID: 0000-0002-3635-4594
+AD  - Department of Animal Biosciences, University of Guelph, Guelph, ON, Canada.
+LA  - eng
+GR  - 054083/G's Organic Solutions Inc/
+PT  - Journal Article
+PT  - Randomized Controlled Trial, Veterinary
+DEP - 20210306
+PL  - Germany
+TA  - J Anim Physiol Anim Nutr (Berl)
+JT  - Journal of animal physiology and animal nutrition
+JID - 101126979
+SB  - IM
+MH  - Animals
+MH  - Cross-Over Studies
+MH  - *Diet/veterinary
+MH  - *Dietary Supplements
+MH  - Digestion
+MH  - Gastrointestinal Tract
+MH  - Horses/*physiology
+EDAT- 2021/03/07 06:00
+MHDA- 2021/10/16 06:00
+CRDT- 2021/03/06 08:33
+PHST- 2020/11/09 00:00 [revised]
+PHST- 2020/03/19 00:00 [received]
+PHST- 2020/12/14 00:00 [accepted]
+PHST- 2021/03/07 06:00 [pubmed]
+PHST- 2021/10/16 06:00 [medline]
+PHST- 2021/03/06 08:33 [entrez]
+AID - 10.1111/jpn.13508 [doi]
+PST - ppublish
+SO  - J Anim Physiol Anim Nutr (Berl). 2021 May;105(3):558-568. doi: 10.1111/jpn.13508. 
+      Epub 2021 Mar 6.
+
+PMID- 18647623
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081229
+LR  - 20131121
+IS  - 1872-8294 (Electronic)
+IS  - 0169-409X (Linking)
+VI  - 60
+IP  - 13-14
+DP  - 2008 Oct-Nov
+TI  - The mitochondrial cocktail: rationale for combined nutraceutical therapy in 
+      mitochondrial cytopathies.
+PG  - 1561-7
+LID - 10.1016/j.addr.2008.05.001 [doi]
+AB  - Mitochondrial cytopathies ultimately lead to a reduction in aerobic energy 
+      transduction, depletion of alternative energy stores, increased oxidative stress, 
+      apoptosis and necrosis. Specific combinations of nutraceutical compounds can target 
+      many of the aforementioned biochemical pathways. Antioxidants combined with 
+      cofactors that can bypass specific electron transport chain defects and the 
+      provision of alternative energy sources represents a specific targeted strategy. To 
+      date, there has been only one randomized double-blind clinical trial using a 
+      combination nutraceutial therapy and it showed that the combination of creatine 
+      monohydrate, coenzyme Q10, and alpha-lipoic acid reduced lactate and markers of 
+      oxidative stress in patients with mitochondrial cytopathies. Future studies need to 
+      use larger numbers of patients with well defined clinical and surrogate marker 
+      outcomes to clarify the potential role for combination nutraceuticals 
+      ("mitochondrial cocktail") as a therapy for mitochondrial cytopathies.
+FAU - Tarnopolsky, M A
+AU  - Tarnopolsky MA
+AD  - Department of Pediatrics and Medicine, McMaster University, 1200 Main St. W., 
+      HSC-2H26, Hamilton, Ontario L8N3Z5, Canada. tarnopol@mcmaster.ca
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20080704
+PL  - Netherlands
+TA  - Adv Drug Deliv Rev
+JT  - Advanced drug delivery reviews
+JID - 8710523
+RN  - 0 (Antioxidants)
+RN  - 0 (Coenzymes)
+RN  - 73Y7P0K73Y (Thioctic Acid)
+RN  - MU72812GK0 (Creatine)
+SB  - IM
+MH  - Antioxidants/therapeutic use
+MH  - Coenzymes/therapeutic use
+MH  - Creatine/therapeutic use
+MH  - *Dietary Supplements
+MH  - Drug Therapy, Combination
+MH  - Energy Metabolism/physiology
+MH  - Humans
+MH  - Mitochondria/*pathology
+MH  - Mitochondrial Diseases/pathology/*therapy
+MH  - Randomized Controlled Trials as Topic
+MH  - Thioctic Acid/therapeutic use
+RF  - 120
+EDAT- 2008/07/24 09:00
+MHDA- 2008/12/30 09:00
+CRDT- 2008/07/24 09:00
+PHST- 2008/04/23 00:00 [received]
+PHST- 2008/05/02 00:00 [accepted]
+PHST- 2008/07/24 09:00 [pubmed]
+PHST- 2008/12/30 09:00 [medline]
+PHST- 2008/07/24 09:00 [entrez]
+AID - S0169-409X(08)00169-5 [pii]
+AID - 10.1016/j.addr.2008.05.001 [doi]
+PST - ppublish
+SO  - Adv Drug Deliv Rev. 2008 Oct-Nov;60(13-14):1561-7. doi: 10.1016/j.addr.2008.05.001. 
+      Epub 2008 Jul 4.
+
+PMID- 31864457
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200730
+LR  - 20200730
+IS  - 0737-0806 (Print)
+IS  - 0737-0806 (Linking)
+VI  - 84
+DP  - 2020 Jan
+TI  - A Botanical-Based Equine Nutraceutical Reduces Gastric Smooth Muscle Contractile 
+      Force In Vitro.
+PG  - 102836
+LID - S0737-0806(19)30585-4 [pii]
+LID - 10.1016/j.jevs.2019.102836 [doi]
+AB  - The objective of this study was to evaluate the effect of a botanical-based equine 
+      nutraceutical on contractility of gastric smooth muscle in vitro. Gastric ulcers are 
+      prevalent in performance horses and negatively impact horse welfare. Gastric 
+      hypermotility has been positively associated with the development of gastric 
+      ulceration in nonequine species, and reduction of hypermotility may be protective 
+      against their development. Stomachs from 12 pigs processed for food at a 
+      provincially inspected abattoir were collected within 1 hour of slaughter. Explants 
+      of nonglandular gastric tissue were prepared and suspended in a tissue bath, 
+      attached to a force transducer, in the presence or absence of a simulated digest 
+      extract of the nutraceutical. Tissue was stimulated to contract using increasing 
+      doses of acetylcholine. Peak and mean contractile force over 1 and 2 minutes after 
+      exposure to acetylcholine were measured. Exposure of gastric smooth muscle to the 
+      nutraceutical significantly reduced contractility of the tissue. These data provide 
+      support for the use of this nutraceutical to reduce contractility of nonglandular 
+      gastric smooth muscle and may indicate a protective effect of this nutraceutical in 
+      horses with mechanically induced gastric ulcers. Future studies are needed to 
+      clarify the role of gastric hypermotility on development of equine gastric ulcers 
+      and to determine the effect of this nutraceutical on equine gastric contractility 
+      and ulcerogenesis in vivo.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Reed, Lexie
+AU  - Reed L
+AD  - Department of Animal Biosciences, Ontario Agriculture College, University of Guelph, 
+      Guelph, Ontario, Canada.
+FAU - MacNicol, Jennifer L
+AU  - MacNicol JL
+AD  - Department of Animal Biosciences, Ontario Agriculture College, University of Guelph, 
+      Guelph, Ontario, Canada.
+FAU - Charchoglyan, Armen
+AU  - Charchoglyan A
+AD  - Advanced Analysis Centre, University of Guelph, Guelph, Ontario, Canada.
+FAU - Brewer, Dyanne
+AU  - Brewer D
+AD  - Advanced Analysis Centre, University of Guelph, Guelph, Ontario, Canada.
+FAU - Murrant, Coral
+AU  - Murrant C
+AD  - Department of Human Health and Nutritional Sciences, College of Biological Science, 
+      University of Guelph, Guelph, Ontario, Canada.
+FAU - Pearson, Wendy
+AU  - Pearson W
+AD  - Department of Animal Biosciences, Ontario Agriculture College, University of Guelph, 
+      Guelph, Ontario, Canada. Electronic address: wpearson@uoguelph.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191111
+PL  - United States
+TA  - J Equine Vet Sci
+JT  - Journal of equine veterinary science
+JID - 8216840
+SB  - IM
+MH  - Animals
+MH  - Dietary Supplements
+MH  - *Horse Diseases
+MH  - Horses
+MH  - Muscle Contraction
+MH  - Muscle, Smooth
+MH  - Stomach Ulcer/*veterinary
+MH  - Swine
+MH  - *Swine Diseases
+OTO - NOTNLM
+OT  - *Gastroprotective
+OT  - *Herbal
+OT  - *Nutraceuticals
+OT  - *Spasmolytic
+OT  - *Ulcers
+EDAT- 2019/12/23 06:00
+MHDA- 2020/07/31 06:00
+CRDT- 2019/12/23 06:00
+PHST- 2019/05/29 00:00 [received]
+PHST- 2019/08/14 00:00 [revised]
+PHST- 2019/11/04 00:00 [accepted]
+PHST- 2019/12/23 06:00 [entrez]
+PHST- 2019/12/23 06:00 [pubmed]
+PHST- 2020/07/31 06:00 [medline]
+AID - S0737-0806(19)30585-4 [pii]
+AID - 10.1016/j.jevs.2019.102836 [doi]
+PST - ppublish
+SO  - J Equine Vet Sci. 2020 Jan;84:102836. doi: 10.1016/j.jevs.2019.102836. Epub 2019 Nov 
+      11.
+
+PMID- 23561318
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131216
+LR  - 20141120
+IS  - 1475-2700 (Electronic)
+IS  - 0954-4224 (Linking)
+VI  - 26
+IP  - 1
+DP  - 2013 Jun
+TI  - Gazing into the crystal ball: future considerations for ensuring sustained growth of 
+      the functional food and nutraceutical marketplace.
+PG  - 12-21
+LID - 10.1017/S0954422412000236 [doi]
+AB  - Over the last decade the concept of functional foods and nutraceuticals (FFN) has 
+      gained support from various stakeholders including the food industry, scientific and 
+      academic community, government institutions or regulators, producers and consumers. 
+      However, as one begins to evaluate the global FFN industry, several issues emerge 
+      including (i) a lack of consensus across jurisdictions for acknowledging safe and 
+      efficacious FFN, (ii) challenges regarding the classification of novel food-derived 
+      bioactives as FFN or drugs, and (iii) a disconnect between nutrient requirements and 
+      dosages of FFN required to facilitate health benefits. The objectives of the present 
+      review are to discuss the role of existing stakeholders within the FFN marketplace 
+      and identify performance indicators for growth within the FFN sector. In addition, 
+      the following report provides feasible resolutions to present and future challenges 
+      facing the global FFN industry to ensure sustained long-term growth.
+FAU - Marinangeli, Christopher P F
+AU  - Marinangeli CP
+AD  - Kellogg Canada Inc., 5350 Creekbank Road, Mississauga, Ontario L4W 5S1, Canada.
+FAU - Jones, Peter J H
+AU  - Jones PJ
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20130408
+PL  - England
+TA  - Nutr Res Rev
+JT  - Nutrition research reviews
+JID - 9113797
+SB  - IM
+MH  - Consumer Behavior
+MH  - *Dietary Supplements/economics
+MH  - Food Industry/economics/legislation & jurisprudence/trends
+MH  - *Functional Food/economics
+MH  - Government
+MH  - Health Promotion
+MH  - Humans
+MH  - Legislation, Food
+MH  - Nutritional Requirements
+EDAT- 2013/04/09 06:00
+MHDA- 2013/12/18 06:00
+CRDT- 2013/04/09 06:00
+PHST- 2013/04/09 06:00 [entrez]
+PHST- 2013/04/09 06:00 [pubmed]
+PHST- 2013/12/18 06:00 [medline]
+AID - S0954422412000236 [pii]
+AID - 10.1017/S0954422412000236 [doi]
+PST - ppublish
+SO  - Nutr Res Rev. 2013 Jun;26(1):12-21. doi: 10.1017/S0954422412000236. Epub 2013 Apr 8.
+
+PMID- 31923212
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200409
+LR  - 20211204
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2020
+TI  - Control of the microsporidian parasite Nosema ceranae in honey bees (Apis mellifera) 
+      using nutraceutical and immuno-stimulatory compounds.
+PG  - e0227484
+LID - 10.1371/journal.pone.0227484 [doi]
+LID - e0227484
+AB  - Nosema ceranae is a microsporidian parasite that causes nosemosis in the honey bee 
+      (Apis mellifera). As alternatives to the antibiotic fumagillin, ten nutraceuticals 
+      (oregano oil, thymol, carvacrol, trans-cinnmaldehyde, tetrahydrocurcumin, 
+      sulforaphane, naringenin, embelin, allyl sulfide, hydroxytyrosol) and two 
+      immuno-stimulatory compounds (chitosan, poly I:C) were examined for controlling N. 
+      ceranae infections. Caged bees were inoculated with N. ceranae spores, and 
+      treatments were administered in sugar syrup. Only two compounds did not 
+      significantly reduce N. ceranae spore counts compared to the infected positive 
+      control, but the most effective were sulforaphane from cruciferous vegetables, 
+      carvacrol from oregano oil, and naringenin from citrus fruit. When tested at several 
+      concentrations, the highest sulforaphane concentration reduced spore counts by 100%, 
+      but also caused 100% bee mortality. For carvacrol, the maximum reduction in spore 
+      counts was 57% with an intermediate concentration and the maximum bee mortality was 
+      23% with the highest concentration. For naringenin, the maximum reduction in spore 
+      counts was 64% with the highest concentration, and the maximum bee mortality was 
+      only 15% with an intermediate concentration. In the longevity experiment, 
+      naringenin-fed bees lived as long as Nosema-free control bees, both of which lived 
+      significantly longer than infected positive control bees. While its antimicrobial 
+      properties may be promising, reducing sulforaphane toxicity to bees is necessary 
+      before it can be considered as a candidate for controlling N. ceranae. Although 
+      further work on formulation is needed with naringenin, its effect on extending 
+      longevity in infected bees may give it an additional value as a potential additive 
+      for bee feed in honey bee colonies.
+FAU - Borges, Daniel
+AU  - Borges D
+AD  - School of Environmental Sciences, University of Guelph, Guelph, Ontario, Canada.
+FAU - Guzman-Novoa, Ernesto
+AU  - Guzman-Novoa E
+AUID- ORCID: 0000-0001-5632-0642
+AD  - School of Environmental Sciences, University of Guelph, Guelph, Ontario, Canada.
+FAU - Goodwin, Paul H
+AU  - Goodwin PH
+AD  - School of Environmental Sciences, University of Guelph, Guelph, Ontario, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200110
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Cyclohexanes)
+RN  - 0 (Cymenes)
+RN  - 0 (Fatty Acids, Unsaturated)
+RN  - 0 (Flavanones)
+RN  - 0 (Isothiocyanates)
+RN  - 0 (Sesquiterpenes)
+RN  - 0 (Sulfoxides)
+RN  - 7OW73204U1 (fumagillin)
+RN  - 9B1J4V995Q (carvacrol)
+RN  - GA49J4310U (sulforaphane)
+RN  - HN5425SBF2 (naringenin)
+SB  - IM
+MH  - Animals
+MH  - Bees/drug effects/metabolism/*microbiology
+MH  - Cyclohexanes/pharmacology
+MH  - Cymenes/pharmacology
+MH  - Dietary Supplements/*analysis
+MH  - Fatty Acids, Unsaturated/pharmacology
+MH  - Flavanones/pharmacology
+MH  - Isothiocyanates/pharmacology
+MH  - Longevity/drug effects
+MH  - Nosema/drug effects/*physiology
+MH  - Sesquiterpenes/pharmacology
+MH  - Spores, Fungal/physiology
+MH  - Sulfoxides
+PMC - PMC6953808
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2020/01/11 06:00
+MHDA- 2020/04/10 06:00
+CRDT- 2020/01/11 06:00
+PHST- 2019/05/20 00:00 [received]
+PHST- 2019/12/19 00:00 [accepted]
+PHST- 2020/01/11 06:00 [entrez]
+PHST- 2020/01/11 06:00 [pubmed]
+PHST- 2020/04/10 06:00 [medline]
+AID - PONE-D-19-14254 [pii]
+AID - 10.1371/journal.pone.0227484 [doi]
+PST - epublish
+SO  - PLoS One. 2020 Jan 10;15(1):e0227484. doi: 10.1371/journal.pone.0227484. eCollection 
+      2020.
+
+PMID- 30563127
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190212
+LR  - 20200225
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 23
+IP  - 12
+DP  - 2018 Dec 5
+TI  - Physicochemical, Functional, and Nutraceutical Properties of Eggplant Flours 
+      Obtained by Different Drying Methods.
+LID - 10.3390/molecules23123210 [doi]
+LID - 3210
+AB  - The importance of consuming functional foods has led the food industry to look for 
+      alternative sources of ingredients of natural origin. Eggplants are a type of 
+      vegetable that is valued for its content in phytochemical compounds and it is due to 
+      the fact that this research is conducted towards the development of eggplant flour 
+      as a proposal to be used as a functional ingredient in the food industry. In this 
+      study, the eggplant fruits were divided into four groups, based on the drying method 
+      and the equipment used: Minced, drying oven (T1); sliced, drying oven (T2); sliced 
+      and frozen, drying tunnel (T3); and sliced, drying tunnel (T4). All the eggplant 
+      flours showed the same trend regarding their antioxidant capacity and phenolic 
+      content in the order T2 > T4 > T1 > T3. The freezing of eggplant was found to have a 
+      negative effect on functional and antioxidant properties. With respect to their 
+      nutritional composition, the flours did not change in their crude fiber, protein, 
+      and fat contents. In general terms, the T2 flour is a potential ingredient for the 
+      preparation of foods with functional properties since it is rich in phenolic 
+      compounds and antioxidants.
+FAU - Rodriguez-Jimenez, Jenny R
+AU  - Rodriguez-Jimenez JR
+AUID- ORCID: 0000-0002-6525-8323
+AD  - Facultad de Ciencias Biologicas, Universidad Autonoma de Nuevo Leon, Ave. 
+      Universidad S/N, Cd. Universitaria, 66450 San Nicolas de los Garza, Mexico. 
+      ing.rodriguezjimenez@hotmail.com.
+FAU - Amaya-Guerra, Carlos A
+AU  - Amaya-Guerra CA
+AUID- ORCID: 0000-0002-9010-684X
+AD  - Facultad de Ciencias Biologicas, Universidad Autonoma de Nuevo Leon, Ave. 
+      Universidad S/N, Cd. Universitaria, 66450 San Nicolas de los Garza, Mexico. 
+      numisamaya@hotmail.com.
+FAU - Baez-Gonzalez, Juan G
+AU  - Baez-Gonzalez JG
+AUID- ORCID: 0000-0003-0509-4678
+AD  - Facultad de Ciencias Biologicas, Universidad Autonoma de Nuevo Leon, Ave. 
+      Universidad S/N, Cd. Universitaria, 66450 San Nicolas de los Garza, Mexico. 
+      baezjuan@yahoo.com.mx.
+FAU - Aguilera-Gonzalez, Carlos
+AU  - Aguilera-Gonzalez C
+AUID- ORCID: 0000-0003-3756-5323
+AD  - Facultad de Ciencias Biologicas, Universidad Autonoma de Nuevo Leon, Ave. 
+      Universidad S/N, Cd. Universitaria, 66450 San Nicolas de los Garza, Mexico. 
+      carlos.aguileragn@uanl.edu.mx.
+FAU - Urias-Orona, Vania
+AU  - Urias-Orona V
+AUID- ORCID: 0000-0003-0430-9438
+AD  - Laboratorio de Quimica y de Alimentos, Facultad de Salud Publica y Nutricion, 
+      Universidad Autonoma de Nuevo Leon, Col. Mitras Centro, C.P. 64460 Monterrey, Nuevo 
+      Leon, Mexico. vania.uriaso@uanl.mx.
+FAU - Nino-Medina, Guillermo
+AU  - Nino-Medina G
+AUID- ORCID: 0000-0003-3316-2316
+AD  - Laboratorio de Quimica y Bioquimica, Facultad de Agronomia, Universidad Autonoma de 
+      Nuevo Leon, Francisco Villa S/N, Col. Ex-Hacienda El Canada, C.P. 66050 General 
+      Escobedo, Nuevo Leon, Mexico. guillermo.ninomd@uanl.edu.mx.
+LA  - eng
+PT  - Journal Article
+DEP - 20181205
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Antioxidants)
+RN  - 0 (Phenols)
+RN  - 0 (Phytochemicals)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Antioxidants/chemistry/pharmacology
+MH  - *Dietary Supplements
+MH  - Phenols/chemistry/pharmacology
+MH  - Phytochemicals/*chemistry/*pharmacology
+MH  - Plant Extracts/*chemistry/*pharmacology
+MH  - Solanum melongena/*chemistry
+PMC - PMC6321115
+OTO - NOTNLM
+OT  - antioxidant activity
+OT  - eggplant
+OT  - flour
+OT  - functional ingredient
+OT  - phenolics
+COIS- The authors reported no potential conflict of interest.
+EDAT- 2018/12/20 06:00
+MHDA- 2019/02/13 06:00
+CRDT- 2018/12/20 06:00
+PHST- 2018/10/29 00:00 [received]
+PHST- 2018/12/01 00:00 [revised]
+PHST- 2018/12/02 00:00 [accepted]
+PHST- 2018/12/20 06:00 [entrez]
+PHST- 2018/12/20 06:00 [pubmed]
+PHST- 2019/02/13 06:00 [medline]
+AID - molecules23123210 [pii]
+AID - molecules-23-03210 [pii]
+AID - 10.3390/molecules23123210 [doi]
+PST - epublish
+SO  - Molecules. 2018 Dec 5;23(12):3210. doi: 10.3390/molecules23123210.
+
+PMID- 33741151
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210524
+LR  - 20210524
+IS  - 1525-3198 (Electronic)
+IS  - 0022-0302 (Linking)
+VI  - 104
+IP  - 6
+DP  - 2021 Jun
+TI  - Nutraceutical intervention with colostrum replacer: Can we reduce disease hazard, 
+      ameliorate disease severity, and improve performance in preweaned dairy calves?
+PG  - 7168-7176
+LID - S0022-0302(21)00434-3 [pii]
+LID - 10.3168/jds.2020-19654 [doi]
+AB  - The objective of this randomized clinical trial was to determine if an intervention 
+      with colostrum replacer (CR; Premolac Plus, Zinpro; 125 g/d fed for 3 d) or a 
+      placebo milk replacer (Cows Match, Land O'Lakes Inc.; 125 g/d for 3 d) following a 
+      triggered alarm could ameliorate disease bouts in dairy calves. The alarm was set to 
+      detect negative deviations of milk intake (20% reduction) or drinking speed (30% 
+      reduction) in relation to a calf's 12-d rolling average feeding behavior. Calves 
+      were enrolled on this study (n = 42 CR, n = 42 placebo) when they triggered an alarm 
+      from d 14 to 50 on the feeder before weaning. Once calves were enrolled, calves 
+      received a bottle of either 125 g of CR or milk replacer mixed with 1 L of water for 
+      3 d. Calves were enrolled on the automated milk feeder at age 4.0 ± 2.0 d (mean ± 
+      SD), were offered 10 L/d of the same milk replacer fed as a placebo, and had ad 
+      libitum access to calf starter measured by automated feeders. Weaning began at d 50, 
+      with 50% reduction of milk replacer across 14 d, and an additional 20% reduction for 
+      another 7 d before weaning at d 70. Calves were health scored from birth to 2 wk 
+      postweaning (88 ± 2.0 d of age) daily for bovine respiratory disease (BRD) and 
+      diarrhea, and were weighed and scored using lung ultrasonography twice weekly. A BRD 
+      score ≥5 and an area of consolidated lung ≥3.0 cm(2) was considered BRD positive; 
+      diarrhea was defined as a watery fecal consistency that sifted through the bedding. 
+      The effect of CR on BRD and diarrhea likelihood were calculated with logistic 
+      models; the 7 d before and after an alarm were fixed effects, with milk intake as a 
+      covariate. A Cox proportional hazards model evaluated the effect of CR on the hazard 
+      of being positive for BRD and diarrhea following enrollment, with sex as a fixed 
+      effect in the diarrhea model. The effect of CR on average daily gain the week 
+      following intervention was evaluated with linear modeling with repeated measures, 
+      and birth date was a random effect. After intervention, placebo calves had 1.64 (95% 
+      CI: 1.11-2.43) times greater odds of having a BRD bout compared with CR calves for 
+      the 7 d following intervention. Moreover, placebo calves had 1.50 (95% CI: 
+      1.11-2.08) times greater odds of having lobar lung consolidation in the 7 d after 
+      intervention than CR calves. No difference was found in the likelihood of diarrhea 
+      in the 7 d after intervention (odds ratio: 0.91; 95% CI: 0.71-1.16). However, 
+      placebo calves had a 2.38 (95% CI: 1.30-4.33) times greater hazard of incurring BRD 
+      in the 14 d after intervention. Average daily gain was not associated with an 
+      intervention with CR for the 7 d after intervention (placebo: 0.73 ± 0.07 kg/d; CR: 
+      0.70 ± 0.08 kg/d; LSM ± SEM). These results suggest CR may reduce BRD likelihood but 
+      did not influence growth in calves offered high allowances of milk. Future research 
+      should examine which properties of CR ameliorate BRD in calves.
+CI  - Copyright © 2021 American Dairy Science Association. Published by Elsevier Inc. All 
+      rights reserved.
+FAU - Cantor, M C
+AU  - Cantor MC
+AD  - Dairy Science Program, Department of Animal and Food Sciences, University of 
+      Kentucky, Lexington 40546.
+FAU - Renaud, D L
+AU  - Renaud DL
+AD  - Department of Population Medicine, University of Guelph, Guelph, Ontario, N1G 2W1, 
+      Canada.
+FAU - Costa, J H C
+AU  - Costa JHC
+AD  - Dairy Science Program, Department of Animal and Food Sciences, University of 
+      Kentucky, Lexington 40546. Electronic address: costa@uky.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial, Veterinary
+DEP - 20210323
+PL  - United States
+TA  - J Dairy Sci
+JT  - Journal of dairy science
+JID - 2985126R
+SB  - IM
+MH  - *Animal Feed/analysis
+MH  - Animals
+MH  - Body Weight
+MH  - Cattle
+MH  - *Colostrum
+MH  - Diet/veterinary
+MH  - Dietary Supplements
+MH  - Female
+MH  - Milk
+MH  - Pregnancy
+MH  - Severity of Illness Index
+MH  - Weaning
+OTO - NOTNLM
+OT  - bovine respiratory disease
+OT  - diarrhea
+OT  - growth
+OT  - preweaning
+OT  - supplement
+EDAT- 2021/03/21 06:00
+MHDA- 2021/05/25 06:00
+CRDT- 2021/03/20 05:50
+PHST- 2020/09/16 00:00 [received]
+PHST- 2021/01/29 00:00 [accepted]
+PHST- 2021/03/21 06:00 [pubmed]
+PHST- 2021/05/25 06:00 [medline]
+PHST- 2021/03/20 05:50 [entrez]
+AID - S0022-0302(21)00434-3 [pii]
+AID - 10.3168/jds.2020-19654 [doi]
+PST - ppublish
+SO  - J Dairy Sci. 2021 Jun;104(6):7168-7176. doi: 10.3168/jds.2020-19654. Epub 2021 Mar 
+      23.
+
+PMID- 15363603
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20041230
+LR  - 20141120
+IS  - 0278-5846 (Print)
+IS  - 0278-5846 (Linking)
+VI  - 28
+IP  - 5
+DP  - 2004 Aug
+TI  - Role of oxidative stress in neurodegeneration: recent developments in assay methods 
+      for oxidative stress and nutraceutical antioxidants.
+PG  - 771-99
+AB  - Reactive oxygen species (ROS) are produced in the course of normal metabolism and 
+      they serve important physiological functions. However, because of their high 
+      reactivity, accumulation of ROS beyond the immediate needs of the cell may affect 
+      cellular structure and functional integrity, by bringing about oxidative degradation 
+      of critical molecules, such as the DNA, proteins, and lipids. Although cells possess 
+      an intricate network of defense mechanisms to neutralize excess ROS and reduce 
+      oxidative stress, some tissues, especially the brain, are much more vulnerable to 
+      oxidative stress because of their elevated consumption of oxygen and the consequent 
+      generation of large amounts of ROS. For the same reason, the mitochondrial DNA 
+      (mtDNA) of brain cells is highly susceptible to structural alterations resulting in 
+      mitochondrial dysfunction. Several lines of evidence strongly suggest that these 
+      effects of ROS may be etiologically related to a number of neurodegenerative 
+      disorders. Nutraceutical antioxidants are dietary supplements that can exert 
+      positive pharmacological effects on specific human diseases by neutralizing the 
+      negative effects of ROS. The present communication concentrates on a review of 
+      recent concepts and methodological developments, some of them based on the results 
+      of work from our own laboratory, on the following aspects: (1) the complex 
+      interactions and complementary interrelationships between oxidative stress, 
+      mitochondrial dysfunction, and various forms of neural degeneration; (2) 
+      fractionation and isolation of substances with antioxidant properties from plant 
+      materials, which are extensively used in the human diet and, therefore, can be 
+      expected to be less toxic in any pharmacological intervention; (3) recent 
+      developments in methodologies that can be used for the assay of oxidative stress and 
+      determination of biological activities of exogenous and endogenous antioxidants; and 
+      (4) presentation of simple procedures based on polymerase chain reaction (PCR) and 
+      restriction fragment length polymorphism (RFLP) of the resulting amplicon for 
+      investigations of structural alterations in mtDNA.
+FAU - Cui, Ke
+AU  - Cui K
+AD  - Department of Medical Biology, Faculty of Medicine, Laval University, Québec, Canada 
+      G1K 7P4.
+FAU - Luo, Xiaoling
+AU  - Luo X
+FAU - Xu, Keyi
+AU  - Xu K
+FAU - Ven Murthy, M R
+AU  - Ven Murthy MR
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+PL  - England
+TA  - Prog Neuropsychopharmacol Biol Psychiatry
+JT  - Progress in neuro-psychopharmacology & biological psychiatry
+JID - 8211617
+RN  - 0 (Antioxidants)
+RN  - 0 (Biological Factors)
+RN  - 0 (Reactive Oxygen Species)
+RN  - 9007-49-2 (DNA)
+SB  - IM
+MH  - Animals
+MH  - Antioxidants/isolation & purification/pharmacology/therapeutic use
+MH  - Biological Factors/isolation & purification/pharmacology/therapeutic use
+MH  - Chemistry Techniques, Analytical
+MH  - DNA/drug effects/isolation & purification
+MH  - Dose-Response Relationship, Drug
+MH  - Humans
+MH  - In Vitro Techniques
+MH  - Mitochondrial Diseases/complications/drug therapy
+MH  - Models, Biological
+MH  - Neurodegenerative Diseases/drug therapy/*metabolism
+MH  - Oxidative Stress/drug effects/*physiology
+MH  - Plasmids/drug effects/genetics
+MH  - Reactive Oxygen Species/*metabolism
+MH  - Reverse Transcriptase Polymerase Chain Reaction/methods
+RF  - 174
+EDAT- 2004/09/15 05:00
+MHDA- 2004/12/31 09:00
+CRDT- 2004/09/15 05:00
+PHST- 2004/05/10 00:00 [accepted]
+PHST- 2004/09/15 05:00 [pubmed]
+PHST- 2004/12/31 09:00 [medline]
+PHST- 2004/09/15 05:00 [entrez]
+AID - S0278-5846(04)00080-6 [pii]
+AID - 10.1016/j.pnpbp.2004.05.023 [doi]
+PST - ppublish
+SO  - Prog Neuropsychopharmacol Biol Psychiatry. 2004 Aug;28(5):771-99. doi: 
+      10.1016/j.pnpbp.2004.05.023.
+
+PMID- 22583924
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121017
+LR  - 20191210
+IS  - 2212-2672 (Print)
+IS  - 2212-2672 (Linking)
+VI  - 112
+IP  - 7
+DP  - 2012 Jul
+TI  - Biomarker and dietary validation of a Canadian food frequency questionnaire to 
+      measure eicosapentaenoic and docosahexaenoic acid intakes from whole food, 
+      functional food, and nutraceutical sources.
+PG  - 1005-14
+LID - 10.1016/j.jand.2012.03.030 [doi]
+AB  - BACKGROUND: Canadian dietary sources of eicosapentaenoic acid (EPA) and 
+      docosahexaenoic acid (DHA) include marine and non-marine whole foods, functional 
+      foods, and nutraceuticals. OBJECTIVE/DESIGN: In the present study, these sources 
+      were incorporated into a nutrient-specific, semi-quantitative food frequency 
+      questionnaire (FFQ) and the ability to measure the EPA and DHA intakes of Canadian 
+      adults was assessed. Specifically, the EPA and DHA intakes estimated by FFQ of 78 
+      men and women, 20 to 60 years of age, were compared with EPA and DHA measurements 
+      from 3-day food records and measures of EPA and DHA in fasting whole blood. RESULTS: 
+      Mean (±standard deviation) and median intakes of EPA+DHA were 0.34±0.34 and 0.21 
+      g/day by FFQ and 0.47±0.71 and 0.13 g/day by food record, with no significant 
+      differences between mean intakes (P=0.93). The FFQ provided higher estimates than 
+      the food record at low intakes of EPA and DHA and lower estimates at high intakes 
+      based on Bland-Altman plots. The FFQ was moderately correlated with food record 
+      (r=0.31 to 0.49) and with blood biomarker measures of EPA and DHA (r=0.31 to 0.51). 
+      Agreement analysis revealed that 42% of participants were classified in the same and 
+      77% into same or adjacent quartile when EPA and DHA intake was assessed by food 
+      record and by FFQ. Similar quartile agreement was found for EPA and DHA intakes by 
+      FFQ with blood biomarker EPA and DHA. The range of the validity coefficients, 
+      calculated using the method of triads, was 0.43 to 0.71 for FFQ measurement of 
+      EPA+DHA. CONCLUSIONS: The FFQ is an adequate tool for estimating usual EPA and DHA 
+      intakes and ranking Canadian adults by their intakes.
+CI  - Copyright © 2012 Academy of Nutrition and Dietetics. Published by Elsevier Inc. All 
+      rights reserved.
+FAU - Patterson, Ashley C
+AU  - Patterson AC
+AD  - Department of Kinesiology, University of Waterloo, Waterloo, Ontario, Canada.
+FAU - Hogg, Ryan C
+AU  - Hogg RC
+FAU - Kishi, Diane M
+AU  - Kishi DM
+FAU - Stark, Ken D
+AU  - Stark KD
+LA  - eng
+GR  - Canadian Institutes of Health Research/Canada
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Study
+DEP - 20120512
+PL  - United States
+TA  - J Acad Nutr Diet
+JT  - Journal of the Academy of Nutrition and Dietetics
+JID - 101573920
+RN  - 0 (Biomarkers)
+RN  - 25167-62-8 (Docosahexaenoic Acids)
+RN  - AAN7QOV9EA (Eicosapentaenoic Acid)
+SB  - IM
+MH  - Adult
+MH  - Biomarkers/blood
+MH  - Canada
+MH  - Diet Records
+MH  - *Diet Surveys/instrumentation/standards
+MH  - Dietary Supplements/analysis
+MH  - Docosahexaenoic Acids/*administration & dosage/analysis/blood
+MH  - Eicosapentaenoic Acid/*administration & dosage/analysis/blood
+MH  - Female
+MH  - Food Analysis/*methods
+MH  - Functional Food/analysis
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Seafood/analysis
+MH  - Surveys and Questionnaires/*standards
+MH  - Young Adult
+EDAT- 2012/05/16 06:00
+MHDA- 2012/10/18 06:00
+CRDT- 2012/05/16 06:00
+PHST- 2011/12/05 00:00 [received]
+PHST- 2012/03/23 00:00 [accepted]
+PHST- 2012/05/16 06:00 [entrez]
+PHST- 2012/05/16 06:00 [pubmed]
+PHST- 2012/10/18 06:00 [medline]
+AID - S2212-2672(12)00465-0 [pii]
+AID - 10.1016/j.jand.2012.03.030 [doi]
+PST - ppublish
+SO  - J Acad Nutr Diet. 2012 Jul;112(7):1005-14. doi: 10.1016/j.jand.2012.03.030. Epub 
+      2012 May 12.
+
+PMID- 34444777
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211004
+LR  - 20211004
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 13
+IP  - 8
+DP  - 2021 Jul 29
+TI  - Omega-3 Polyunsaturated Fatty Acid: A Pharmaco-Nutraceutical Approach to Improve the 
+      Responsiveness to Ursodeoxycholic Acid.
+LID - 10.3390/nu13082617 [doi]
+LID - 2617
+AB  - Ursodeoxycholic acid (UDCA) is the first line therapy for the treatment of 
+      cholestatic and autoimmune liver diseases. Its clinical use is currently limited by 
+      a significant proportion of non-responder patients. Polyunsaturated fatty acids (n-3 
+      PUFAs) possess important anti-inflammatory properties and protect liver cells 
+      against bile acid (BA)-induced toxicity. The present study was designed to rapidly 
+      evaluate whether combining n-3 PUFAs (i.e., eicosapentaenoic [EPA] and 
+      docosahexaenoic [DHA] acids) to UDCA would provide additional benefits when compared 
+      to the drug alone. The parameters evaluated were (i) the expression of genes 
+      governing BA synthesis, transport, and metabolism; (ii) the prevention of BA-induced 
+      apoptosis and endoplasmic reticulum (ER)-stress; and (iii) the control of BA- and 
+      LPS-dependent inflammation. In the absence of n-3 PUFAs, most of the parameters 
+      investigated were unaffected by UDCA or were only altered by the higher dose (500 
+      µM) of the drug. By contrast, in the presence of EPA/DHA (50/50 µM), all parameters 
+      showed a strongly improved response and the lowest UDCA dosage (50 µM) provided 
+      equal or better benefits than the highest dose used alone. For example, the 
+      combination EPA/DHA + UDCA 50 µM caused comparable down-regulation of the CYP7A1 
+      gene expression and of the BA-induced caspase 3 activity as observed with UDCA 500 
+      µM. In conclusion, these results suggest that the addition of n-3 PUFAs to UDCA may 
+      improve the response to the drug, and that such a pharmaco-nutraceutical approach 
+      could be used in clinic to open the narrow therapeutic dose of UDCA in cholestatic 
+      liver diseases.
+FAU - Thérien, Ariane
+AU  - Thérien A
+AD  - CHU de Québec Research Center, Québec, QC G1V 4G2, Canada.
+AD  - Faculty of Pharmacy, Université Laval, Québec, QC G1V 0A6, Canada.
+FAU - Cieślak, Anna
+AU  - Cieślak A
+AUID- ORCID: 0000-0001-5986-6333
+AD  - CHU de Québec Research Center, Québec, QC G1V 4G2, Canada.
+AD  - Faculty of Pharmacy, Université Laval, Québec, QC G1V 0A6, Canada.
+FAU - Verreault, Mélanie
+AU  - Verreault M
+AD  - CHU de Québec Research Center, Québec, QC G1V 4G2, Canada.
+FAU - Perreault, Martin
+AU  - Perreault M
+AD  - CHU de Québec Research Center, Québec, QC G1V 4G2, Canada.
+AD  - Faculty of Medicine, Université Laval, Québec, QC G1V 0A6, Canada.
+FAU - Trottier, Jocelyn
+AU  - Trottier J
+AD  - CHU de Québec Research Center, Québec, QC G1V 4G2, Canada.
+FAU - Gobeil, Stéphane
+AU  - Gobeil S
+AD  - CHU de Québec Research Center, Québec, QC G1V 4G2, Canada.
+AD  - Faculty of Medicine, Université Laval, Québec, QC G1V 0A6, Canada.
+FAU - Vohl, Marie-Claude
+AU  - Vohl MC
+AUID- ORCID: 0000-0002-7017-5848
+AD  - Centre Nutrition, Santé et Société (NUTRISS), Institute of Nutrition and Functional 
+      Foods (INAF), Université Laval, Québec, QC G1V 0A6, Canada.
+FAU - Barbier, Olivier
+AU  - Barbier O
+AUID- ORCID: 0000-0002-3067-1134
+AD  - CHU de Québec Research Center, Québec, QC G1V 4G2, Canada.
+AD  - Faculty of Pharmacy, Université Laval, Québec, QC G1V 0A6, Canada.
+AD  - Centre Nutrition, Santé et Société (NUTRISS), Institute of Nutrition and Functional 
+      Foods (INAF), Université Laval, Québec, QC G1V 0A6, Canada.
+LA  - eng
+GR  - NA/CAPMC/CIHR/Canada
+PT  - Journal Article
+DEP - 20210729
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Bile Acids and Salts)
+RN  - 0 (Fatty Acids, Omega-3)
+RN  - 724L30Y2QR (Ursodeoxycholic Acid)
+RN  - EC 1.14.14.23 (CYP7A1 protein, human)
+RN  - EC 1.14.14.23 (Cholesterol 7-alpha-Hydroxylase)
+RN  - EC 1.14.15.15 (CYP27A1 protein, human)
+RN  - EC 1.14.15.15 (Cholestanetriol 26-Monooxygenase)
+RN  - EC 3.4.22.- (Caspase 3)
+SB  - IM
+MH  - Apoptosis/drug effects
+MH  - Autoimmune Diseases
+MH  - Bile Acids and Salts/metabolism/toxicity
+MH  - Carcinoma, Hepatocellular
+MH  - Caspase 3
+MH  - Cholangitis, Sclerosing
+MH  - Cholestanetriol 26-Monooxygenase/genetics
+MH  - Cholestasis
+MH  - Cholesterol 7-alpha-Hydroxylase/genetics
+MH  - *Dietary Supplements
+MH  - Down-Regulation/drug effects
+MH  - Drug Therapy, Combination
+MH  - Endoplasmic Reticulum Stress/drug effects
+MH  - Fatty Acids, Omega-3/*metabolism/*pharmacology
+MH  - Gene Expression/drug effects
+MH  - Hep G2 Cells
+MH  - Humans
+MH  - Inflammation
+MH  - Liver/metabolism
+MH  - Liver Cirrhosis, Biliary
+MH  - Liver Diseases
+MH  - THP-1 Cells
+MH  - Ursodeoxycholic Acid/*pharmacology
+PMC - PMC8400581
+OTO - NOTNLM
+OT  - ER stress
+OT  - bile acid metabolism and toxicity
+OT  - cholestatic autoimmune liver diseases
+OT  - combination therapy
+OT  - inflammation
+OT  - omega-3 polyunsaturated fatty acids
+OT  - primary biliary cholangitis
+OT  - primary sclerosing cholangitis
+OT  - ursodeoxycholic acid
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/08/28 06:00
+MHDA- 2021/10/05 06:00
+CRDT- 2021/08/27 01:21
+PHST- 2021/06/08 00:00 [received]
+PHST- 2021/07/13 00:00 [revised]
+PHST- 2021/07/20 00:00 [accepted]
+PHST- 2021/08/27 01:21 [entrez]
+PHST- 2021/08/28 06:00 [pubmed]
+PHST- 2021/10/05 06:00 [medline]
+AID - nu13082617 [pii]
+AID - nutrients-13-02617 [pii]
+AID - 10.3390/nu13082617 [doi]
+PST - epublish
+SO  - Nutrients. 2021 Jul 29;13(8):2617. doi: 10.3390/nu13082617.
+
+PMID- 20213245
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100616
+LR  - 20181113
+IS  - 1573-4986 (Electronic)
+IS  - 0282-0080 (Linking)
+VI  - 27
+IP  - 3
+DP  - 2010 Apr
+TI  - Thymoquinone from nutraceutical black cumin oil activates Neu4 sialidase in live 
+      macrophage, dendritic, and normal and type I sialidosis human fibroblast cells via 
+      GPCR Galphai proteins and matrix metalloproteinase-9.
+PG  - 329-48
+LID - 10.1007/s10719-010-9281-6 [doi]
+AB  - Anti-inflammatory activities of thymoquinone (TQ) have been demonstrated in in vitro 
+      and in vivo studies. However, the precise mechanism(s) of TQ in these 
+      anti-inflammatory activities is not well understood. Using a newly developed assay 
+      to detect sialidase activity in live macrophage cells (Glycoconj J doi: 
+      10.1007/s10719-009-9239-8 ), here we show that TQ has no inhibitory effect on 
+      endotoxin lipopolysaccharide (LPS) induced sialidase activity in live BMC-2 
+      macrophage cells. In contrast, the parent black seed oil (BSO) and another 
+      constituent of BSO para-cymene (p-CY) completely block LPS induced sialidase 
+      activity. All of these compounds had no effect on cell viability. On the other hand, 
+      TQ induces a vigorous sialidase activity in live BMC-2 macrophage cells in a dose 
+      dependent manner as well in live DC-2.4 dendritic cells, HEK-TLR4/MD2, HEK293, SP1 
+      mammary adenocarcinoma cells, human WT and 1140F01 and WG0544 type I sialidosis 
+      fibroblast cells. Tamiflu (oseltamivir phosphate) inhibits TQ-induced sialidase 
+      activity in live BMC-2 cells with an IC(50) of 0.0194 microM compared to an IC(50) 
+      of 19.1 microM for neuraminidase inhibitor DANA 
+      (2-deoxy-2,3-dehydro-N-acetylneuraminic acid). Anti-Neu1, -2 and -3 antibodies have 
+      no inhibition of TQ-induced sialidase activity in live BMC-2 and human THP-1 
+      macrophage cells but anti-Neu4 antibodies completely block this activity. There is a 
+      vigorous sialidase activity associated with TQ treated live primary bone marrow (BM) 
+      macrophage cells derived from WT and hypomorphic cathepsin A mice with a secondary 
+      Neu1 deficiency (NeuI KD), but not from Neu4 knockout (Neu4 KO) mice. Pertussis 
+      toxin (PTX), a specific inhibitor of Galphai proteins of G-protein coupled receptor 
+      (GPCR) and the broad range inhibitors of matrix metalloproteinase (MMP) galardin and 
+      piperazine applied to live BMC-2, THP-1 and primary BM macrophage cells completely 
+      block TQ-induced sialidase activity. These same inhibitory effects are not observed 
+      with the GM1 ganglioside specific cholera toxin subunit B (CTXB) as well as with 
+      CTX, tyrosine kinase inhibitor K252a, and the broad range GPCR inhibitor suramin. 
+      The specific inhibitor of MMP-9, anti-MMP-9 antibody and anti-Neu4 antibody, but not 
+      the specific inhibitor of MMP-3 completely block TQ-induced sialidase activity in 
+      live THP-1 cells, which express Neu4 and MMP-9 on the cell surface. Neu4 sialidase 
+      activity in cell lysates from TQ-treated live THP-1 cells desialylates natural 
+      gangliosides and mucin substrates. RT-PCR and western blot analyses reveal no 
+      correlation between mRNA and protein values for Neu3 and Neu4 in human monocytic 
+      THP-1 cells, suggesting for the first time a varied post-transcriptional mechanism 
+      for these two mammalian sialidases independent of TQ activation. Our findings 
+      establish an unprecedented activation of Neu4 sialidase on the cell surface by 
+      thymoquinone, which is derived from the nutraceutical black cumin oil. The 
+      potentiation of GPCR-signaling by TQ via membrane targeting of Galphai subunit 
+      proteins and matrix metalloproteinase-9 activation may be involved in the activation 
+      process of Neu4 sialidase on the cell surface.
+FAU - Finlay, Trisha M
+AU  - Finlay TM
+AD  - Department of Microbiology & Immunology, Queen's University, Kingston, ON, K7L3N6, 
+      Canada. tmfinlay@ucalgary.ca
+FAU - Jayanth, Preethi
+AU  - Jayanth P
+FAU - Amith, Schammim Ray
+AU  - Amith SR
+FAU - Gilmour, Alanna
+AU  - Gilmour A
+FAU - Guzzo, Christina
+AU  - Guzzo C
+FAU - Gee, Katrina
+AU  - Gee K
+FAU - Beyaert, Rudi
+AU  - Beyaert R
+FAU - Szewczuk, Myron R
+AU  - Szewczuk MR
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100306
+PL  - United States
+TA  - Glycoconj J
+JT  - Glycoconjugate journal
+JID - 8603310
+RN  - 0 (Benzoquinones)
+RN  - 0 (Receptors, G-Protein-Coupled)
+RN  - EC 3.2.1.18 (Neuraminidase)
+RN  - EC 3.4.24.35 (Matrix Metalloproteinase 9)
+RN  - O60IE26NUF (thymoquinone)
+SB  - IM
+MH  - Animals
+MH  - Benzoquinones/chemistry/*pharmacology
+MH  - Blotting, Western
+MH  - Cell Line
+MH  - Cell Survival/drug effects
+MH  - Cells, Cultured
+MH  - Enzyme Activation/drug effects
+MH  - Fibroblasts/*enzymology
+MH  - Flow Cytometry
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Immunoprecipitation
+MH  - Macrophages/*enzymology
+MH  - Matrix Metalloproteinase 9/*metabolism
+MH  - Mice
+MH  - Mice, Knockout
+MH  - Mucolipidoses/*enzymology
+MH  - Neuraminidase/*metabolism
+MH  - Nigella sativa/*chemistry
+MH  - Polymerase Chain Reaction
+MH  - Receptors, G-Protein-Coupled/*metabolism
+EDAT- 2010/03/10 06:00
+MHDA- 2010/06/17 06:00
+CRDT- 2010/03/10 06:00
+PHST- 2009/09/10 00:00 [received]
+PHST- 2010/02/11 00:00 [accepted]
+PHST- 2010/01/29 00:00 [revised]
+PHST- 2010/03/10 06:00 [entrez]
+PHST- 2010/03/10 06:00 [pubmed]
+PHST- 2010/06/17 06:00 [medline]
+AID - 10.1007/s10719-010-9281-6 [doi]
+PST - ppublish
+SO  - Glycoconj J. 2010 Apr;27(3):329-48. doi: 10.1007/s10719-010-9281-6. Epub 2010 Mar 6.
+
+PMID- 19928815
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100208
+LR  - 20181201
+IS  - 1526-4602 (Electronic)
+IS  - 1525-7797 (Linking)
+VI  - 10
+IP  - 12
+DP  - 2009 Dec 14
+TI  - Elaboration and characterization of soy/zein protein microspheres for controlled 
+      nutraceutical delivery.
+PG  - 3327-34
+LID - 10.1021/bm900989y [doi]
+AB  - Microspheres (15-25 microm) of soy protein isolate (SPI), zein, and SPI/zein blends 
+      were prepared using a cold gelation method as possible delivery systems for 
+      nutraceutical products. Microsphere matrix crystalline structure, swelling behavior, 
+      and nutrient load release kinetics in simulated gastrointestinal fluids were 
+      investigated. SPI microspheres showed early burst release of the model nutrient, 
+      whereas zein microspheres showed very slow release in both simulated gastric and 
+      intestinal fluids. Blending of SPI and zein provides a convenient method of 
+      adjusting the hydrophobicity and crystallinity of the protein matrix and hence its 
+      swelling behavior and in vivo nutrient release kinetics. Diffusion plays a major 
+      role in regulating nutrient release. SPI/zein microspheres blended at ratios of 5:5 
+      and 3:7 showed near zero-order release kinetics over the test period in simulated 
+      intestinal buffer and thus have potential as delivery vehicles for nutraceutical 
+      products in functional foods.
+FAU - Chen, Lingyun
+AU  - Chen L
+AD  - Chaire de recherche du Canada sur les protéines, les bio-systèmes et les aliments 
+      fonctionnels, Institut de recherche sur les nutraceutiques et les aliments 
+      fonctionnels (INAF/STELA), Université Laval, Pavillon Paul Comtois, Sainte-Foy, 
+      Québec, G1K 7P4 Canada.
+FAU - Subirade, Muriel
+AU  - Subirade M
+LA  - eng
+GR  - Canadian Institutes of Health Research/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Biomacromolecules
+JT  - Biomacromolecules
+JID - 100892849
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Pharmaceutical Vehicles)
+RN  - 9010-66-6 (Zein)
+SB  - IM
+MH  - *Delayed-Action Preparations
+MH  - *Dietary Supplements
+MH  - Humans
+MH  - Intestinal Mucosa/metabolism
+MH  - *Microspheres
+MH  - *Pharmaceutical Vehicles
+MH  - Soybeans/*chemistry
+MH  - Zein/*chemistry
+EDAT- 2009/11/26 06:00
+MHDA- 2010/02/09 06:00
+CRDT- 2009/11/26 06:00
+PHST- 2009/11/26 06:00 [entrez]
+PHST- 2009/11/26 06:00 [pubmed]
+PHST- 2010/02/09 06:00 [medline]
+AID - 10.1021/bm900989y [doi]
+PST - ppublish
+SO  - Biomacromolecules. 2009 Dec 14;10(12):3327-34. doi: 10.1021/bm900989y.
+
+PMID- 19566470
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090818
+LR  - 20131121
+IS  - 0002-9645 (Print)
+IS  - 0002-9645 (Linking)
+VI  - 70
+IP  - 7
+DP  - 2009 Jul
+TI  - Evaluation of inflammatory responses induced via intra-articular injection of 
+      interleukin-1 in horses receiving a dietary nutraceutical and assessment of the 
+      clinical effects of long-term nutraceutical administration.
+PG  - 848-61
+LID - 10.2460/ajvr.70.7.848 [doi]
+AB  - OBJECTIVE: To evaluate inflammatory responses induced via intra-articular 
+      recombinant human interleukin (IL)-1beta treatment in horses receiving a dietary 
+      nutraceutical (DN; composed of mussel, shark cartilage, abalone, and Biota 
+      orientalis lipid extract) and assess the clinical effects of long-term DN 
+      administration. ANIMALS: 22 healthy horses. PROCEDURES: 12 horses were fed 0, 15, 
+      45, or 75 mg of DN (3 horses/treatment) daily for 84 days. General health and 
+      clinicopathologic variables were monitored at intervals. Ten other horses received 0 
+      or 15 g of DN/d (5 horses/treatment) for 29 days (beginning day -14). One 
+      intercarpal joint in each horse was injected twice with IL-1beta (10 and 100 ng on 
+      days 0 and 1, respectively), and the contralateral joint was similarly injected with 
+      saline (0.9% NaCl) solution. Synovial fluid prostaglandin E(2) (PGE(2)), sulfated 
+      glycosaminoglycan (GAG), nitric oxide (NO), and protein concentrations and leukocyte 
+      counts were analyzed before and at intervals after injections. RESULTS: 
+      Administration of the DN (up to 75 g/d) to horses for 84 days did not induce any 
+      adverse effects. In the other experiment, synovial fluid PGE(2), GAG, and protein 
+      concentrations and leukocyte count increased after intra-articular injections of 
+      IL-1beta (compared with effects of saline solution injections) in horses that 
+      received no DN; NO concentration was not affected. In horses that were fed the DN, 
+      intra-articular IL-1beta injections did not induce significant increases in synovial 
+      fluid PGE(2) and GAG concentrations. CONCLUSIONS AND CLINICAL RELEVANCE: Results 
+      suggested that administration of the DN may be useful in preventing inflammation 
+      associated with arthritis and degenerative joint disease in horses.
+FAU - Pearson, Wendy
+AU  - Pearson W
+AD  - Department of Plant Agriculture, Ontario Agriculture College, University of Guelph, 
+      Guelph, ON N1G 2W1, Canada.
+FAU - Orth, Michael W
+AU  - Orth MW
+FAU - Lindinger, Michael I
+AU  - Lindinger MI
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Vet Res
+JT  - American journal of veterinary research
+JID - 0375011
+RN  - 0 (Interleukin-1beta)
+RN  - 0 (Tissue Extracts)
+RN  - 0 (shark cartilage extract)
+RN  - 31C4KY9ESH (Nitric Oxide)
+SB  - IM
+MH  - Animal Feed
+MH  - Animals
+MH  - *Dietary Supplements
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Administration Schedule
+MH  - Horse Diseases/*chemically induced
+MH  - Horses
+MH  - Inflammation/chemically induced/*veterinary
+MH  - Injections, Intra-Articular
+MH  - Interleukin-1beta/administration & dosage/*adverse effects
+MH  - Mollusca
+MH  - Nitric Oxide/analysis
+MH  - Synovial Fluid/chemistry
+MH  - Thuja
+MH  - Time Factors
+MH  - Tissue Extracts
+EDAT- 2009/07/02 09:00
+MHDA- 2009/08/19 09:00
+CRDT- 2009/07/02 09:00
+PHST- 2009/07/02 09:00 [entrez]
+PHST- 2009/07/02 09:00 [pubmed]
+PHST- 2009/08/19 09:00 [medline]
+AID - 10.2460/ajvr.70.7.848 [doi]
+PST - ppublish
+SO  - Am J Vet Res. 2009 Jul;70(7):848-61. doi: 10.2460/ajvr.70.7.848.
+
+PMID- 26633352
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160923
+LR  - 20200225
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2015 Dec 3
+TI  - Influence of Excipients and Spray Drying on the Physical and Chemical Properties of 
+      Nutraceutical Capsules Containing Phytochemicals from Black Bean Extract.
+PG  - 21626-35
+LID - 10.3390/molecules201219792 [doi]
+AB  - Black beans (Phaseolus vulgaris L.) are a rich source of flavonoids and saponins 
+      with proven health benefits. Spray dried black bean extract powders were used in 
+      different formulations for the production of nutraceutical capsules with reduced 
+      batch-to-batch weight variability. Factorial designs were used to find an adequate 
+      maltodextrin-extract ratio for the spray-drying process to produce black bean 
+      extract powders. Several flowability properties were used to determine composite 
+      flow index of produced powders. Powder containing 6% maltodextrin had the highest 
+      yield (78.6%) and the best recovery of flavonoids and saponins (>56% and >73%, 
+      respectively). The new complexes formed by the interaction of black bean powder with 
+      maltodextrin, microcrystalline cellulose 50 and starch exhibited not only bigger 
+      particles, but also a rougher structure than using only maltodextrin and starch as 
+      excipients. A drying process prior to capsule production improved powder 
+      flowability, increasing capsule weight and reducing variability. The formulation 
+      containing 25.0% of maltodextrin, 24.1% of microcrystalline cellulose 50, 50% of 
+      starch and 0.9% of magnesium stearate produced capsules with less than 2.5% weight 
+      variability. The spray drying technique is a feasible technique to produce good flow 
+      extract powders containing valuable phytochemicals and low cost excipients to reduce 
+      the end-product variability.
+FAU - Guajardo-Flores, Daniel
+AU  - Guajardo-Flores D
+AD  - Centro de Biotecnología-FEMSA, Tecnológico de Monterrey, Campus Monterrey, 
+      Monterrey, Nuevo León 64849, Mexico. danielgdo@itesm.mx.
+FAU - Rempel, Curtis
+AU  - Rempel C
+AD  - Richardson Centre for Functional Foods and Nutraceuticals, Department of Food 
+      Science, University of Manitoba, Winnipeg, MB R3T2N2, Canada. 
+      cbrempel.sci@gmail.com.
+FAU - Gutiérrez-Uribe, Janet A
+AU  - Gutiérrez-Uribe JA
+AD  - Centro de Biotecnología-FEMSA, Tecnológico de Monterrey, Campus Monterrey, 
+      Monterrey, Nuevo León 64849, Mexico. jagu@itesm.mx.
+FAU - Serna-Saldívar, Sergio O
+AU  - Serna-Saldívar SO
+AD  - Centro de Biotecnología-FEMSA, Tecnológico de Monterrey, Campus Monterrey, 
+      Monterrey, Nuevo León 64849, Mexico. sserna@itesm.mx.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151203
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Capsules)
+RN  - 0 (Excipients)
+RN  - 0 (Phytochemicals)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Capsules/*chemistry
+MH  - Chemistry, Pharmaceutical
+MH  - *Desiccation
+MH  - Dietary Supplements/*analysis
+MH  - Excipients/*chemistry
+MH  - Fabaceae/*chemistry
+MH  - Particle Size
+MH  - Phytochemicals/*chemistry
+MH  - Plant Extracts/*chemistry
+PMC - PMC6332071
+OTO - NOTNLM
+OT  - Phaseolus vulgaris
+OT  - maltodextrin
+OT  - powder flow properties
+OT  - spray-drying
+COIS- The authors declare no conflict of interest.
+EDAT- 2015/12/04 06:00
+MHDA- 2016/09/24 06:00
+CRDT- 2015/12/04 06:00
+PHST- 2015/10/06 00:00 [received]
+PHST- 2015/10/20 00:00 [revised]
+PHST- 2015/11/19 00:00 [accepted]
+PHST- 2015/12/04 06:00 [entrez]
+PHST- 2015/12/04 06:00 [pubmed]
+PHST- 2016/09/24 06:00 [medline]
+AID - molecules201219792 [pii]
+AID - molecules-20-19792 [pii]
+AID - 10.3390/molecules201219792 [doi]
+PST - epublish
+SO  - Molecules. 2015 Dec 3;20(12):21626-35. doi: 10.3390/molecules201219792.
+
+PMID- 32084464
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210204
+LR  - 20210204
+IS  - 1879-0003 (Electronic)
+IS  - 0141-8130 (Linking)
+VI  - 151
+DP  - 2020 May 15
+TI  - Utilization of insect proteins to formulate nutraceutical delivery systems: 
+      Encapsulation and release of curcumin using mealworm protein-chitosan 
+      nano-complexes.
+PG  - 333-343
+LID - S0141-8130(19)40407-8 [pii]
+LID - 10.1016/j.ijbiomac.2020.02.198 [doi]
+AB  - The potential of using insect proteins to encapsulate and protect hydrophobic 
+      nutraceuticals within biopolymer nano-complexes was examined. Insect proteins were 
+      used to form nanoparticles that were uncoated or coated with chitosan. Initially, 
+      the nature of the curcumin-mealworm protein interaction was investigated. Curcumin 
+      mainly interacted with the hydrophobic core of the insect protein nanoparticles 
+      through hydrophobic forces. About one curcumin molecule bound per protein molecule 
+      in both the absence and presence of chitosan. The binding constants (K) were 
+      1.1 × 10(4) M(-1) and 0.7 × 10(4) M(-1) for curcumin loaded in the uncoated and 
+      coated nanoparticles, respectively. Differential scanning calorimetry showed 
+      increased thermal stability of the proteins after interaction with curcumin or 
+      chitosan. Encapsulation efficiency of the curcumin within the biopolymer 
+      nano-complexes was 30-47% depending on the system. Transmission electron microscopy 
+      and dynamic light scattering analysis showed that the biopolymer nano-complexes were 
+      spherical and relatively small (d = 143-178 nm). FTIR suggests that curcumin was 
+      stabilized more effectively in the coated nano-complexes, due to non-covalent 
+      intermolecular interactions. Curcumin release under oral, gastric, and intestinal 
+      conditions showed that over 90% of the nutraceutical was released after exposure to 
+      model gastrointestinal conditions. The findings demonstrate the potential of using 
+      insect proteins for fabricating colloidal delivery systems for water-insoluble 
+      nutraceuticals.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Okagu, Ogadimma D
+AU  - Okagu OD
+AD  - Department of Chemistry and Biomolecular Sciences, Faculty of Science, University of 
+      Ottawa, Ottawa, ON K1N 6N5, Canada.
+FAU - Verma, Ojasvi
+AU  - Verma O
+AD  - School of Nutrition Sciences, Faculty of Health Sciences, University of Ottawa, 
+      Ottawa, ON K1H 8M5, Canada; Department of Chemistry, Indian Institute of Technology, 
+      Gandhinagar, Gujarat 382355, India.
+FAU - McClements, David Julian
+AU  - McClements DJ
+AD  - Department of Food Science, University of Massachusetts, Amherst, MA 01003, USA.
+FAU - Udenigwe, Chibuike C
+AU  - Udenigwe CC
+AD  - Department of Chemistry and Biomolecular Sciences, Faculty of Science, University of 
+      Ottawa, Ottawa, ON K1N 6N5, Canada; School of Nutrition Sciences, Faculty of Health 
+      Sciences, University of Ottawa, Ottawa, ON K1H 8M5, Canada. Electronic address: 
+      cudenigw@uottawa.ca.
+LA  - eng
+PT  - Journal Article
+DEP - 20200219
+PL  - Netherlands
+TA  - Int J Biol Macromol
+JT  - International journal of biological macromolecules
+JID - 7909578
+RN  - 0 (Biopolymers)
+RN  - 0 (Drug Carriers)
+RN  - 0 (Insect Proteins)
+RN  - 9012-76-4 (Chitosan)
+RN  - IT942ZTH98 (Curcumin)
+SB  - IM
+MH  - Animals
+MH  - Biopolymers
+MH  - Chemical Phenomena
+MH  - Chitosan/*chemistry
+MH  - Curcumin/*chemistry
+MH  - *Dietary Supplements/analysis
+MH  - Drug Carriers
+MH  - Hydrophobic and Hydrophilic Interactions
+MH  - Insect Proteins/*chemistry
+MH  - Nanocomposites/*chemistry
+MH  - Particle Size
+MH  - Protein Stability
+MH  - Spectrum Analysis
+MH  - Tenebrio/chemistry
+OTO - NOTNLM
+OT  - Chitosan
+OT  - Controlled release
+OT  - Curcumin
+OT  - Insect protein
+OT  - Molecular interactions
+OT  - Nano-complexes
+COIS- Declaration of competing interest Authors declare that there are no conflicts of 
+      interest associated with this manuscript.
+EDAT- 2020/02/23 06:00
+MHDA- 2021/02/05 06:00
+CRDT- 2020/02/22 06:00
+PHST- 2019/12/18 00:00 [received]
+PHST- 2020/02/13 00:00 [revised]
+PHST- 2020/02/16 00:00 [accepted]
+PHST- 2020/02/23 06:00 [pubmed]
+PHST- 2021/02/05 06:00 [medline]
+PHST- 2020/02/22 06:00 [entrez]
+AID - S0141-8130(19)40407-8 [pii]
+AID - 10.1016/j.ijbiomac.2020.02.198 [doi]
+PST - ppublish
+SO  - Int J Biol Macromol. 2020 May 15;151:333-343. doi: 10.1016/j.ijbiomac.2020.02.198. 
+      Epub 2020 Feb 19.
+
+PMID- 33740839
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220104
+LR  - 20220104
+IS  - 1473-2165 (Electronic)
+IS  - 1473-2130 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2022 Jan
+TI  - The use of a novel low irritancy nutraceutical compound to treat moderately severe 
+      facial acne and acne scarring.
+PG  - 405-406
+LID - 10.1111/jocd.14084 [doi]
+FAU - Nazarali, Samina
+AU  - Nazarali S
+AUID- ORCID: 0000-0002-6988-5834
+AD  - Michael G. DeGroote School of Medicine, McMaster University, Hamilton, ON, Canada.
+FAU - Sajic, Dusan
+AU  - Sajic D
+AD  - Guelph Dermatology Research, Guelph, ON, Canada.
+LA  - eng
+GR  - Derma Research Group/
+PT  - Letter
+DEP - 20210403
+PL  - England
+TA  - J Cosmet Dermatol
+JT  - Journal of cosmetic dermatology
+JID - 101130964
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Irritants)
+RN  - W9WZN9A0GM (Benzoyl Peroxide)
+SB  - IM
+MH  - *Acne Vulgaris/complications/drug therapy
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Benzoyl Peroxide
+MH  - *Cicatrix/drug therapy/etiology/pathology
+MH  - Dietary Supplements
+MH  - Humans
+MH  - Irritants
+OTO - NOTNLM
+OT  - acne
+OT  - benzoyl peroxide
+OT  - retinol
+OT  - scars
+OT  - treatment-topical
+EDAT- 2021/03/20 06:00
+MHDA- 2022/01/05 06:00
+CRDT- 2021/03/19 20:28
+PHST- 2021/02/27 00:00 [revised]
+PHST- 2021/02/14 00:00 [received]
+PHST- 2021/03/16 00:00 [accepted]
+PHST- 2021/03/20 06:00 [pubmed]
+PHST- 2022/01/05 06:00 [medline]
+PHST- 2021/03/19 20:28 [entrez]
+AID - 10.1111/jocd.14084 [doi]
+PST - ppublish
+SO  - J Cosmet Dermatol. 2022 Jan;21(1):405-406. doi: 10.1111/jocd.14084. Epub 2021 Apr 3.
+
+PMID- 11533319
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20011004
+LR  - 20180508
+IS  - 0022-3166 (Print)
+IS  - 0022-3166 (Linking)
+VI  - 131
+IP  - 9 Suppl
+DP  - 2001 Sep
+TI  - In search of the magic nutraceutical: problems with current approaches.
+PG  - 2591S-5S
+LID - 10.1093/jn/131.9.2591S [doi]
+AB  - Over the last few decades, substrates with immune-modulating properties have been 
+      identified in all groups of micro- and macronutrients. Numerous experimental studies 
+      have focused on evaluating these substances, either alone or in combination. After 
+      hundreds of experiments, no clear, consistent signal exists that any of these agents 
+      result in significant treatment benefits in critically ill patients. The current 
+      approach to establishing the efficacy of nutritional interventions suffers from 
+      several limitations. First, the majority of studies focus on surrogate or substitute 
+      end points rather than clinically important end points. Second, the majority of 
+      clinical studies are small, and as such are underpowered to detect a significant 
+      treatment effect on clinically important end points. Third, the methodological 
+      quality of individual randomized trials varies. Methodological limitations, 
+      prevalent in nutrition studies, limit the strength of clinical inference that can be 
+      made from study results. High quality studies have been shown to differ 
+      significantly from low quality studies in their estimation of treatment effect. 
+      Fourth, the generalizability of single-site studies is limited. Finally, studies 
+      sponsored solely by industry are considered to be less believable than studies 
+      conducted under the auspices of peer-review agencies. Future evaluations must be 
+      done in the context of large, multicenter, well-designed, randomized trials focusing 
+      on clinically important end points that are sponsored from a variety of sources 
+      (including peer-reviewed agencies). Although such trials are costly, they are 
+      feasible and are much more likely to be believable and generalizable than the 
+      current approach.
+FAU - Heyland, D K
+AU  - Heyland DK
+AD  - Department of Medicine, Queen's University, Kingston, Ontario, Canada.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+PL  - United States
+TA  - J Nutr
+JT  - The Journal of nutrition
+JID - 0404243
+SB  - IM
+MH  - Clinical Trials as Topic/*methods
+MH  - Critical Care
+MH  - Critical Illness/therapy
+MH  - Drug Industry
+MH  - Enteral Nutrition
+MH  - Humans
+MH  - *Nutritional Support
+MH  - Parenteral Nutrition, Total/adverse effects/mortality
+MH  - Peer Review, Research
+MH  - Randomized Controlled Trials as Topic/methods
+MH  - Research Design
+MH  - Risk
+RF  - 30
+EDAT- 2001/09/05 10:00
+MHDA- 2001/10/05 10:01
+CRDT- 2001/09/05 10:00
+PHST- 2001/09/05 10:00 [pubmed]
+PHST- 2001/10/05 10:01 [medline]
+PHST- 2001/09/05 10:00 [entrez]
+AID - 10.1093/jn/131.9.2591S [doi]
+PST - ppublish
+SO  - J Nutr. 2001 Sep;131(9 Suppl):2591S-5S. doi: 10.1093/jn/131.9.2591S.
+
+PMID- 15885766
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20051011
+LR  - 20161124
+IS  - 0142-9612 (Print)
+IS  - 0142-9612 (Linking)
+VI  - 26
+IP  - 30
+DP  - 2005 Oct
+TI  - Chitosan/beta-lactoglobulin core-shell nanoparticles as nutraceutical carriers.
+PG  - 6041-53
+AB  - Chitosan (CS)/beta-lactoglobulin (betalg) core-shell nanoparticles (CS-betalg 
+      nanoparticle) were successfully prepared with the aim of developing a biocompatible 
+      carrier for the oral administration of nutraceuticals. The effects of pH and initial 
+      concentrations (C(beta)(lg)) of native and denatured betalg on the properties of the 
+      nanoparticles were investigated. Uniform nanoparticles were prepared by ionic 
+      gelation with sodium tripolyphosphate (TPP). The surface charge of the particles was 
+      positive, with a zeta potential of 20-60 mV. (beta)lg loading efficiency (LE) 
+      spanned a broad range (1-60%); and was highly sensitive to formulation pH. This 
+      adsorption can be mainly attributed to electrostatic, hydrophobic interactions and 
+      hydrogen bonding between (beta)lg and CS. Brilliant blue (BB) release experiments 
+      showed that the nanoparticles prepared with native (beta)lg had favorable properties 
+      to resist acid and pepsin degradation in simulated gastric conditions unlike those 
+      prepared with denatured (beta)lg or denatured (beta)lg crosslinked with Ca2+. When 
+      transferred to simulated intestinal conditions, the (beta)lg shells of the 
+      nanoparticles were degraded by pancreatin.
+FAU - Chen, Lingyun
+AU  - Chen L
+AD  - Chaire de recherche du Canada sur les protéines, Institut de recherche sur les 
+      nutraceutiques et les aliments fonctionnels (INAF/STELA), Université Laval, Pavillon 
+      Paul Comtois, Sainte-Foy, Qué., Canada.
+FAU - Subirade, Muriel
+AU  - Subirade M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Biomaterials
+JT  - Biomaterials
+JID - 8100316
+RN  - 0 (Benzenesulfonates)
+RN  - 0 (Cross-Linking Reagents)
+RN  - 0 (Drug Carriers)
+RN  - 0 (Ions)
+RN  - 0 (Lactoglobulins)
+RN  - 0 (Polyphosphates)
+RN  - 8049-47-6 (Pancreatin)
+RN  - 9012-76-4 (Chitosan)
+RN  - EC 3.4.23.1 (Pepsin A)
+RN  - H3R47K3TBD (brilliant blue)
+RN  - NU43IAG5BC (triphosphoric acid)
+SB  - IM
+MH  - Adsorption
+MH  - Benzenesulfonates/pharmacology
+MH  - Chitosan/*chemistry
+MH  - Cross-Linking Reagents/pharmacology
+MH  - Dose-Response Relationship, Drug
+MH  - *Drug Carriers
+MH  - Drug Delivery Systems
+MH  - Hydrogen Bonding
+MH  - Hydrogen-Ion Concentration
+MH  - Ions
+MH  - Lactoglobulins/*chemistry
+MH  - Microscopy, Electron, Transmission
+MH  - Nanostructures/*chemistry
+MH  - Nanotechnology
+MH  - Pancreatin/chemistry
+MH  - Pepsin A/chemistry
+MH  - Polyphosphates/chemistry
+MH  - Static Electricity
+MH  - Surface Properties
+MH  - Time Factors
+EDAT- 2005/05/12 09:00
+MHDA- 2005/10/12 09:00
+CRDT- 2005/05/12 09:00
+PHST- 2004/10/27 00:00 [received]
+PHST- 2005/03/08 00:00 [accepted]
+PHST- 2005/05/12 09:00 [pubmed]
+PHST- 2005/10/12 09:00 [medline]
+PHST- 2005/05/12 09:00 [entrez]
+AID - S0142-9612(05)00229-2 [pii]
+AID - 10.1016/j.biomaterials.2005.03.011 [doi]
+PST - ppublish
+SO  - Biomaterials. 2005 Oct;26(30):6041-53. doi: 10.1016/j.biomaterials.2005.03.011.
+
+PMID- 19046001
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090811
+LR  - 20131121
+IS  - 0002-9645 (Print)
+IS  - 0002-9645 (Linking)
+VI  - 69
+IP  - 12
+DP  - 2008 Dec
+TI  - Effects of simulated digests of Biota orientalis and a dietary nutraceutical on 
+      interleukin-1- induced inflammatory responses in cartilage explants.
+PG  - 1560-8
+LID - 10.2460/ajvr.69.12.1560 [doi]
+AB  - OBJECTIVE: To test the hypothesis that simulated digests of Biota orientalis (BO) 
+      and a dietary nutraceutical (DN; composed of mussel, shark cartilage, abalone, and 
+      BO seed lipid extract) inhibit prostaglandin E2 (PGE2), nitric oxide (NO), and 
+      glycosaminoglycan (GAG) production in interleukin (IL)-1-stimulated cartilage 
+      explants. SAMPLE POPULATION: Cartilage tissue from 12 pigs. PROCEDURES: Articular 
+      cartilage explants were conditioned with a simulated digest of BO (BOsim) or DN 
+      (DNsim) at concentrations of 0, 0.06, or 0.18 mg/mL or indomethacin (INDOsim; 0 or 
+      0.02 mg/mL) for 72 hours. Control explants received digest vehicle only. Explants 
+      were or were not stimulated with recombinant human-IL-1beta (10 or 0 ng/mL) during 
+      the final 48 hours of culture. Concentrations of PGE2, GAG, and NO in media samples 
+      (mPGE2,mGAG, and mNO concentrations, respectively) were analyzed, and explant tissue 
+      was stained fluorochromatically to determine chondrocyte viability. Treatment 
+      effects during the final 48-hour culture period were analyzed. RESULTS: IL-1 
+      increased mPGE2, mGAG, and mNO concentrations in control explants without adversely 
+      affecting cell viability. Treatment with INDOsim blocked PGE2 production and 
+      increased mNO concentration in IL-1-stimulated and unstimulated explants and 
+      increased mGAG concentration in unstimulated explants. Treatment with DNsim (0.06 
+      and 0.18 mg/mL) reduced mPGE2 concentration in IL-1-stimulated and unstimulated 
+      explants, reduced mNO concentration in IL-1-stimulated explants, and increased mNO 
+      concentration in unstimulated explants. Treatment with 0.18 mg of DNsim/mL increased 
+      cell viability in the presence of IL-1. In IL-1-stimulated explants, BOsim (0.06 and 
+      0.18 mg/mL) reduced mPGE2 concentration, but 0.18 mg of BOsim/mL increased cell 
+      viability. CONCLUSIONS AND CLINICAL RELEVANCE: Effects of IL-1 on cartilage explants 
+      in vitro were modulated by DNsim and BOsim.
+FAU - Pearson, Wendy
+AU  - Pearson W
+AD  - Department of Biomedical Sciences, Ontario Veterinary College, University of Guelph, 
+      Guelph, ON N1G 2W1, Canada.
+FAU - Orth, Michael W
+AU  - Orth MW
+FAU - Karrow, Niel A
+AU  - Karrow NA
+FAU - Lindinger, Michael I
+AU  - Lindinger MI
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Vet Res
+JT  - American journal of veterinary research
+JID - 0375011
+RN  - 0 (Glycosaminoglycans)
+RN  - 0 (Interleukin-1)
+RN  - 0 (Tissue Extracts)
+RN  - 0 (shark cartilage extract)
+RN  - 31C4KY9ESH (Nitric Oxide)
+RN  - K7Q1JQR04M (Dinoprostone)
+SB  - IM
+MH  - Animals
+MH  - Cartilage/cytology/*drug effects/*metabolism
+MH  - *Dietary Supplements
+MH  - Dinoprostone/metabolism
+MH  - Glycosaminoglycans/metabolism
+MH  - Honey
+MH  - Interleukin-1/*pharmacology
+MH  - Mollusca
+MH  - Nitric Oxide/metabolism
+MH  - Perna
+MH  - Swine
+MH  - *Thuja
+MH  - Tissue Culture Techniques
+MH  - Tissue Extracts
+EDAT- 2008/12/03 09:00
+MHDA- 2009/08/12 09:00
+CRDT- 2008/12/03 09:00
+PHST- 2008/12/03 09:00 [pubmed]
+PHST- 2009/08/12 09:00 [medline]
+PHST- 2008/12/03 09:00 [entrez]
+AID - 10.2460/ajvr.69.12.1560 [doi]
+PST - ppublish
+SO  - Am J Vet Res. 2008 Dec;69(12):1560-8. doi: 10.2460/ajvr.69.12.1560.
+
+PMID- 23871014
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140131
+LR  - 20141120
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 141
+IP  - 3
+DP  - 2013 Dec 1
+TI  - Encapsulation of coenzyme Q10 in a simple emulsion-based nutraceutical formulation 
+      and application in cheese manufacturing.
+PG  - 2707-12
+LID - S0308-8146(13)00642-0 [pii]
+LID - 10.1016/j.foodchem.2013.05.057 [doi]
+AB  - Coenzyme Q10 (CoQ10) was encapsulated successfully in a nutraceutical formulation 
+      composed of calcium caseinate, flaxseed oil and lecithin. The effect of CoQ10 on the 
+      physico-chemical stability of emulsions was compared to emulsions without CoQ10. 
+      According to ATR-FTIR analysis, emulsions were found to be more stable in the 
+      presence of CoQ10. The emulsion with CoQ10 was used as a functional cream in the 
+      cheese making process. The retention rate of CoQ10, composition and cheese yield 
+      were also determined. Quantification of CoQ10 by HPLC showed that the retention of 
+      this lipophilic agent into cheese matrix was 93% and equivalent to the total lipid 
+      retention. Protein retention and cheese yield were not affected by the addition of 
+      the functional cream. For the first time, CoQ10 has been encapsulated in a cheese 
+      matrix, hence demonstrating that CoQ10 could be used in the development of 
+      functional cheeses.
+CI  - Copyright © 2013 Elsevier Ltd. All rights reserved.
+FAU - Stratulat, Iulia
+AU  - Stratulat I
+AD  - Research Laboratories in Sciences Applied to Food, Canadian Irradiation Centre, INRS 
+      - Institut Armand-Frappier, 531 Boulevard des Prairies, Laval, Québec, Canada H7V 
+      1B7.
+FAU - Britten, Michel
+AU  - Britten M
+FAU - Salmieri, Stéphane
+AU  - Salmieri S
+FAU - St-Gelais, Daniel
+AU  - St-Gelais D
+FAU - Champagne, Claude P
+AU  - Champagne CP
+FAU - Fustier, Patrick
+AU  - Fustier P
+FAU - Lacroix, Monique
+AU  - Lacroix M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130524
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 0 (Emulsions)
+RN  - 0 (Food Additives)
+RN  - 1339-63-5 (Ubiquinone)
+RN  - EJ27X76M46 (coenzyme Q10)
+SB  - IM
+MH  - Animals
+MH  - Cattle
+MH  - Cheese/*analysis
+MH  - Chemistry, Pharmaceutical
+MH  - Dietary Supplements/*analysis
+MH  - Emulsions/chemistry
+MH  - Food Additives/*chemistry
+MH  - Milk/*chemistry
+MH  - Particle Size
+MH  - Ubiquinone/*analogs & derivatives/chemistry
+OTO - NOTNLM
+OT  - Cheese
+OT  - Coenzyme Q(10)
+OT  - Emulsion
+OT  - Encapsulation
+OT  - Stability
+EDAT- 2013/07/23 06:00
+MHDA- 2014/02/01 06:00
+CRDT- 2013/07/23 06:00
+PHST- 2013/01/09 00:00 [received]
+PHST- 2013/04/05 00:00 [revised]
+PHST- 2013/05/09 00:00 [accepted]
+PHST- 2013/07/23 06:00 [entrez]
+PHST- 2013/07/23 06:00 [pubmed]
+PHST- 2014/02/01 06:00 [medline]
+AID - S0308-8146(13)00642-0 [pii]
+AID - 10.1016/j.foodchem.2013.05.057 [doi]
+PST - ppublish
+SO  - Food Chem. 2013 Dec 1;141(3):2707-12. doi: 10.1016/j.foodchem.2013.05.057. Epub 2013 
+      May 24.
+
+PMID- 29845181
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190123
+LR  - 20190123
+IS  - 2040-3372 (Electronic)
+IS  - 2040-3364 (Linking)
+VI  - 10
+IP  - 22
+DP  - 2018 Jun 7
+TI  - Novel protein-lipid composite nanoparticles with an inner aqueous compartment as 
+      delivery systems of hydrophilic nutraceutical compounds.
+PG  - 10629-10640
+LID - 10.1039/c8nr01009a [doi]
+AB  - Food protein and lipid based nanoparticles have attracted recent interest as a means 
+      of delivering nutraceuticals. Nanoparticle encapsulation of nutraceuticals faces 
+      challenges to overcome for it to be readily applied in the food industry, such as 
+      low encapsulation efficiency for hydrophilic compounds and poor stability once in 
+      the gastrointestinal tract. This research introduces a new protein-lipid composite 
+      nanoparticle with a three-layered structure (a barley protein layer, α-tocopherol 
+      layer and phospholipid layer) and an inner aqueous compartment to load hydrophilic 
+      nutraceuticals. This delivery system showed efficient encapsulation of vitamin B12 
+      (69%) and controlled release behavior in simulated gastrointestinal media. An in 
+      vitro cell evaluation demonstrated that nanoparticles could internalize into Caco-2 
+      cells via energy-dependent endocytosis and significantly increase the uptake and 
+      transport efficiency of vitamin B12 in this model. In vivo, the developed vitamin 
+      B12 loaded nanoparticle showed increased serum vitamin B12 levels upon oral 
+      administration and reduced the methylmalonic acid level more efficiently than the 
+      free form in rats. A 14-day in vivo toxicity study showed no evidence of toxicity in 
+      rats implying the safety of the developed nanoparticles in long term use. Overall, 
+      the results of this study show the great potential of the developed nanoparticles in 
+      increasing the absorption of vitamin B12 upon oral administration.
+FAU - Liu, Guangyu
+AU  - Liu G
+AD  - Department of Agricultural, Food and Nutritional Science, University of Alberta, 
+      Alberta, Canada. lingyun.chen@ualberta.ca.
+FAU - Huang, Weijuan
+AU  - Huang W
+FAU - Babii, Oksana
+AU  - Babii O
+FAU - Gong, Xiaoyu
+AU  - Gong X
+FAU - Tian, Zhigang
+AU  - Tian Z
+FAU - Yang, Jingqi
+AU  - Yang J
+FAU - Wang, Yixiang
+AU  - Wang Y
+FAU - Jacobs, René L
+AU  - Jacobs RL
+FAU - Donna, Vine
+AU  - Donna V
+FAU - Lavasanifar, Afsaneh
+AU  - Lavasanifar A
+FAU - Chen, Lingyun
+AU  - Chen L
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Nanoscale
+JT  - Nanoscale
+JID - 101525249
+RN  - 0 (Drug Carriers)
+RN  - 0 (Lipids)
+RN  - 0 (Proteins)
+RN  - P6YC3EG204 (Vitamin B 12)
+SB  - IM
+MH  - Administration, Oral
+MH  - Animals
+MH  - Caco-2 Cells
+MH  - *Dietary Supplements
+MH  - Drug Carriers/*chemistry
+MH  - Humans
+MH  - Lipids/*chemistry
+MH  - Male
+MH  - Nanoparticles/*chemistry
+MH  - Particle Size
+MH  - Proteins/*chemistry
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Vitamin B 12/administration & dosage
+EDAT- 2018/05/31 06:00
+MHDA- 2019/01/24 06:00
+CRDT- 2018/05/31 06:00
+PHST- 2018/05/31 06:00 [pubmed]
+PHST- 2019/01/24 06:00 [medline]
+PHST- 2018/05/31 06:00 [entrez]
+AID - 10.1039/c8nr01009a [doi]
+PST - ppublish
+SO  - Nanoscale. 2018 Jun 7;10(22):10629-10640. doi: 10.1039/c8nr01009a.
+
+PMID- 21210105
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110630
+LR  - 20191210
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Linking)
+VI  - 90
+IP  - 2
+DP  - 2011 Apr
+TI  - Molecular analysis of ∆6 desaturase and ∆6 elongase from Conidiobolus obscurus in 
+      the biosynthesis of eicosatetraenoic acid, a ω3 fatty acid with nutraceutical 
+      potentials.
+PG  - 591-601
+LID - 10.1007/s00253-010-3060-y [doi]
+AB  - Conidiobolus obscurus, an entomopathogenic fungus able to infect aphids, was 
+      previously reported to produce substantial amounts of very long chain 
+      polyunsaturated fatty acids (VLCPUFAs) that may mediate the insect infection. 
+      However, the genes involved in the biosynthesis of these VLCPUFAs from the order 
+      Entomophthorales have yet to be identified. Using degenerate reverse 
+      transcriptase-polymerase chain reaction and rapid amplification of the cDNA end 
+      methods, we cloned a ∆6 desaturase cDNA (CoD6) and a ∆6 elongase cDNA (CoE6) from C. 
+      obscurus. Expression of CoD6 and CoE6 in Saccharomyces cerevisiae revealed CoD6 
+      could introduce a Δ6 double bond into α-linolenic acid (18:3n-3), and CoE6 
+      preferentially elongated 18-carbon Δ6 desaturated fatty acid stearidonic acid 
+      (18:4n-3). When the fungus was grown under a temperature shift from 20 °C to 10 °C, 
+      the transcript level of CoD6 and CoE6 increased, whereas when the fungal culture was 
+      shifted from 20 °C to 30 °C, the transcript level of both genes decreased. The 
+      entire eicosatetraenoic acid biosynthetic pathway was reconstituted in yeast using 
+      four genes, CoD6 and CoE6 from C. obscurus, CpDes12 (a Δ12 desaturase) and CpDesX (a 
+      ω3 desaturase) from Claviceps purpurea. Yeast transformants expressing the four 
+      genes produced ten new fatty acids including the final product eicosatetraenoic acid 
+      (ETA). This represents the reconstitution of the entire ETA pathway in yeast without 
+      supplementation of any exogenous fatty acids.
+CI  - © Springer-Verlag 2011
+FAU - Tan, Li
+AU  - Tan L
+AD  - Department of Food and Bioproduct Sciences, University of Saskatchewan, Saskatoon, 
+      SK, Canada S7N 5A8.
+FAU - Meesapyodsuk, Dauenpen
+AU  - Meesapyodsuk D
+FAU - Qiu, Xiao
+AU  - Qiu X
+LA  - eng
+PT  - Journal Article
+DEP - 20110106
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - 0 (Arachidonic Acids)
+RN  - 0 (DNA, Complementary)
+RN  - 0 (Fatty Acids, Omega-3)
+RN  - 0 (Fungal Proteins)
+RN  - EC 1.14.19.3 (Linoleoyl-CoA Desaturase)
+RN  - EC 2.3.1.- (Acetyltransferases)
+RN  - EC 2.3.1.- (Fatty Acid Elongases)
+RN  - P4CEK3495O (stearidonic acid)
+SB  - IM
+MH  - Acetyltransferases/*metabolism
+MH  - Arachidonic Acids/*biosynthesis
+MH  - Claviceps/genetics/metabolism
+MH  - Cloning, Molecular
+MH  - Conidiobolus/*enzymology/genetics
+MH  - DNA, Complementary/genetics/isolation & purification
+MH  - Dietary Supplements
+MH  - Fatty Acid Elongases
+MH  - Fatty Acids, Omega-3/analysis/metabolism
+MH  - Fungal Proteins/analysis/*metabolism
+MH  - Gene Expression Regulation, Fungal
+MH  - Linoleoyl-CoA Desaturase/analysis/*metabolism
+MH  - Saccharomyces cerevisiae/genetics/metabolism
+EDAT- 2011/01/07 06:00
+MHDA- 2011/07/01 06:00
+CRDT- 2011/01/07 06:00
+PHST- 2010/08/13 00:00 [received]
+PHST- 2010/12/06 00:00 [accepted]
+PHST- 2010/12/05 00:00 [revised]
+PHST- 2011/01/07 06:00 [entrez]
+PHST- 2011/01/07 06:00 [pubmed]
+PHST- 2011/07/01 06:00 [medline]
+AID - 10.1007/s00253-010-3060-y [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2011 Apr;90(2):591-601. doi: 10.1007/s00253-010-3060-y. 
+      Epub 2011 Jan 6.
+
+PMID- 23322708
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130813
+LR  - 20131121
+IS  - 1521-3773 (Electronic)
+IS  - 1433-7851 (Linking)
+VI  - 52
+IP  - 8
+DP  - 2013 Feb 18
+TI  - pH-responsive nutraceutical-mesoporous silica nanoconjugates with enhanced colloidal 
+      stability.
+PG  - 2318-22
+LID - 10.1002/anie.201208840 [doi]
+FAU - Guillet-Nicolas, Rémy
+AU  - Guillet-Nicolas R
+AD  - Department of Chemistry and Centre de Recherche sur les Matériaux Avancés, 
+      Université Laval, G1V 0A6, Quebec, QC, Canada.
+FAU - Popat, Amirali
+AU  - Popat A
+FAU - Bridot, Jean-Luc
+AU  - Bridot JL
+FAU - Monteith, Gregory
+AU  - Monteith G
+FAU - Qiao, Shi Zhang
+AU  - Qiao SZ
+FAU - Kleitz, Freddy
+AU  - Kleitz F
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130115
+PL  - Germany
+TA  - Angew Chem Int Ed Engl
+JT  - Angewandte Chemie (International ed. in English)
+JID - 0370543
+RN  - 0 (Colloids)
+RN  - 0 (Nanoconjugates)
+RN  - 7631-86-9 (Silicon Dioxide)
+RN  - WK2XYI10QM (Ibuprofen)
+SB  - IM
+MH  - Colloids/*chemistry
+MH  - Drug Delivery Systems
+MH  - Drug Stability
+MH  - Hydrogen-Ion Concentration
+MH  - Ibuprofen/chemistry/pharmacology
+MH  - Microscopy, Electron, Transmission
+MH  - Nanoconjugates/*chemistry
+MH  - Porosity
+MH  - Silicon Dioxide/*chemistry
+EDAT- 2013/01/17 06:00
+MHDA- 2013/08/14 06:00
+CRDT- 2013/01/17 06:00
+PHST- 2012/11/04 00:00 [received]
+PHST- 2012/12/12 00:00 [revised]
+PHST- 2013/01/17 06:00 [entrez]
+PHST- 2013/01/17 06:00 [pubmed]
+PHST- 2013/08/14 06:00 [medline]
+AID - 10.1002/anie.201208840 [doi]
+PST - ppublish
+SO  - Angew Chem Int Ed Engl. 2013 Feb 18;52(8):2318-22. doi: 10.1002/anie.201208840. Epub 
+      2013 Jan 15.
+
+PMID- 18471150
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080724
+LR  - 20131121
+IS  - 1365-2885 (Electronic)
+IS  - 0140-7783 (Linking)
+VI  - 31
+IP  - 3
+DP  - 2008 Jun
+TI  - Simulated digest of a glucosamine-based equine nutraceutical modifies effect of IL-1 
+      in a cartilage explant model of inflammation.
+PG  - 268-71
+LID - 10.1111/j.1365-2885.2008.00946.x [doi]
+FAU - Pearson, W
+AU  - Pearson W
+AD  - CanTox Health Sciences International, Mississauga, ON, Canada. wpearson@cantox.com
+FAU - Lindinger, M I
+AU  - Lindinger MI
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Vet Pharmacol Ther
+JT  - Journal of veterinary pharmacology and therapeutics
+JID - 7910920
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Interleukin-1)
+RN  - N08U5BOQ1K (Glucosamine)
+RN  - XXE1CET956 (Indomethacin)
+SB  - IM
+MH  - Animals
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+MH  - Cartilage, Articular/*drug effects/metabolism
+MH  - Drug Therapy, Combination
+MH  - Glucosamine/administration & dosage/*therapeutic use
+MH  - Horse Diseases/*drug therapy/metabolism
+MH  - Horses
+MH  - Indomethacin/administration & dosage/*therapeutic use
+MH  - Inflammation/drug therapy/metabolism/*veterinary
+MH  - Interleukin-1/*metabolism
+MH  - Models, Biological
+MH  - Swine
+EDAT- 2008/05/13 09:00
+MHDA- 2008/07/25 09:00
+CRDT- 2008/05/13 09:00
+PHST- 2008/05/13 09:00 [pubmed]
+PHST- 2008/07/25 09:00 [medline]
+PHST- 2008/05/13 09:00 [entrez]
+AID - JVP946 [pii]
+AID - 10.1111/j.1365-2885.2008.00946.x [doi]
+PST - ppublish
+SO  - J Vet Pharmacol Ther. 2008 Jun;31(3):268-71. doi: 10.1111/j.1365-2885.2008.00946.x.

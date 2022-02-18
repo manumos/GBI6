@@ -1,0 +1,1122 @@
+PMID- 32309282
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2296-634X (Print)
+IS  - 2296-634X (Electronic)
+IS  - 2296-634X (Linking)
+VI  - 8
+DP  - 2020
+TI  - An Appraisal on the Value of Using Nutraceutical Based Senolytics and Senostatics in 
+      Aging.
+PG  - 218
+LID - 10.3389/fcell.2020.00218 [doi]
+LID - 218
+AB  - The average human life expectancy has increased globally, and continues to rise, 
+      owing to the substantive progress made in healthcare, medicine, sanitation, housing 
+      and education. This ultimately enriches society with a greater proportion of elderly 
+      people. Sustaining a healthy aged population is key to diminish the societal and 
+      economic impact of age-related infirmities. This is especially challenging because 
+      tissue function, and thus wellbeing, naturally progressively decline as humans age. 
+      With age increasing the risk of developing diseases, one of the therapeutic options 
+      is to interfere with the molecular and cellular pathways involved in age-related 
+      tissue dysfunction, which is in part caused by the accumulation of senescent cells. 
+      One strategy to prevent this could be using drugs that selectively kill these cells 
+      (senolytics). In parallel, some compounds have been identified that prevent or slow 
+      down the progression of senescence or some of its features (senostatics). Senolytic 
+      and senostatic therapies have been shown to be efficient in vivo, but they also have 
+      unwanted dose-dependent side effects, including toxicity. Important advances might 
+      be made using bioactive compounds from plants and foods (nutraceuticals) if, as is 
+      proposed, they offer similar effectiveness with fewer side effects. The focus of 
+      this review is on the use of nutraceuticals in interfering with cellular senescence.
+CI  - Copyright © 2020 Kaur, Macip and Stover.
+FAU - Kaur, Amanpreet
+AU  - Kaur A
+AD  - Department of Respiratory Sciences, University of Leicester, Leicester, United 
+      Kingdom.
+FAU - Macip, Salvador
+AU  - Macip S
+AD  - Mechanisms of Cancer and Ageing Laboratory, Department of Molecular and Cell 
+      Biology, University of Leicester, Leicester, United Kingdom.
+AD  - Faculty of Health Sciences, Universitat Oberta de Catalunya, Barcelona, Spain.
+FAU - Stover, Cordula M
+AU  - Stover CM
+AD  - Department of Respiratory Sciences, University of Leicester, Leicester, United 
+      Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200403
+TA  - Front Cell Dev Biol
+JT  - Frontiers in cell and developmental biology
+JID - 101630250
+PMC - PMC7145958
+OTO - NOTNLM
+OT  - aging
+OT  - nutraceuticals
+OT  - senescence
+OT  - senolytics
+OT  - senostatics
+EDAT- 2020/04/21 06:00
+MHDA- 2020/04/21 06:01
+CRDT- 2020/04/21 06:00
+PHST- 2020/01/16 00:00 [received]
+PHST- 2020/03/13 00:00 [accepted]
+PHST- 2020/04/21 06:00 [entrez]
+PHST- 2020/04/21 06:00 [pubmed]
+PHST- 2020/04/21 06:01 [medline]
+AID - 10.3389/fcell.2020.00218 [doi]
+PST - epublish
+SO  - Front Cell Dev Biol. 2020 Apr 3;8:218. doi: 10.3389/fcell.2020.00218. eCollection 
+      2020.
+
+PMID- 32004681
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201125
+LR  - 20201125
+IS  - 1873-3476 (Electronic)
+IS  - 0378-5173 (Linking)
+VI  - 577
+DP  - 2020 Mar 15
+TI  - Cosm-nutraceutical nanovesicles for acne treatment: Physicochemical characterization 
+      and exploratory clinical experimentation.
+PG  - 119092
+LID - S0378-5173(20)30076-4 [pii]
+LID - 10.1016/j.ijpharm.2020.119092 [doi]
+AB  - The full exploration of the 'nutraceuticals' therapeutic potential in cosmetics has 
+      been hindered by their poor stratum corneum permeation. Therefore, the aim of the 
+      present study was to formulate a nutraceutical; quercetin, in novel vitamin C based 
+      nanovesicles (aspasomes), and to explore their beneficial effects in the treatment 
+      of acne. Aspasomes were characterized for their particle size, zeta potential, 
+      entrapment efficiency (EE%), 3-months storage stability, skin deposition/permeation, 
+      antioxidant potential, and morphology. Aspasomes antibacterial efficacy on 
+      Propionibacterium acnes using the zone of inhibition assay was also tested, whilst 
+      their safety on skin fibroblastic cells was assessed in vitro using 3T3 CCL92 cell 
+      lines. An exploratory clinical trial was conducted in acne patients, and the 
+      percentage reduction of inflammatory, non-inflammatory and total acne lesions was 
+      taken as the evaluation criterion. Results revealed that quercetin-loaded aspasomes 
+      displayed a desirable nanometer size (125-184 nm), negative charge with good storage 
+      stability, and high skin deposition reaching 40%. Aspasomes managed to preserve the 
+      antioxidant activity of quercetin, and exhibited a significantly higher 
+      antibacterial effect (15 ± 1.53 mm) against Propionibacterium acnes than quercetin 
+      alone (8.25 ± 2.08 mm), and were safe on skin fibroblastic cells. Upon clinical 
+      examination in 20 acne patients (14 females, 6 males), quercetin aspasomes exhibited 
+      reduction percentages of 77.9%, 11.8% and 55.3% for inflammatory lesions, comedones 
+      and total lesions respectively. This opens vast applications of the presented 
+      formulation in the treatment of other oxidative skin diseases, and delineates the 
+      nutraceuticals and nanoformulations prepared from natural materials as promising 
+      dermatological treatment modes.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Amer, Sandra Sherif
+AU  - Amer SS
+AD  - Department of Pharmaceutics, Faculty of Pharmacy and Drug Manufacturing, Pharos 
+      University in Alexandria, Alexandria, Egypt; Drug Discovery, Delivery and Patient 
+      Care (DDDPC) Theme, School of Life Sciences, Pharmacy and Chemistry, Department of 
+      Pharmacy, Kingston University London, Kingston upon Thames, Surrey, KT1 2EE, United 
+      Kingdom; Department of Chemistry, School of Sciences and Engineering, The American 
+      University in Cairo, Egypt.
+FAU - Nasr, Maha
+AU  - Nasr M
+AD  - Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, Ain Shams 
+      University, Cairo, Egypt. Electronic address: drmahanasr@pharma.asu.edu.eg.
+FAU - Abdel-Aziz, Rasha T A
+AU  - Abdel-Aziz RTA
+AD  - Department of Dermatology, STD's and Andrology, Faculty of Medicine, Minia 
+      University, Al Minya, Egypt.
+FAU - Moftah, Noha H
+AU  - Moftah NH
+AD  - Department of Dermatology, STD's and Andrology, Faculty of Medicine, Minia 
+      University, Al Minya, Egypt.
+FAU - El Shaer, Amr
+AU  - El Shaer A
+AD  - Drug Discovery, Delivery and Patient Care (DDDPC) Theme, School of Life Sciences, 
+      Pharmacy and Chemistry, Department of Pharmacy, Kingston University London, Kingston 
+      upon Thames, Surrey, KT1 2EE, United Kingdom.
+FAU - Polycarpou, Elena
+AU  - Polycarpou E
+AD  - Drug Discovery, Delivery and Patient Care (DDDPC) Theme, School of Life Sciences, 
+      Pharmacy and Chemistry, Department of Pharmacy, Kingston University London, Kingston 
+      upon Thames, Surrey, KT1 2EE, United Kingdom.
+FAU - Mamdouh, Wael
+AU  - Mamdouh W
+AD  - Department of Chemistry, School of Sciences and Engineering, The American University 
+      in Cairo, Egypt.
+FAU - Sammour, Omaima
+AU  - Sammour O
+AD  - Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, Ain Shams 
+      University, Cairo, Egypt.
+LA  - eng
+PT  - Journal Article
+DEP - 20200128
+PL  - Netherlands
+TA  - Int J Pharm
+JT  - International journal of pharmaceutics
+JID - 7804127
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antioxidants)
+RN  - 0 (Cosmeceuticals)
+RN  - 9IKM0I5T1E (Quercetin)
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+SB  - IM
+MH  - 3T3 Cells
+MH  - Acne Vulgaris/*drug therapy/pathology
+MH  - Adolescent
+MH  - Adult
+MH  - Animals
+MH  - Anti-Bacterial Agents/administration & dosage/chemistry/pharmacology
+MH  - Antioxidants/administration & dosage/chemistry/pharmacology
+MH  - Ascorbic Acid/chemistry
+MH  - *Cosmeceuticals
+MH  - *Dietary Supplements
+MH  - Female
+MH  - Fibroblasts/drug effects
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Particle Size
+MH  - Propionibacterium acnes/drug effects
+MH  - Quercetin/*administration & dosage/chemistry/pharmacology
+MH  - Rats
+MH  - Treatment Outcome
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Acne
+OT  - Antibacterial
+OT  - Aspasomes
+OT  - Nanoparticles
+OT  - Quercetin
+OT  - Vitamin C
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared to 
+      influence the work reported in this paper.
+EDAT- 2020/02/01 06:00
+MHDA- 2020/11/26 06:00
+CRDT- 2020/02/01 06:00
+PHST- 2019/10/17 00:00 [received]
+PHST- 2020/01/26 00:00 [revised]
+PHST- 2020/01/27 00:00 [accepted]
+PHST- 2020/02/01 06:00 [pubmed]
+PHST- 2020/11/26 06:00 [medline]
+PHST- 2020/02/01 06:00 [entrez]
+AID - S0378-5173(20)30076-4 [pii]
+AID - 10.1016/j.ijpharm.2020.119092 [doi]
+PST - ppublish
+SO  - Int J Pharm. 2020 Mar 15;577:119092. doi: 10.1016/j.ijpharm.2020.119092. Epub 2020 
+      Jan 28.
+
+PMID- 15165628
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20041209
+LR  - 20131121
+IS  - 0899-9007 (Print)
+IS  - 0899-9007 (Linking)
+VI  - 20
+IP  - 6
+DP  - 2004 Jun
+TI  - Selenium: the Se-XY nutraceutical.
+PG  - 590-3
+FAU - Hardy, Gil
+AU  - Hardy G
+AD  - Pharmaceutical Nutrition Research Group, Witney, Oxford, United Kingdom. 
+      ghardy@nutrinox.com
+FAU - Hardy, Ines
+AU  - Hardy I
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Nutrition
+JT  - Nutrition (Burbank, Los Angeles County, Calif.)
+JID - 8802712
+RN  - 0 (Proteins)
+RN  - 0 (Selenoproteins)
+RN  - H6241UJ22B (Selenium)
+SB  - IM
+CIN - Nutrition. 2005 Nov-Dec;21(11-12):1149. PMID: 16308139
+MH  - Acute-Phase Reaction/metabolism
+MH  - Animals
+MH  - Dietary Supplements
+MH  - Female
+MH  - Fertility/drug effects/genetics/physiology
+MH  - Humans
+MH  - Male
+MH  - Neoplasms/prevention & control
+MH  - Parenteral Nutrition, Total
+MH  - Proteins/physiology
+MH  - Selenium/deficiency/*physiology/therapeutic use
+MH  - Selenoproteins
+MH  - X Chromosome
+MH  - Y Chromosome
+RF  - 39
+EDAT- 2004/05/29 05:00
+MHDA- 2004/12/16 09:00
+CRDT- 2004/05/29 05:00
+PHST- 2004/05/29 05:00 [pubmed]
+PHST- 2004/12/16 09:00 [medline]
+PHST- 2004/05/29 05:00 [entrez]
+AID - S0899900704000644 [pii]
+AID - 10.1016/j.nut.2004.03.014 [doi]
+PST - ppublish
+SO  - Nutrition. 2004 Jun;20(6):590-3. doi: 10.1016/j.nut.2004.03.014.
+
+PMID- 16048146
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20051014
+LR  - 20191109
+IS  - 1040-8398 (Print)
+IS  - 1040-8398 (Linking)
+VI  - 45
+IP  - 3
+DP  - 2005
+TI  - Nutraceutical therapies for degenerative joint diseases: a critical review.
+PG  - 145-64
+AB  - There is growing recognition of the importance of nutritional factors in the 
+      maintenance of bone and joint health, and that nutritional imbalance combined with 
+      endocrine abnormalities may be involved in the pathogenesis of osteoarthritis (OA) 
+      and osteochondritis dissecans (OCD). Despite this, dietary programs have played a 
+      secondary role in the management of these connective tissue disorders. Articular 
+      cartilage is critically dependent upon the regular provision of nutrients (glucose 
+      and amino acids), vitamins (particularly vitamin C), and essential trace elements 
+      (zinc, magnesium, and copper). Therefore, dietary supplementation programs and 
+      nutraceuticals used in conjunction with non-steroidal, anti-inflammatory drugs 
+      (NSAIDs) may offer significant benefits to patients with joint disorders, such as OA 
+      and OCD. This article examines the available clinical evidence for the efficacy of 
+      nutraceuticals, antioxidant vitamin C, polyphenols, essential fatty acids, and 
+      mineral cofactors in the treatment of OA and related joint disorders in humans and 
+      veterinary species. This article also attempts to clarify the current state of 
+      knowledge. It also highlights the need for additional targeted research to elucidate 
+      the changes in nutritional status and potential alterations to the expression of 
+      plasma membrane transport systems in synovial structures in pathophysiological 
+      states, so that current therapy and future treatments may be better focused.
+FAU - Goggs, Robert
+AU  - Goggs R
+AD  - Connective Tissue Research Group, Faculty of Veterinary Science, University of 
+      Liverpool, Liverpool, United Kingdom.
+FAU - Vaughan-Thomas, Anne
+AU  - Vaughan-Thomas A
+FAU - Clegg, Peter D
+AU  - Clegg PD
+FAU - Carter, Stuart D
+AU  - Carter SD
+FAU - Innes, John F
+AU  - Innes JF
+FAU - Mobasheri, Ali
+AU  - Mobasheri A
+FAU - Shakibaei, Mehdi
+AU  - Shakibaei M
+FAU - Schwab, Wolfgang
+AU  - Schwab W
+FAU - Bondy, Carolyn A
+AU  - Bondy CA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Crit Rev Food Sci Nutr
+JT  - Critical reviews in food science and nutrition
+JID - 8914818
+RN  - 0 (Amino Acids)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Fatty Acids, Essential)
+RN  - 0 (Flavonoids)
+RN  - 0 (Phenols)
+RN  - 0 (Polyphenols)
+RN  - 0 (Trace Elements)
+RN  - 0 (Vitamins)
+RN  - 9007-28-7 (Chondroitin Sulfates)
+RN  - IY9XDZ35W2 (Glucose)
+RN  - N08U5BOQ1K (Glucosamine)
+SB  - IM
+MH  - Amino Acids/administration & dosage
+MH  - Animals
+MH  - Anti-Inflammatory Agents, Non-Steroidal/therapeutic use
+MH  - Bivalvia
+MH  - Camellia sinensis/chemistry
+MH  - Cartilage/chemistry/physiology
+MH  - Chondroitin Sulfates/administration & dosage
+MH  - Fatty Acids, Essential/administration & dosage
+MH  - Flavonoids/administration & dosage
+MH  - Glucosamine/administration & dosage
+MH  - Glucose/administration & dosage
+MH  - Humans
+MH  - Nutritional Status
+MH  - Obesity/complications
+MH  - Osteoarthritis/*diet therapy/*drug therapy/etiology
+MH  - Osteochondritis Dissecans/*diet therapy/*drug therapy/etiology
+MH  - Phenols/administration & dosage
+MH  - Polyphenols
+MH  - Trace Elements/administration & dosage
+MH  - Vitamins/administration & dosage
+RF  - 199
+EDAT- 2005/07/29 09:00
+MHDA- 2005/10/15 09:00
+CRDT- 2005/07/29 09:00
+PHST- 2005/07/29 09:00 [pubmed]
+PHST- 2005/10/15 09:00 [medline]
+PHST- 2005/07/29 09:00 [entrez]
+AID - 10.1080/10408690590956341 [doi]
+PST - ppublish
+SO  - Crit Rev Food Sci Nutr. 2005;45(3):145-64. doi: 10.1080/10408690590956341.
+
+PMID- 34801653
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220104
+LR  - 20220105
+IS  - 1873-3476 (Electronic)
+IS  - 0378-5173 (Linking)
+VI  - 612
+DP  - 2022 Jan 25
+TI  - Quercetin loaded cosm-nutraceutical electrospun composite nanofibers for acne 
+      alleviation: Preparation, characterization and experimental clinical appraisal.
+PG  - 121309
+LID - S0378-5173(21)01115-7 [pii]
+LID - 10.1016/j.ijpharm.2021.121309 [doi]
+AB  - In the cosmeceutical field, it is essential to develop topical delivery systems 
+      which would allow drugs to create a depot and permeate within the skin. The aim of 
+      the present study was to develop composite nanofibers of polyvinyl 
+      alcohol/quercetin/essential oils using the electrospinning technique, and assess 
+      their efficiency in acne alleviation. Quercetin was chosen due to its 
+      anti-inflammatory, anti-oxidant, and antibacterial activities. Nanofibers were 
+      characterized for their morphology, ex-vivo deposition/permeation, 
+      physical/mechanical integrity, thermal properties, and chemical characteristics. In 
+      addition, the anti-bacterial efficacy was tested on Propionibacterium acne (P. 
+      acne), and a cytotoxicity assay was carried out. Lastly, an experimental clinical 
+      trial was conducted on acne patients, where the percentage reduction of 
+      inflammatory, non-inflammatory and total acne lesions was taken as evaluation 
+      criterion. Results showed that quercetin was successfully loaded into the nanofibers 
+      which were homogenously dispersed. They showed a reasonable skin deposition 
+      percentage of 28.24% ± 0.012, a significantly higher antibacterial efficacy against 
+      Propionibacterium acne than quercetin alone, and were utterly safe on skin 
+      fibroblastic cells. Upon clinical examination on acne patients, the nanofibers 
+      showed 61.2%, 14.7%, and 52.9% reduction of inflammatory, comedonal, and total acne 
+      lesions respectively, suggesting a promising topical anti-acne delivery system.
+CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
+FAU - Amer, Sandra Sherif
+AU  - Amer SS
+AD  - Department of Pharmaceutics, Faculty of Pharmacy, Pharos University in Alexandria, 
+      Alexandria, Egypt; Drug Discovery, Delivery and Patient Care (DDDPC) Theme, School 
+      of Life Sciences, Pharmacy and Chemistry, Department of Pharmacy, Kingston 
+      University London, Kingston upon Thames, Surrey KT1 2EE, United Kingdom; Department 
+      of Chemistry, School of Sciences and Engineering, The American University in Cairo, 
+      Egypt.
+FAU - Mamdouh, Wael
+AU  - Mamdouh W
+AD  - Department of Chemistry, School of Sciences and Engineering, The American University 
+      in Cairo, Egypt. Electronic address: wael_mamdouh@aucegypt.edu.
+FAU - Nasr, Maha
+AU  - Nasr M
+AD  - Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, Ain Shams 
+      University, Cairo, Egypt.
+FAU - ElShaer, Amr
+AU  - ElShaer A
+AD  - Drug Discovery, Delivery and Patient Care (DDDPC) Theme, School of Life Sciences, 
+      Pharmacy and Chemistry, Department of Pharmacy, Kingston University London, Kingston 
+      upon Thames, Surrey KT1 2EE, United Kingdom.
+FAU - Polycarpou, Elena
+AU  - Polycarpou E
+AD  - Drug Discovery, Delivery and Patient Care (DDDPC) Theme, School of Life Sciences, 
+      Pharmacy and Chemistry, Department of Pharmacy, Kingston University London, Kingston 
+      upon Thames, Surrey KT1 2EE, United Kingdom.
+FAU - Abdel-Aziz, Rasha T A
+AU  - Abdel-Aziz RTA
+AD  - Department of Dermatology, STD's and Andrology, Faculty of Medicine, Minia 
+      University, Al Minya, Egypt.
+FAU - Sammour, Omaima A
+AU  - Sammour OA
+AD  - Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, Ain Shams 
+      University, Cairo, Egypt.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+DEP - 20211118
+PL  - Netherlands
+TA  - Int J Pharm
+JT  - International journal of pharmaceutics
+JID - 7804127
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 9002-89-5 (Polyvinyl Alcohol)
+RN  - 9IKM0I5T1E (Quercetin)
+SB  - IM
+MH  - *Acne Vulgaris/drug therapy
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Dietary Supplements
+MH  - Humans
+MH  - *Nanofibers
+MH  - Polyvinyl Alcohol
+MH  - Quercetin
+OTO - NOTNLM
+OT  - Acne
+OT  - Electrospinning
+OT  - Nanofibers
+OT  - Polyvinyl alcohol
+OT  - Propionibacterium acne
+OT  - Quercetin
+EDAT- 2021/11/22 06:00
+MHDA- 2022/01/05 06:00
+CRDT- 2021/11/21 20:41
+PHST- 2021/07/02 00:00 [received]
+PHST- 2021/11/15 00:00 [revised]
+PHST- 2021/11/16 00:00 [accepted]
+PHST- 2021/11/22 06:00 [pubmed]
+PHST- 2022/01/05 06:00 [medline]
+PHST- 2021/11/21 20:41 [entrez]
+AID - S0378-5173(21)01115-7 [pii]
+AID - 10.1016/j.ijpharm.2021.121309 [doi]
+PST - ppublish
+SO  - Int J Pharm. 2022 Jan 25;612:121309. doi: 10.1016/j.ijpharm.2021.121309. Epub 2021 
+      Nov 18.
+
+PMID- 32376448
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210303
+LR  - 20210303
+IS  - 1873-3476 (Electronic)
+IS  - 0378-5173 (Linking)
+VI  - 584
+DP  - 2020 Jun 30
+TI  - A novel natural GRAS-grade enteric coating for pharmaceutical and nutraceutical 
+      products.
+PG  - 119392
+LID - S0378-5173(20)30376-8 [pii]
+LID - 10.1016/j.ijpharm.2020.119392 [doi]
+AB  - In this study, enteric coatings based exclusively on naturally occurring ingredients 
+      were reported. Alginate (Alg) and pectin (Pec) blends with or without naturally 
+      occurring glyceride, glycerol monostearate (GMS), were initially used to produce 
+      solvent-casted films. Incorporating GMS in the natural polymeric films significantly 
+      enhanced the acid-resistance properties in gastric medium. Theophylline tablets 
+      coated with Alg-Pec blends without GMS disintegrated shortly after incubation in 
+      gastric medium (pH 1.2), leading to a premature and complete release of 
+      theophylline. Interestingly, tablets coated with Alg-Pec blends that contain the 
+      natural glyceride (GMS) resisted the gastric environment for 2 h with minimal drug 
+      release (<5%) and disintegrated rapidly following introduction to the intestinal 
+      medium, allowing a fast and complete drug release. Furthermore, the coating system 
+      proved to be stable for six months under accelerated conditions. These findings are 
+      particularly appealing to nutraceutical industry as they provide the foundation to 
+      produce naturally-occurring GRAS based enteric coatings.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Khoder, Mouhamad
+AU  - Khoder M
+AD  - Drug Discovery, Delivery and Patient Care (DDDPC) Theme, School of Life Sciences, 
+      Pharmacy and Chemistry, Kingston University London, Kingston Upon Thames, London, 
+      United Kingdom.
+FAU - Schropp, Verena
+AU  - Schropp V
+AD  - Friedrich-Alexander University Erlangen-Nürnberg (FAU), Erlangen, Germany; School of 
+      Pharmacy and Biomedical Sciences, University of Central Lancashire, Preston PR1 2HE, 
+      United Kingdom.
+FAU - Zeitler, Susanne
+AU  - Zeitler S
+AD  - School of Pharmacy and Biomedical Sciences, University of Central Lancashire, 
+      Preston PR1 2HE, United Kingdom.
+FAU - Pereira, Beatriz
+AU  - Pereira B
+AD  - School of Pharmacy and Biomedical Sciences, University of Central Lancashire, 
+      Preston PR1 2HE, United Kingdom.
+FAU - Habashy, Rober
+AU  - Habashy R
+AD  - School of Pharmacy and Biomedical Sciences, University of Central Lancashire, 
+      Preston PR1 2HE, United Kingdom.
+FAU - Royall, Paul G
+AU  - Royall PG
+AD  - Institute of Pharmaceutical Science, King's College London, London, United Kingdom.
+FAU - Wang, Julie Tzu-Wen
+AU  - Wang JT
+AD  - Institute of Pharmaceutical Science, King's College London, London, United Kingdom.
+FAU - Alhnan, Mohamed A
+AU  - Alhnan MA
+AD  - Institute of Pharmaceutical Science, King's College London, London, United Kingdom. 
+      Electronic address: Alhnan@kcl.ac.uk.
+LA  - eng
+PT  - Journal Article
+DEP - 20200504
+PL  - Netherlands
+TA  - Int J Pharm
+JT  - International journal of pharmaceutics
+JID - 7804127
+RN  - 0 (Alginates)
+RN  - 0 (Glycerides)
+RN  - 0 (Polymethacrylic Acids)
+RN  - 0 (Tablets, Enteric-Coated)
+RN  - 89NA02M4RX (Pectins)
+RN  - C137DTR5RG (Theophylline)
+RN  - PDC6A3C0OX (Glycerol)
+SB  - IM
+MH  - Alginates/*chemistry
+MH  - Calorimetry, Differential Scanning
+MH  - Chemistry, Pharmaceutical/*methods
+MH  - *Dietary Supplements
+MH  - Drug Liberation
+MH  - Gastric Acid
+MH  - Glycerides/chemistry
+MH  - Glycerol/chemistry
+MH  - Hydrogen-Ion Concentration
+MH  - Pectins/*chemistry
+MH  - Polymethacrylic Acids
+MH  - Solubility
+MH  - Tablets, Enteric-Coated/*chemistry
+MH  - Theophylline/*administration & dosage/chemistry
+OTO - NOTNLM
+OT  - Code oil
+OT  - Delayed-release
+OT  - Enteric-coatings
+OT  - Gastro-resistant
+OT  - Nutraceuticals
+OT  - Probiotics
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared to 
+      influence the work reported in this paper.
+EDAT- 2020/05/08 06:00
+MHDA- 2021/03/04 06:00
+CRDT- 2020/05/08 06:00
+PHST- 2019/11/02 00:00 [received]
+PHST- 2020/04/27 00:00 [revised]
+PHST- 2020/04/28 00:00 [accepted]
+PHST- 2020/05/08 06:00 [pubmed]
+PHST- 2021/03/04 06:00 [medline]
+PHST- 2020/05/08 06:00 [entrez]
+AID - S0378-5173(20)30376-8 [pii]
+AID - 10.1016/j.ijpharm.2020.119392 [doi]
+PST - ppublish
+SO  - Int J Pharm. 2020 Jun 30;584:119392. doi: 10.1016/j.ijpharm.2020.119392. Epub 2020 
+      May 4.
+
+PMID- 25796126
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160215
+LR  - 20181202
+IS  - 1873-3476 (Electronic)
+IS  - 0378-5173 (Linking)
+VI  - 486
+IP  - 1-2
+DP  - 2015
+TI  - Gastro-resistant characteristics of GRAS-grade enteric coatings for pharmaceutical 
+      and nutraceutical products.
+PG  - 167-74
+LID - S0378-5173(15)00255-0 [pii]
+LID - 10.1016/j.ijpharm.2015.03.039 [doi]
+AB  - The use of naturally derived excipients to develop enteric coatings offers 
+      significant advantages over conventional synthetic polymers. Unlike synthetic 
+      polymers, they are biodegradable, relatively abundant, have no daily intake limits 
+      or restrictions on use for dietary and nutraceutical products. However, little 
+      information is available on their dissolution properties under different 
+      gastrointestinal conditions and in comparison to each other. This work investigated 
+      the gastric resistance properties of commercially available GRAS-based coating 
+      technologies. Three coating systems were evaluated: ethyl cellulose+carboxymethyl 
+      cellulose (EC-CMC), ethyl cellulose+sodium alginate (EC-Alg) and shellac+sodium 
+      alginate (Sh-Alg) combinations. The minimum coating levels were optimized to meet 
+      USP pharmacopoeial criteria for delayed release formulations (<10% release after 2h 
+      in pH 1.2 followed by >80% release after 45 min of pH change). Theophylline 150 mg 
+      tablets were coated with 6.5%, 7%, and 2.75% coating levels of formulations EC-CMC, 
+      EC-Alg and Sh-Alg, respectively. In vitro dissolution test revealed a fast release 
+      in pH 6.8 for ethyl cellulose based coatings: t80% value of 65 and 45 min for EC-CMC 
+      and EC-Alg respectively, while a prolonged drug release from Sh-Alg coating was 
+      observed in both pH 6.8 and 7.4 phosphate buffers. However, when more biologically 
+      relevant bicarbonate buffer was used, all coatings showed slower drug release. 
+      Disintegration test, carried out in both simulated gastric and intestinal fluid, 
+      confirmed good mechanical resistance of EC-CMC and EC-Alg coating, and revealed poor 
+      durability of the thinner Sh-Alg. Under elevated gastric pH conditions (pH 2, 3 and 
+      4), EC-CMC and EC-Alg coatings were broken after 70, 30, 55 min and after 30, 15, 15 
+      min, respectively, while Sh-Alg coated tablets demonstrated gastric resistance at 
+      all pH values. In conclusion, none of the GRAS-grade coatings fully complied with 
+      the different biological demands of delayed release coating systems.
+CI  - Copyright © 2015. Published by Elsevier B.V.
+FAU - Czarnocka, Justyna K
+AU  - Czarnocka JK
+AD  - School of Pharmacy and Biomedical Sciences, University of Central Lancashire, 
+      Preston PR1 2HE, United Kingdom; Faculty of Pharmacy with the Laboratory Medicine 
+      Division, Medical University of Warsaw, Warsaw, Poland.
+FAU - Alhnan, Mohamed A
+AU  - Alhnan MA
+AD  - School of Pharmacy and Biomedical Sciences, University of Central Lancashire, 
+      Preston PR1 2HE, United Kingdom. Electronic address: MAlbedAlhnan@uclan.ac.uk.
+LA  - eng
+PT  - Journal Article
+DEP - 20150318
+PL  - Netherlands
+TA  - Int J Pharm
+JT  - International journal of pharmaceutics
+JID - 7804127
+RN  - 0 (Alginates)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Hexuronic Acids)
+RN  - 0 (Resins, Plant)
+RN  - 0 (Tablets)
+RN  - 46N107B71O (shellac)
+RN  - 7Z8S9VYZ4B (ethyl cellulose)
+RN  - 8A5D83Q4RW (Glucuronic Acid)
+RN  - 9004-34-6 (Cellulose)
+RN  - C137DTR5RG (Theophylline)
+RN  - K679OBS311 (Carboxymethylcellulose Sodium)
+SB  - IM
+MH  - Alginates/*chemistry
+MH  - Carboxymethylcellulose Sodium/*chemistry
+MH  - Cellulose/*analogs & derivatives/chemistry
+MH  - Delayed-Action Preparations/chemistry
+MH  - Dietary Supplements
+MH  - Drug Approval
+MH  - Gastric Juice/chemistry
+MH  - Glucuronic Acid/chemistry
+MH  - Hexuronic Acids/chemistry
+MH  - Hydrogen-Ion Concentration
+MH  - Intestinal Secretions/chemistry
+MH  - Resins, Plant/*chemistry
+MH  - Tablets
+MH  - Theophylline/chemistry
+OTO - NOTNLM
+OT  - Code oil
+OT  - Delayed release
+OT  - Probiotics
+OT  - pH-dependent
+EDAT- 2015/03/23 06:00
+MHDA- 2016/02/16 06:00
+CRDT- 2015/03/23 06:00
+PHST- 2015/01/19 00:00 [received]
+PHST- 2015/03/16 00:00 [revised]
+PHST- 2015/03/17 00:00 [accepted]
+PHST- 2015/03/23 06:00 [entrez]
+PHST- 2015/03/23 06:00 [pubmed]
+PHST- 2016/02/16 06:00 [medline]
+AID - S0378-5173(15)00255-0 [pii]
+AID - 10.1016/j.ijpharm.2015.03.039 [doi]
+PST - ppublish
+SO  - Int J Pharm. 2015;486(1-2):167-74. doi: 10.1016/j.ijpharm.2015.03.039. Epub 2015 Mar 
+      18.
+
+PMID- 34717085
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211207
+LR  - 20211214
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 373
+IP  - Pt A
+DP  - 2022 Mar 30
+TI  - A state-of-art review on camel milk proteins as an emerging source of bioactive 
+      peptides with diverse nutraceutical properties.
+PG  - 131444
+LID - S0308-8146(21)02450-X [pii]
+LID - 10.1016/j.foodchem.2021.131444 [doi]
+AB  - The generation of camel milk derived bioactive peptides (CM-BAPs) have started to 
+      grab keen interest of many researchers during the past decade. CM-BAPs have shown 
+      more significant bioactive properties in comparison to camel milk intact proteins. 
+      CM-BAPs can be obtained using enzyme hydrolysis to form hydrolysates, or by the 
+      fermentation process. In this systematic review, 46 research articles exploring the 
+      health-related bioactive properties of CM-BAPs through in-vitro and in-vivo studies 
+      have been included. CM-BAPs have been reported for their antioxidant, anti-diabetic, 
+      anti-obesity, antihypertensive, antibacterial, antibiofilm, anticancer, 
+      anti-inflammatory, anti-haemolytic, and anti-hyperpigmentation activities. The 
+      effects of factors such as molecular weight of peptides, type of enzyme, enzyme to 
+      substrate ratio, hydrolysis temperature and duration have been analysed. The 
+      in-vitro studies have provided enough evidence on certain aspects of the 
+      pharmacological actives of camel milk bioactive peptides. Nevertheless, the in-vivo 
+      studies are very limited, and no clinical studies on CM-BAPs have been reported.
+CI  - Copyright © 2021 Elsevier Ltd. All rights reserved.
+FAU - Ali Redha, Ali
+AU  - Ali Redha A
+AD  - Chemistry Department, School of Science, Loughborough University, Loughborough LE11 
+      3TU, United Kingdom. Electronic address: ali96chem@gmail.com.
+FAU - Valizadenia, Hamidreza
+AU  - Valizadenia H
+AD  - School of Medicine, Shahroud University of Medical Sciences, Shahroud, Semnan 
+      Province, Iran.
+FAU - Siddiqui, Shahida Anusha
+AU  - Siddiqui SA
+AD  - Technical University of Munich Campus Straubing for Biotechnology and 
+      Sustainability, Essigberg 3, 94315 Straubing, Germany; DIL e.V. - German Institute 
+      of Food Technologies, D-Quakenbrück, Germany.
+FAU - Maqsood, Sajid
+AU  - Maqsood S
+AD  - Department of Food Science, College of Agriculture and Veterinary Medicine, United 
+      Arab Emirates University, Al-Ain 15551, United Arab Emirates; Zayed Centre of Health 
+      Science, United Arab Emirates University, Al-Ain 15551, United Arab Emirates. 
+      Electronic address: sajid.m@uaeu.ac.ae.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20211021
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 0 (Milk Proteins)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - Animals
+MH  - *Camelus
+MH  - Dietary Supplements
+MH  - Milk
+MH  - *Milk Proteins
+MH  - Peptides
+OTO - NOTNLM
+OT  - Antidiabetic
+OT  - Antihypertension
+OT  - Antioxidant
+OT  - Bioactive peptides
+OT  - Camel milk
+OT  - Hydrolysates
+EDAT- 2021/10/31 06:00
+MHDA- 2021/12/15 06:00
+CRDT- 2021/10/30 20:06
+PHST- 2021/05/29 00:00 [received]
+PHST- 2021/09/24 00:00 [revised]
+PHST- 2021/10/18 00:00 [accepted]
+PHST- 2021/10/31 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/10/30 20:06 [entrez]
+AID - S0308-8146(21)02450-X [pii]
+AID - 10.1016/j.foodchem.2021.131444 [doi]
+PST - ppublish
+SO  - Food Chem. 2022 Mar 30;373(Pt A):131444. doi: 10.1016/j.foodchem.2021.131444. Epub 
+      2021 Oct 21.
+
+PMID- 23141962
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131230
+LR  - 20171116
+IS  - 1532-2971 (Electronic)
+IS  - 1090-0233 (Linking)
+VI  - 196
+IP  - 2
+DP  - 2013 May
+TI  - Dietary restriction in combination with a nutraceutical supplement for the 
+      management of equine metabolic syndrome in horses.
+PG  - 153-9
+LID - S1090-0233(12)00429-7 [pii]
+LID - 10.1016/j.tvjl.2012.10.007 [doi]
+AB  - Few studies have examined the effect of dietary restriction in horses with equine 
+      metabolic syndrome (EMS). This study aimed to determine improvements in insulin 
+      sensitivity following dietary restriction for 6 weeks, and to determine if the 
+      improvement would be greater in horses receiving short-chain fructo-oligosaccharides 
+      (sc-FOS). Dietary management involved feeding grass hay, restricted to 1.25% of body 
+      mass (BM) as daily dry matter intake and soaked in cold water prior to feeding, with 
+      the addition of a vitamin and mineral nutraceutical supplement with or without the 
+      addition of sc-FOS (10 g/100 kg). Soaking the hay resulted in a significant 
+      reduction in non-structural carbohydrates (38%, P = 0.01), digestible energy (6.78%, 
+      P = 0.01) and water soluble minerals. Following 6 weeks of dietary restriction with 
+      soaked grass hay and nutraceutical supplement, horses lost an average of 6.8% BM and 
+      showed reductions in body condition score (BCS) and belly circumference. Sensitivity 
+      to insulin improved overall, as determined by the total insulin response during the 
+      combined glucose insulin test. The magnitude of improvement in insulin sensitivity 
+      was associated with the degree of insulin resistance recorded at outset, and the 
+      extent of overall losses in BM and BCS, but was independent of the addition of 
+      sc-FOS. The nutraceutical supplement was highly palatable and no adverse effects 
+      were noted. From the findings of this study a strict dietary program in combination 
+      with a specifically designed vitamin and mineral nutraceutical supplement can be 
+      recommended to obtain rapid improvements in BM, BCS and insulin sensitivity of 
+      animals presenting with EMS.
+CI  - Copyright © 2012 Elsevier Ltd. All rights reserved.
+FAU - McGowan, C M
+AU  - McGowan CM
+AD  - Department of Musculoskeletal Biology, Institute of Infection and Global Health, 
+      Faculty of Health and Life Sciences, University of Liverpool, United Kingdom. 
+      C.M.Mcgowan@liverpool.ac.uk
+FAU - Dugdale, A H
+AU  - Dugdale AH
+FAU - Pinchbeck, G L
+AU  - Pinchbeck GL
+FAU - Argo, C McG
+AU  - Argo CM
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20121108
+PL  - England
+TA  - Vet J
+JT  - Veterinary journal (London, England : 1997)
+JID - 9706281
+SB  - IM
+CIN - Vet J. 2013 May;196(2):141-2. PMID: 23333199
+MH  - Animal Nutritional Physiological Phenomena
+MH  - Animals
+MH  - Diet, Reducing/*veterinary
+MH  - *Dietary Supplements
+MH  - Female
+MH  - Horse Diseases/*diet therapy
+MH  - Horses
+MH  - Insulin Resistance
+MH  - Male
+MH  - Metabolic Syndrome/diet therapy/*veterinary
+EDAT- 2012/11/13 06:00
+MHDA- 2014/01/01 06:00
+CRDT- 2012/11/13 06:00
+PHST- 2012/06/02 00:00 [received]
+PHST- 2012/09/04 00:00 [revised]
+PHST- 2012/10/03 00:00 [accepted]
+PHST- 2012/11/13 06:00 [entrez]
+PHST- 2012/11/13 06:00 [pubmed]
+PHST- 2014/01/01 06:00 [medline]
+AID - S1090-0233(12)00429-7 [pii]
+AID - 10.1016/j.tvjl.2012.10.007 [doi]
+PST - ppublish
+SO  - Vet J. 2013 May;196(2):153-9. doi: 10.1016/j.tvjl.2012.10.007. Epub 2012 Nov 8.
+
+PMID- 31775518
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210818
+LR  - 20210818
+IS  - 1497-0015 (Electronic)
+IS  - 0706-7437 (Print)
+IS  - 0706-7437 (Linking)
+VI  - 65
+IP  - 5
+DP  - 2020 May
+TI  - Physical Activity as a Predictor of Clinical Trial Outcomes in Bipolar Depression: A 
+      Subanalysis of a Mitochondrial-Enhancing Nutraceutical Randomized Controlled Trial.
+PG  - 306-318
+LID - 10.1177/0706743719889547 [doi]
+AB  - OBJECTIVES: Individuals with bipolar disorder (BD) generally engage in low levels of 
+      physical activity (PA), and yet few studies have investigated the relationship 
+      between PA and change in BD symptom severity. The aim of this subanalysis of an 
+      adjunctive nutraceutical randomized controlled trial for the treatment of bipolar 
+      depression was to explore the relationship between PA, the active adjunctive 
+      treatments (a nutraceutical "mitochondrial cocktail"), and clinical outcomes. 
+      METHODS: Participants with bipolar depression were randomized to receive 
+      N-acetylcysteine alone, N-acetylcysteine with a combination of nutraceuticals 
+      (chosen for the potential to increase mitochondrial activity), or placebo for 16 
+      weeks. Participants (n = 145) who completed the International Physical Activity 
+      Questionnaire-Short Form (IPAQ-SF; measured at Week 4) were included in this 
+      exploratory subanalysis. Assessments of BD symptoms, functioning, and quality of 
+      life were completed at monthly visits up until Week 20. Generalised Estimating 
+      Equations were used to explore whether IPAQ-SF scores were a moderator of treatment 
+      received on outcomes of the study. RESULTS: Week-4 PA was not related to changes in 
+      Montgomery Åsberg Depression Rating Scale scores across the study until Week 20. 
+      However, participants who engaged in more PA and who received the combination 
+      treatment were more likely to have a reduction in scores on the Bipolar Depression 
+      Rating Scale (P = 0.03). However, this was not consistent in all domains explored 
+      using the IPAQ-SF. Participants who engaged in higher levels of PA also experienced 
+      greater improvement in social and occupational functioning and less impairment in 
+      functioning due to their psychopathology and improvement in quality of life at Week 
+      20, irrespective of treatment. CONCLUSIONS: This study provides novel evidence of 
+      the association between PA and reduction in BD symptoms in a nutraceutical clinical 
+      trial. However, further research assessing the potential synergistic effects of PA 
+      in BD is required.
+FAU - Ashton, Melanie M
+AU  - Ashton MM
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, University of 
+      Melbourne, Richmond, Victoria, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+FAU - Mohebbi, Mohammadreza
+AU  - Mohebbi M
+AD  - Biostatistics Unit, Faculty of Health, Deakin University, Geelong, Victoria, 
+      Australia.
+FAU - Turner, Alyna
+AU  - Turner A
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - School of Medicine and Public Health, Faculty of Health and Medicine, University of 
+      Newcastle, Callaghan, NSW 2308, Australia.
+FAU - Marx, Wolfgang
+AU  - Marx W
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - Department of Rehabilitation, Nutrition and Sport, School of Allied Health, College 
+      of Science, Health and Engineering, La Trobe University, Bundoora, Victoria, 
+      Australia.
+FAU - Berk, Michael
+AU  - Berk M
+AUID- ORCID: 0000-0002-5554-6946
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+AD  - School of Medicine and Public Health, Faculty of Health and Medicine, University of 
+      Newcastle, Callaghan, NSW 2308, Australia.
+AD  - Centre of Youth Mental Health, University of Melbourne, Parkville, Victoria, 
+      Australia.
+AD  - Orygen, Parkville, Victoria, Australia.
+FAU - Malhi, Gin S
+AU  - Malhi GS
+AD  - Academic Department of Psychiatry, Northern Sydney Local Health District, St 
+      Leonards, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, Department of Psychiatry, Northern Clinical School, 
+      University of Sydney, New South Wales, Australia.
+AD  - CADE Clinic, Royal North Shore Hospital, Northern Sydney Local Health District, St 
+      Leonards, New South Wales, Australia.
+FAU - Ng, Chee H
+AU  - Ng CH
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, University of 
+      Melbourne, Richmond, Victoria, Australia.
+FAU - Cotton, Sue M
+AU  - Cotton SM
+AD  - Centre of Youth Mental Health, University of Melbourne, Parkville, Victoria, 
+      Australia.
+AD  - Orygen, Parkville, Victoria, Australia.
+FAU - Dodd, Seetal
+AU  - Dodd S
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - School of Medicine and Public Health, Faculty of Health and Medicine, University of 
+      Newcastle, Callaghan, NSW 2308, Australia.
+AD  - Centre of Youth Mental Health, University of Melbourne, Parkville, Victoria, 
+      Australia.
+FAU - Sarris, Jerome
+AU  - Sarris J
+AD  - Professorial Unit, The Melbourne Clinic, Department of Psychiatry, University of 
+      Melbourne, Richmond, Victoria, Australia.
+AD  - NICM Health Research Institute, Western Sydney University, Westmead, New South 
+      Wales, Australia.
+FAU - Hopwood, Malcolm
+AU  - Hopwood M
+AD  - Professorial Psychiatry Unit, Albert Road Clinic, Department of Psychiatry, 
+      University of Melbourne, Melbourne, Victoria, Australia.
+FAU - Stubbs, Brendon
+AU  - Stubbs B
+AD  - Physiotherapy Department, South London and Maudsley NHS Foundation Trust, London, 
+      United Kingdom.
+AD  - Department of Psychological Medicine, Institute of Psychiatry, Psychology and 
+      Neuroscience, King's College London, United Kingdom.
+FAU - Dean, Olivia M
+AU  - Dean OM
+AD  - IMPACT Strategic Research Centre, School of Medicine, Barwon Health, Deakin 
+      University, Geelong, Victoria, Australia.
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+LA  - eng
+GR  - ICA-CL-2017-03-001/DH_/Department of Health/United Kingdom
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191128
+TA  - Can J Psychiatry
+JT  - Canadian journal of psychiatry. Revue canadienne de psychiatrie
+JID - 7904187
+SB  - IM
+MH  - *Bipolar Disorder/drug therapy
+MH  - Dietary Supplements
+MH  - Double-Blind Method
+MH  - Exercise
+MH  - Humans
+MH  - Quality of Life
+MH  - Treatment Outcome
+PMC - PMC7265618
+OAB - Publisher: Abstract available from the publisher.
+OABL- fre
+OTO - NOTNLM
+OT  - *N-acetylcysteine
+OT  - *bipolar depression
+OT  - *bipolar disorder
+OT  - *exercise
+OT  - *mitochondrial agents
+OT  - *nutraceuticals
+OT  - *physical activity
+COIS- Declaration of Conflicting Interests: M.M.A. has received grant/research support 
+      from Deakin University, Australasian Society for Bipolar Depressive Disorders, 
+      Lundbeck, Australian Rotary Health, Ian Parker Bipolar Research Fund, and 
+      Cooperative Research Centre for Mental Health. A.T. has received travel or grant 
+      support from the NHMRC, Deakin University, AMP Foundation, National Stroke 
+      Foundation, Hunter Medical Research Institute, Helen Macpherson Smith Trust, 
+      Schizophrenia Fellowship NSW, SMHR, ISAD, and the University of Newcastle. M.B. has 
+      received grant support from NIH, Simons Autism Foundation, Cancer Council of 
+      Victoria, CRC for Mental Health, Stanley Medical Research Foundation, MBF, NHMRC, 
+      Beyond Blue, Geelong Medical Research Foundation, Bristol Myers Squibb, Eli Lilly, 
+      GlaxoSmithKline, Organon, Novartis, Mayne Pharma, and Servier. M.B. has been a 
+      speaker for Astra Zeneca, Bristol Myers Squibb, Eli Lilly, GlaxoSmithKline, Janssen 
+      Cilag, Lundbeck, Merck, Pfizer, Sanofi Synthelabo, Servier, Solvay and Wyeth, and 
+      served as a consultant to Astra Zeneca, Bristol Myers Squibb, Eli Lilly, 
+      GlaxoSmithKline, Janssen Cilag, Lundbeck, and Servier. C.H.N. had served as a 
+      consultant for Lundbeck, Grunbiotics, Servier, Janssen-Cilag, Wyeth and Eli Lilly, 
+      received research grant support from Wyeth and Lundbeck, and speaker honoraria from 
+      Servier, Lundbeck, Bristol-Myers Squibb, Organon, Eli Lilly, GlaxoSmithKline, 
+      Janssen-Cilag, Astra-Zenaca, Wyeth, and Pfizer. M.H. has received grant support from 
+      ISSCR, Servier, US DOD, and Bionomics, has been a speaker for Janssen-Cilag, 
+      Lundbeck, and Servier, and has been a consultant for AstraZeneca, Eli Lilly, 
+      Janssen-Cilag, Lundbeck, and Servier. J.S. has received either presentation 
+      honoraria, travel support, clinical trial grants, book royalties or independent 
+      consultancy payments from Integria Healthcare & MediHerb, Pfizer, Scius Health, Key 
+      Pharmaceuticals, Taki Mai, Bioceuticals & Blackmores, Soho-Flordis, Healthworld, 
+      HealthEd, HealthMasters, Elsevier, Chaminade University, International Society for 
+      Affective Disorders, Complementary Medicines Australia, Terry White Chemists, ANS, 
+      Society for Medicinal Plant and Natural Product Research, UBiome, Omega-3 Centre, 
+      the National Health and Medical Research Council, CR Roper Fellowship. S.D. has 
+      received grant support from Stanley Medical Research Institute, NHMRC, Beyond Blue, 
+      ARHRF, Simons Foundation, Geelong Medical Research Foundation, Fondation 
+      FondaMental, Eli Lilly, Glaxo SmithKline, Organon, Mayne Pharma, and Servier. He has 
+      received speaker’s fees from Eli Lilly, advisory board fees from Eli Lilly and 
+      Novartis, and conference travel support from Servier. J.S. has received either 
+      presentation honoraria, travel support, clinical trial grants, book royalties or 
+      independent consultancy payments from Integria Healthcare & MediHerb, Pfizer, Scius 
+      Health, Key Pharmaceuticals, Taki Mai, Bioceuticals & Blackmores, Soho-Flordis, 
+      Healthworld, HealthEd, HealthMasters, Elsevier, Chaminade University, International 
+      Society for Affective Disorders, Complementary Medicines Australia, Terry White 
+      Chemists, ANS, Society for Medicinal Plant and Natural Product Research, UBiome, 
+      Omega-3 Centre, the National Health and Medical Research Council, CR Roper 
+      Fellowship. G.S.M. has received grant or research support from National Health and 
+      Medical Research Council, Australian Rotary Health, NSW Health, Ramsay Health, 
+      American Foundation for Suicide Prevention, Ramsay Research and Teaching Fund, 
+      Elsevier, AstraZeneca, and Servier; has been a speaker for AstraZeneca, 
+      Janssen-Cilag, Lundbeck, and Servier; and has been a consultant for AstraZeneca, 
+      Janssen Cilag, Lundbeck, and Servier. S.M.C. has received grant support from the 
+      NHMRC, the Stanley Medical Research Institute, BeyondBlue, Movember, The University 
+      of Melbourne, Australian Catholic University, ARHRF, and Mental Illness Research 
+      Fund (Victoria Department of Human Services). O.M.D. is a R.D. Wright Biomedical 
+      Research Fellow and has received grant support from the Brain and Behavior 
+      Foundation, Simons Autism Foundation, Stanley Medical Research Institute, Deakin 
+      University, Lilly, NHMRC and Australasian Society for Bipolar and Depressive 
+      Disorders (ASBDD)/Servier.
+EDAT- 2019/11/30 06:00
+MHDA- 2021/08/19 06:00
+CRDT- 2019/11/29 06:00
+PHST- 2019/11/30 06:00 [pubmed]
+PHST- 2021/08/19 06:00 [medline]
+PHST- 2019/11/29 06:00 [entrez]
+AID - 10.1177_0706743719889547 [pii]
+AID - 10.1177/0706743719889547 [doi]
+PST - ppublish
+SO  - Can J Psychiatry. 2020 May;65(5):306-318. doi: 10.1177/0706743719889547. Epub 2019 
+      Nov 28.
+
+PMID- 17716868
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071203
+LR  - 20141120
+IS  - 0899-9007 (Print)
+IS  - 0899-9007 (Linking)
+VI  - 23
+IP  - 10
+DP  - 2007 Oct
+TI  - The hype surrounding nutraceutical supplements: do consumers get what they deserve?
+PG  - 771-2
+FAU - Lockwood, George B
+AU  - Lockwood GB
+AD  - School of Pharmacy & Pharmaceutical Sciences, Manchester, United Kingdom. 
+      george.lockwood@manchester.ac.uk
+LA  - eng
+PT  - Journal Article
+DEP - 20070823
+PL  - United States
+TA  - Nutrition
+JT  - Nutrition (Burbank, Los Angeles County, Calif.)
+JID - 8802712
+SB  - IM
+MH  - *Consumer Behavior
+MH  - *Consumer Product Safety
+MH  - Dietary Supplements/adverse effects/*standards
+MH  - Drug Interactions
+MH  - Evidence-Based Medicine
+MH  - Humans
+EDAT- 2007/08/25 09:00
+MHDA- 2007/12/06 09:00
+CRDT- 2007/08/25 09:00
+PHST- 2007/07/01 00:00 [received]
+PHST- 2007/07/01 00:00 [accepted]
+PHST- 2007/08/25 09:00 [pubmed]
+PHST- 2007/12/06 09:00 [medline]
+PHST- 2007/08/25 09:00 [entrez]
+AID - S0899-9007(07)00238-9 [pii]
+AID - 10.1016/j.nut.2007.07.004 [doi]
+PST - ppublish
+SO  - Nutrition. 2007 Oct;23(10):771-2. doi: 10.1016/j.nut.2007.07.004. Epub 2007 Aug 23.

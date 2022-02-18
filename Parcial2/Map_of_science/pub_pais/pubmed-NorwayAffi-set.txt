@@ -1,0 +1,475 @@
+PMID- 34923082
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220216
+LR  - 20220216
+IS  - 1873-2976 (Electronic)
+IS  - 0960-8524 (Linking)
+VI  - 347
+DP  - 2022 Mar
+TI  - Nutraceutical productions from microalgal derived compounds via circular bioeconomy 
+      perspective.
+PG  - 126575
+LID - S0960-8524(21)01917-9 [pii]
+LID - 10.1016/j.biortech.2021.126575 [doi]
+AB  - Circular bioeconomy has become a sustainable business model for commercial 
+      production that promises to reuse, recycle & recover while considering less 
+      environmental footprints in nutraceutical industries. Microalgae biotechnology has 
+      the synergy to bioremediate waste stream while generating high-value-added compounds 
+      such as astaxanthin, protein and polyunsaturated fatty acids that are potential 
+      compounds used in various industries, thus, the integration of this approach 
+      provides economic advantages. However, since the industrial production of these 
+      compounds is costly and affected byunstable climate in the Nordic regions such as 
+      low temperature, light intensity, and polar circle, the focus of biosynthesis has 
+      shifted from less tolerant commercial strains towards indigenous strains. 
+      Nutraceutical productions such as polyunsaturated fatty acids and protein can now be 
+      synthesized at low temperatures which significantly improve the industry's economy. 
+      In this review, the above-mentioned compounds with potential strains were discussed 
+      based on a Nordic region's perspective.
+CI  - Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Huy, Menghour
+AU  - Huy M
+AD  - Department of Chemistry, Bioscience, and Environmental Engineering, Faculty of 
+      Science and Technology, University of Stavanger, Box 8600 Forus, 4036 Stavanger, 
+      Norway.
+FAU - Kristin Vatland, Ann
+AU  - Kristin Vatland A
+AD  - Department of Chemistry, Bioscience, and Environmental Engineering, Faculty of 
+      Science and Technology, University of Stavanger, Box 8600 Forus, 4036 Stavanger, 
+      Norway.
+FAU - Kumar, Gopalakrishnan
+AU  - Kumar G
+AD  - Department of Chemistry, Bioscience, and Environmental Engineering, Faculty of 
+      Science and Technology, University of Stavanger, Box 8600 Forus, 4036 Stavanger, 
+      Norway. Electronic address: gopalakrishnan.kumar@uis.no.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211216
+PL  - England
+TA  - Bioresour Technol
+JT  - Bioresource technology
+JID - 9889523
+RN  - 0 (Fatty Acids, Unsaturated)
+SB  - IM
+MH  - Biomass
+MH  - Biotechnology
+MH  - Dietary Supplements
+MH  - Fatty Acids, Unsaturated
+MH  - *Microalgae
+OTO - NOTNLM
+OT  - Astaxanthin
+OT  - Indigenous strains
+OT  - Microalgae
+OT  - Polyunsaturated fatty acid
+OT  - Protein
+EDAT- 2021/12/20 06:00
+MHDA- 2022/02/17 06:00
+CRDT- 2021/12/19 20:45
+PHST- 2021/11/02 00:00 [received]
+PHST- 2021/12/10 00:00 [revised]
+PHST- 2021/12/11 00:00 [accepted]
+PHST- 2021/12/20 06:00 [pubmed]
+PHST- 2022/02/17 06:00 [medline]
+PHST- 2021/12/19 20:45 [entrez]
+AID - S0960-8524(21)01917-9 [pii]
+AID - 10.1016/j.biortech.2021.126575 [doi]
+PST - ppublish
+SO  - Bioresour Technol. 2022 Mar;347:126575. doi: 10.1016/j.biortech.2021.126575. Epub 
+      2021 Dec 16.
+
+PMID- 29243634
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 132
+IP  - 3
+DP  - 2012 Jun 1
+TI  - Phenolic composition and nutraceutical properties of organic and conventional 
+      cinnamon and peppermint.
+PG  - 1442-1450
+LID - S0308-8146(11)01739-0 [pii]
+LID - 10.1016/j.foodchem.2011.11.135 [doi]
+AB  - Conventional and organic cinnamon and peppermint were investigated for their 
+      phenolic profile, anti-proliferative, anti-inflammatory, and antioxidant properties. 
+      Accelerated solvent extraction with 75% acetone was used to extract samples. Caffeic 
+      acid was the most abundant phenolic acid in peppermint. Catechin, 
+      (-)-epigallocatechin gallate, syringic acid, gallic acid, vanillic acid, and 
+      p-coumaric acid were also detected in both spices. There was no significant 
+      difference between conventional and organic spices in the composition of most 
+      individual phenolics. All conventional and organic peppermint and cinnamon extracts 
+      exhibited strong anti-proliferative and anti-inflammatory properties. Cinnamon was 
+      more efficient in inhibiting IL-1β and COX-2 expression, while peppermint showed 
+      better inhibitory effect on IL-6 and MCP-1. This study indicates that cinnamon and 
+      peppermint may potentially be used as dietary sources of bioactive phytochemicals 
+      for improving health.
+CI  - Copyright © 2011 Elsevier Ltd. All rights reserved.
+FAU - Lv, Junli
+AU  - Lv J
+AD  - Department of Nutrition and Food Science, University of Maryland, College Park, MD, 
+      USA.
+FAU - Huang, Haiqiu
+AU  - Huang H
+AD  - Department of Nutrition and Food Science, University of Maryland, College Park, MD, 
+      USA.
+FAU - Yu, Lu
+AU  - Yu L
+AD  - Department of Nutrition and Food Science, University of Maryland, College Park, MD, 
+      USA.
+FAU - Whent, Monica
+AU  - Whent M
+AD  - Department of Nutrition and Food Science, University of Maryland, College Park, MD, 
+      USA.
+FAU - Niu, Yuge
+AU  - Niu Y
+AD  - Department of Nutrition and Food Science, University of Maryland, College Park, MD, 
+      USA; Key Lab of Urban Agriculture (South), School of Agriculture and Biology, 
+      Shanghai Jiao Tong University, Shanghai 200240, China.
+FAU - Shi, Haiming
+AU  - Shi H
+AD  - Key Lab of Urban Agriculture (South), School of Agriculture and Biology, Shanghai 
+      Jiao Tong University, Shanghai 200240, China.
+FAU - Wang, Thomas T Y
+AU  - Wang TTY
+AD  - Diet, Genomics and Immunology Lab, Beltsville Human Nutrition Research Center, USDA, 
+      Beltsville, MD, USA.
+FAU - Luthria, Devanand
+AU  - Luthria D
+AD  - USDA, Agricultural Research Service, Beltsville Human Nutrition Research Center, 
+      Food Composition and Methods Development Laboratory, Beltsville, MD, USA. Electronic 
+      address: dave.luthria@ars.usda.gov.
+FAU - Charles, Denys
+AU  - Charles D
+AD  - Frontier Natural Products Co-op, Norway, IA, USA.
+FAU - Yu, Liangli Lucy
+AU  - Yu LL
+AD  - Department of Nutrition and Food Science, University of Maryland, College Park, MD, 
+      USA; Key Lab of Urban Agriculture (South), School of Agriculture and Biology, 
+      Shanghai Jiao Tong University, Shanghai 200240, China. Electronic address: 
+      lyu5@umd.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20111208
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+OTO - NOTNLM
+OT  - Accelerated solvent extractor
+OT  - Anti-inflammation
+OT  - Anti-proliferation
+OT  - Antioxidant
+OT  - Cinnamon
+OT  - Peppermint
+OT  - Phenolics
+EDAT- 2012/06/01 00:00
+MHDA- 2012/06/01 00:01
+CRDT- 2017/12/16 06:00
+PHST- 2011/09/29 00:00 [received]
+PHST- 2011/11/02 00:00 [revised]
+PHST- 2011/11/30 00:00 [accepted]
+PHST- 2017/12/16 06:00 [entrez]
+PHST- 2012/06/01 00:00 [pubmed]
+PHST- 2012/06/01 00:01 [medline]
+AID - S0308-8146(11)01739-0 [pii]
+AID - 10.1016/j.foodchem.2011.11.135 [doi]
+PST - ppublish
+SO  - Food Chem. 2012 Jun 1;132(3):1442-1450. doi: 10.1016/j.foodchem.2011.11.135. Epub 
+      2011 Dec 8.
+
+PMID- 31555653
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2296-861X (Print)
+IS  - 2296-861X (Electronic)
+IS  - 2296-861X (Linking)
+VI  - 6
+DP  - 2019
+TI  - Nutraceutical Characterization of Anthocyanin-Rich Fruits Produced by "Sun Black" 
+      Tomato Line.
+PG  - 133
+LID - 10.3389/fnut.2019.00133 [doi]
+LID - 133
+AB  - Tomato (Solanum lycopersicum L.) is one of the most cultivated vegetable in the 
+      world and it represents a large source of bioactive compounds, including carotenoids 
+      and polyphenols (phenolic acids and flavonoids). However, the concentration of 
+      flavonoids in tomato is considered sub-optimal, particularly because anthocyanins 
+      are not generally present. Therefore, this crop has been the object of an intense 
+      metabolic engineering in order to obtain anthocyanin-enriched tomatoes by using 
+      either breeding or transgenic strategies. Some wild tomato species, such as S. 
+      chilense and S. cheesmaniae, biosynthesize anthocyanins in the fruit sub-epidermal 
+      tissue, and some alleles from those genotypes have been introgressed into a new 
+      developed purple tomato line, called "Sun Black" (SB). It is a tomato line with a 
+      purple skin color, both in green and in red fruit stages, due to the biosynthesis of 
+      anthocyanins in the peel, and a normal red color pulp, with a taste just like a 
+      traditional tomato. SB is the result of a breeding programme and it is not a 
+      genetically modified (GM) product. We report the chemical characterization and 
+      structure elucidation of the attractive anthocyanins found in the peel of SB tomato, 
+      as well as other bioactive compounds (carotenoids, polyphenols, vitamin C) of the 
+      whole fruit. Using one- and two-dimensional NMR experiments, the two main 
+      anthocyanins were identified to be petunidin 
+      3-O-[6″-O-(4(‴)-O-E-p-coumaroyl-α-rhamnopyranosyl) 
+      -β-glucopyranoside]-5-O-β-glucopyranoside (petanin) and malvidin 
+      3-O-[6″-O-(4(‴)-O-E-p-coumaroyl-α-rhamnopyranosyl)-β-glucopyranoside]-5-O-β-glucopyranoside 
+      (negretein). The total anthocyanins in the whole ripe fruit was 1.2 mg/g dry weight 
+      (DW); 7.1 mg/100 g fresh weight (FW). Chlorogenic acid (the most abundant phenolic 
+      acid) was 0.6 mg/g DW; 3.7 mg/100 g FW. The main flavonol, rutin was 0.8 mg/g DW; 5 
+      mg/100 g FW. The total carotenoid content was 211.3 μg/g DW; 1,268 μg/100 g FW. The 
+      total phenolic content was 8.6 mg/g DW; 52.2 mg/100 g FW. The vitamin C content was 
+      37.3 mg/100 g FW. The antioxidant activities as measured by the TEAC and ORAC assays 
+      were 31.6 and 140.3 μmol TE/g DW, respectively (193 and 855.8 μmol TE/100 g FW, 
+      respectively). The results show the unique features of this new tomato genotype with 
+      nutraceutical properties.
+FAU - Blando, Federica
+AU  - Blando F
+AD  - Institute of Sciences of Food Production, (ISPA), CNR, Lecce, Italy.
+FAU - Berland, Helge
+AU  - Berland H
+AD  - Department of Chemistry, University of Bergen, Bergen, Norway.
+FAU - Maiorano, Gabriele
+AU  - Maiorano G
+AD  - Institute of Sciences of Food Production, (ISPA), CNR, Lecce, Italy.
+FAU - Durante, Miriana
+AU  - Durante M
+AD  - Institute of Sciences of Food Production, (ISPA), CNR, Lecce, Italy.
+FAU - Mazzucato, Andrea
+AU  - Mazzucato A
+AD  - Department of Agriculture and Forest Sciences, University of Tuscia, Viterbo, Italy.
+FAU - Picarella, Maurizio E
+AU  - Picarella ME
+AD  - Department of Agriculture and Forest Sciences, University of Tuscia, Viterbo, Italy.
+FAU - Nicoletti, Isabella
+AU  - Nicoletti I
+AD  - Institute for Biological Systems (ISB), CNR, Rome, Italy.
+FAU - Gerardi, Carmela
+AU  - Gerardi C
+AD  - Institute of Sciences of Food Production, (ISPA), CNR, Lecce, Italy.
+FAU - Mita, Giovanni
+AU  - Mita G
+AD  - Institute of Sciences of Food Production, (ISPA), CNR, Lecce, Italy.
+FAU - Andersen, Øyvind M
+AU  - Andersen ØM
+AD  - Department of Chemistry, University of Bergen, Bergen, Norway.
+LA  - eng
+PT  - Journal Article
+DEP - 20190828
+TA  - Front Nutr
+JT  - Frontiers in nutrition
+JID - 101642264
+PMC - PMC6722425
+OTO - NOTNLM
+OT  - anthocyanins
+OT  - bioactive compounds
+OT  - functional food
+OT  - tomato
+OT  - tomato breeding
+EDAT- 2019/09/27 06:00
+MHDA- 2019/09/27 06:01
+CRDT- 2019/09/27 06:00
+PHST- 2019/04/30 00:00 [received]
+PHST- 2019/08/09 00:00 [accepted]
+PHST- 2019/09/27 06:00 [entrez]
+PHST- 2019/09/27 06:00 [pubmed]
+PHST- 2019/09/27 06:01 [medline]
+AID - 10.3389/fnut.2019.00133 [doi]
+PST - epublish
+SO  - Front Nutr. 2019 Aug 28;6:133. doi: 10.3389/fnut.2019.00133. eCollection 2019.
+
+PMID- 27187449
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170214
+LR  - 20210617
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 8
+IP  - 5
+DP  - 2016 May 11
+TI  - Nutraceutical with Resveratrol and Omega-3 Fatty Acids Induces Autophagy in ARPE-19 
+      Cells.
+LID - 10.3390/nu8050284 [doi]
+LID - 284
+AB  - Impaired autophagic and proteasomal cleansing have been documented in aged retinal 
+      pigment epithelial (RPE) cells and age-related macular degeneration (AMD). Omega-3 
+      fatty acids and resveratrol have many positive homeostatic effects in RPE cells. In 
+      this work, ARPE-19 cells were treated with 288 ng of Resvega, containing 30 mg of 
+      trans resveratrol and 665 mg of omega-3 fatty acids, among other nutrients, with 
+      proteasome inhibitor MG-132 or autophagy inhibitor bafilomycin A1 up to 48 h. 
+      Autophagy markers p62/SQSTM1 (p62) and LC3 (microtubule-associated protein 
+      1A/1B-light chain 3) were analyzed by Western blotting. Fluorescence microscopy with 
+      mCherry-GFP-LC3 plasmid was applied to study the autophagy flux, and cytoprotective 
+      effects were investigated with colorimetric MTT and LDH assays. Resvega induced 
+      autophagy by showing increased autolysosome formation and autophagy flux, and the 
+      change in the p62 and LC3 protein levels further confirmed the fluorescent 
+      microscopy results. Moreover, Resvega provided a clear cytoprotection under 
+      proteasome inhibition. These findings highlight the potential of the nutraceuticals 
+      containing resveratrol, omega-3 fatty acids and other nutrients in the prevention of 
+      ARPE-19 cell damage.
+FAU - Koskela, Ali
+AU  - Koskela A
+AD  - Department of Ophthalmology, University of Eastern Finland, Kuopio 70211, Finland. 
+      ali.koskela@uef.fi.
+FAU - Reinisalo, Mika
+AU  - Reinisalo M
+AD  - School of Pharmacy, University of Eastern Finland, Kuopio 70211, Finland. 
+      mika.reinisalo@uef.fi.
+FAU - Petrovski, Goran
+AU  - Petrovski G
+AD  - Stem Cells and Eye Research Laboratory, Department of Ophthalmology, Faculty of 
+      Medicine, University of Szeged, Szeged 6720, Hungary. 
+      goran.petrovski@medisin.uio.no.
+AD  - Centre of Eye Research, Department of Ophthalmology, Oslo University Hospital, 
+      University of Oslo, Oslo 0450, Norway. goran.petrovski@medisin.uio.no.
+FAU - Sinha, Debasish
+AU  - Sinha D
+AD  - Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD 
+      21287, USA. debasish@jhmi.edu.
+FAU - Olmiere, Céline
+AU  - Olmiere C
+AD  - Laboratoires Théa, Clermond-Ferrand cedex 63 000, France. 
+      c.olmiere@laboratoires-thea.fr.
+FAU - Karjalainen, Reijo
+AU  - Karjalainen R
+AD  - Department of Biology, University of Eastern Finland, Kuopio 70211, Finland. 
+      reijo.karjalainen@uef.fi.
+FAU - Kaarniranta, Kai
+AU  - Kaarniranta K
+AD  - Department of Ophthalmology, University of Eastern Finland, Kuopio 70211, Finland. 
+      kai.kaarniranta@uef.fi.
+AD  - Department of Ophthalmology, Kuopio University Hospital, Kuopio 70029, Finland. 
+      kai.kaarniranta@uef.fi.
+LA  - eng
+PT  - Journal Article
+DEP - 20160511
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Fatty Acids, Omega-3)
+RN  - 0 (Leupeptins)
+RN  - 0 (MAP1LC3A protein, human)
+RN  - 0 (Macrolides)
+RN  - 0 (Microtubule-Associated Proteins)
+RN  - 0 (P62 protein, human)
+RN  - 0 (RNA-Binding Proteins)
+RN  - 0 (Stilbenes)
+RN  - 88899-55-2 (bafilomycin A1)
+RN  - Q369O8926L (Resveratrol)
+RN  - RF1P63GW3K (benzyloxycarbonylleucyl-leucyl-leucine aldehyde)
+SB  - IM
+MH  - Autophagy/*drug effects
+MH  - Cell Line
+MH  - Cell Survival/drug effects
+MH  - Dietary Supplements/*analysis
+MH  - Enzyme Inhibitors/administration & dosage/pharmacology
+MH  - Fatty Acids, Omega-3/administration & dosage/chemistry/*pharmacology
+MH  - Gene Expression Regulation/drug effects
+MH  - Humans
+MH  - Leupeptins/pharmacology
+MH  - Macrolides/administration & dosage/pharmacology
+MH  - Microtubule-Associated Proteins/genetics/metabolism
+MH  - RNA-Binding Proteins/genetics/metabolism
+MH  - Resveratrol
+MH  - Stilbenes/administration & dosage/chemistry/*pharmacology
+PMC - PMC4882697
+OTO - NOTNLM
+OT  - LC3
+OT  - autophagy
+OT  - omega-3
+OT  - p62/SQSTM1
+OT  - proteasome
+OT  - resveratrol
+EDAT- 2016/05/18 06:00
+MHDA- 2017/02/15 06:00
+CRDT- 2016/05/18 06:00
+PHST- 2016/02/27 00:00 [received]
+PHST- 2016/04/29 00:00 [revised]
+PHST- 2016/05/05 00:00 [accepted]
+PHST- 2016/05/18 06:00 [entrez]
+PHST- 2016/05/18 06:00 [pubmed]
+PHST- 2017/02/15 06:00 [medline]
+AID - nu8050284 [pii]
+AID - nutrients-08-00284 [pii]
+AID - 10.3390/nu8050284 [doi]
+PST - epublish
+SO  - Nutrients. 2016 May 11;8(5):284. doi: 10.3390/nu8050284.
+
+PMID- 34540877
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210921
+IS  - 2296-861X (Print)
+IS  - 2296-861X (Electronic)
+IS  - 2296-861X (Linking)
+VI  - 8
+DP  - 2021
+TI  - A Nutraceutical Formula Is Effective in Raising the Circulating Vitamin and Mineral 
+      Levels in Healthy Subjects: A Randomized Trial.
+PG  - 703394
+LID - 10.3389/fnut.2021.703394 [doi]
+LID - 703394
+AB  - Low levels of nutrient intake are common in industrialized countries. This has 
+      negative implications on health and is associated with chronic diseases. 
+      Supplementation of vitamins, minerals, and key nutrients to optimal levels may, 
+      therefore, be beneficial for individual health and for the health economy. Although 
+      the use of supplements has become very common, due to a lack of monitoring, there is 
+      very limited data on the efficacy of supplementation with different formulas. In 
+      this study, we present the results of a randomized controlled study on the efficacy 
+      of a novel formulated nutraceutical, N247, in 250 healthy volunteers aged 26-75 
+      years and a placebo control group (n = 35). The broad-spectrum formulation of N247 
+      includes essential vitamins, minerals, and trace elements that are adequately 
+      balanced in regard to synergies and related metabolic functions. Moreover, 
+      tolerance, safety, and nutrient availability is an important aspect of daily, 
+      long-term use of N247. After 3 months of regular N247 use, levels of vitamins and 
+      minerals in serum were significantly increased in the N247 group compared with the 
+      control group and a placebo group, with excellent compliance rates. Coupled with 
+      additional natural ingredients that aim to increase the potency of the nutrients, 
+      N247 may represent a novel and beneficial supplement for individuals with 
+      nutritional deficiencies. Clinical Trial Registration:https://clinicaltrials.gov/, 
+      identifier: NCT04054505.
+CI  - Copyright © 2021 Nenseth, Sahu, Saatcioglu and Osguthorpe.
+FAU - Nenseth, Hatice Zeynep
+AU  - Nenseth HZ
+AD  - Department of Biosciences, University of Oslo, Oslo, Norway.
+FAU - Sahu, Aparna
+AU  - Sahu A
+AD  - Turiyan Psyneuronics Pvt. Ltd, Bangalore, India.
+FAU - Saatcioglu, Fahri
+AU  - Saatcioglu F
+AD  - Department of Biosciences, University of Oslo, Oslo, Norway.
+FAU - Osguthorpe, Steven
+AU  - Osguthorpe S
+AD  - Optimal Health Research, Salt Lake City, UT, United States.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04054505
+PT  - Case Reports
+DEP - 20210901
+TA  - Front Nutr
+JT  - Frontiers in nutrition
+JID - 101642264
+PMC - PMC8440802
+OTO - NOTNLM
+OT  - clinical trial
+OT  - minerals
+OT  - nutraceuticals
+OT  - supplementation
+OT  - vitamins
+COIS- SO is employed by the company Optimal Health Research. SO is married to Dianne 
+      Osguthorpe, the owner of ReaLifeResources, Inc, which is the owner of N247, the 
+      subject matter of this manuscript. The remaining authors declare that the research 
+      was conducted in the absence of any commercial or financial relationships that could 
+      be construed as a potential conflict of interest.
+EDAT- 2021/09/21 06:00
+MHDA- 2021/09/21 06:01
+CRDT- 2021/09/20 06:14
+PHST- 2021/04/30 00:00 [received]
+PHST- 2021/07/23 00:00 [accepted]
+PHST- 2021/09/20 06:14 [entrez]
+PHST- 2021/09/21 06:00 [pubmed]
+PHST- 2021/09/21 06:01 [medline]
+AID - 10.3389/fnut.2021.703394 [doi]
+PST - epublish
+SO  - Front Nutr. 2021 Sep 1;8:703394. doi: 10.3389/fnut.2021.703394. eCollection 2021.
