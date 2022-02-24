@@ -70,23 +70,24 @@ def mining_pubs(keyword,tipo):
         pmid_dict.append(pubmedid)
         
         if tipo=='AU':
-        #mostrar los autores
-        autores=record['AU']
-        au_dict.append(autores)
-        #generar la sumatoria de autores
-        contador=[len (i) for i in au_dict ]
-        return df_autores=pd.DataFrame(list(zip(pmid_dict,contador)),columns=['PMID','num_auth'])
+            #mostrar los autores
+            autores=record['AU']
+            au_dict.append(autores)
+            #generar la sumatoria de autores
+            contador=[len (i) for i in au_dict ]
+            df_autores=pd.DataFrame(list(zip(pmid_dict,contador)),columns=['PMID','num_auth'])
         
-        if tipo=='AD'
-        #mostrar los paises
-        paises=record['AD'] #He estado usando AD y me da SYNTAX ERROR
-        ad_dict.append(paises)
-        return df_paises=pd.DataFrame(list(zip(ad_dict,contador)),columns=['country','num_auth'])
+        elif tipo=='AD':
+            #mostrar los paises
+            paises=record['AD'] #He estado usando AD y me da SYNTAX ERROR
+            ad_dict.append(paises)
+            df_paises=pd.DataFrame(list(zip(ad_dict,contador)),columns=['country','num_auth'])
 
-        if tipo=='DP'
-        #mostrar la fecha
-        fecha=record['DP']
-        dp_dict.append(fecha)
-        #crear los data frames a partir de las listas obtenidas
-        return df_fecha=pd.DataFrame(list(zip(pmid_dict,dp_dict)),columns=['PMID','DP_year'])
-
+        elif tipo=='DP':
+            #mostrar la fecha
+            fecha=record['DP']
+            dp_dict.append(fecha)
+            #crear los data frames a partir de las listas obtenidas
+            df_fecha=pd.DataFrame(list(zip(pmid_dict,dp_dict)),columns=['PMID','DP_year'])
+        else:
+            print("Tipo invalido")
